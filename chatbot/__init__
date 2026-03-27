@@ -1,0 +1,1 @@
+self.retriever = FaissRetriever(project_root)

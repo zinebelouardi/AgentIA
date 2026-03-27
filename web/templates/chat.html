@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-head">
+  <div>
+    <h1 class="page-title">Chatbot Cosmetovigilance</h1>
+    <p class="page-sub">RAG + Gemini — réponses basées sur les sources récupérées.</p>
+  </div>
+
+  <div class="page-actions">
+    <label class="field">
+      <span class="field-label">Top-K</span>
+      <select id="topK" class="select">
+        <option value="3">3</option>
+        <option value="5" selected>5</option>
+        <option value="8">8</option>
+        <option value="12">12</option>
+      </select>
+    </label>
+
+    <button id="clearBtn" class="btn btn-ghost">Effacer</button>
+  </div>
+</div>
+
+<div class="layout-2">
+  <!-- Chat -->
+  <section class="panel">
+    <div class="panel-head">
+      <div class="panel-title">
+        <span class="dot dot-green"></span>
+        Conversation
+      </div>
+      <div class="panel-meta" id="statusLine">Prêt.</div>
+    </div>
+
+    <div class="chat-wrap" id="chatWindow">
+      <!-- messages -->
+      <div class="chat-empty" id="chatEmpty">
+        <div class="chat-empty-icon">💬</div>
+        <div class="chat-empty-title">Pose une question</div>
+        <div class="chat-empty-sub">Ex: “Quels sont les allergènes les plus fréquents ?”</div>
+      </div>
+    </div>
+
+    <div class="composer">
+      <div class="composer-row">
+        <textarea id="question" class="composer-input" rows="2"
+          placeholder="Écris ta question… (Entrée pour envoyer, Shift+Entrée pour nouvelle ligne)"></textarea>
+        <button id="sendBtn" class="btn btn-primary">Envoyer</button>
+      </div>
+      <div class="composer-hint">
+        Les réponses doivent être justifiées par les sources. Si non trouvé → le bot le dira.
+      </div>
+    </div>
+  </section>
+
+  <!-- Sources -->
+  <section class="panel">
+    <div class="panel-head">
+      <div class="panel-title">
+        <span class="dot dot-blue"></span>
+        Sources (Top-K)
+      </div>
+      <div class="panel-meta" id="sourcesMeta">—</div>
+    </div>
+
+    <div class="sources-wrap" id="sources">
+      <div class="sources-empty muted">
+        Les sources récupérées s’afficheront ici (titre, page, score, extrait).
+      </div>
+    </div>
+  </section>
+</div>
+
+<script src="{{ url_for('static', filename='chat.js') }}"></script>
+{% endblock %}

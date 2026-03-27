@@ -1,0 +1,844 @@
+=== Page 1 ===
+628 |  
+﻿
+J Cosmet Dermatol. 2023;22:628–636.
+wileyonlinelibrary.com/journal/jocd
+Received: 27 May 2022 | Revised: 17 August 2022 | Accepted: 19 August 2022
+DOI: 10.1111/jocd.15321 
+O R I G I N A L A R T I C L E
+Content and stability of B complex vitamins in commercial 
+cosmetic products
+Žane Temova Rakuša PhD
+ | Anja Šenk BS | Robert Roškar PhD
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction 
+in any medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2022 The Authors. Journal of Cosmetic Dermatology published by Wiley Periodicals LLC.
+University of Ljubljana, Faculty of 
+Pharmacy, Ljubljana, Slovenia
+Correspondence
+Robert Roškar, Faculty of Pharmacy, 
+University of Ljubljana, Aškerčeva cesta 7, 
+1000 Ljubljana, Slovenia.
+Email: robert.roskar@ffa.uni-lj.si
+Funding information
+Javna Agencija za Raziskovalno Dejavnost 
+RS, Grant/Award Number: P1-­0189
+Abstract
+Background: Individual B vitamins have many favorable effects on the skin and are 
+common cosmetic ingredients. However, their formulation is demanding due to stabil-
+ity issues, which consequently affect the products’ quality.
+Aims: We aimed to determine the quality (labeling accuracy, content determination, 
+and content-­related quality control) and stability under long-­term and accelerated 
+storage conditions of a representative sample of commercial cosmetics contain-
+ing the most common B vitamins –­ nicotinamide, dexpanthenol, pyridoxine, and 
+cyanocobalamin.
+Methods: Cyanocobalamin was determined by a previously published stability-­
+indicating HPLC–­ diode array detector (DAD) method for the simultaneous determi-
+nation of all hydrophilic vitamins. This method was additionally simplified and adjusted 
+for the time-­effective analysis of nicotinamide, dexpanthenol, and pyridoxine. Both 
+methods were properly validated.
+Results: All labeled B vitamins were present in the 36 tested products, mostly in con-
+tents, reported effective on the skin. Thus, a straightforward correlation between 
+vitamin contents and product prices were not observed. The content-­related quality 
+control of eight products, which quantitively specify their content, revealed signifi-
+cantly lower nicotinamide contents (47% and 57%) in two products and appropriate 
+or higher nicotinamide (102%–­112%) and dexpanthenol (100%–­104%) contents than 
+declared in the remaining products. The 6-­month long-­term and accelerated stability 
+studies demonstrated the products’ physical stability, but also revealed dexpanthenol, 
+pyridoxine, and cyanocobalamin degradation, while nicotinamide was mostly stable in 
+the tested products.
+Conclusions: The obtained results provide an inside into the quality of commercial vi-
+tamin B cosmetics and highlight the importance of stability testing in the formulation 
+of quality, efficient, and safe cosmetics.
+K E Y W O R D S
+cosmeceuticals, cosmetic formulation, D-­panthenol, niacinamide (nicotinamide), stability, 
+vitamin B3
+
+=== Page 2 ===
+|  629
+TEMOVA RAKUŠA et al.
+1  |  INTRODUCTION
+B complex vitamins constitute a group of eight compounds includ-
+ing thiamin, riboflavin, niacin, pantothenic acid, pyridoxine, biotin, 
+folate, and cobalamin, with several specific functions in the human 
+body. All B complex vitamins have also found their place in the 
+cosmetic industry. While some are mostly used as excipients (e.g., 
+riboflavin as colorant), others are established (nicotinamide, dexpan-
+thenol, and biotin) or upcoming (thiamin, pyridoxine, folic acid, and 
+cyanocobalamin) topical agents in dermatology and cosmetology 
+with valuable effects on the skin.
+Thiamin and riboflavin are used in the treatment of rosacea and 
+seborrheic diseases, due to the antipruritic effect of thiamine and 
+the anti-­inflammatory effect of riboflavin.1 Because of the various 
+beneficial effects on the skin, niacin in the form of nicotinamide 
+is widely used as the (cosmetically) active ingredient in cosmetic 
+and dermatological formulations. Nicotinamide has anti-­microbial, 
+anti-­inflammatory, antipruritic, vasoactive, lightening, barrier-­ and 
+photo-­protective, and sebostatic effects on the skin.2 Therefore, it 
+is effective in the treatment of acne, atopic dermatitis, skin aging, 
+melasma, light damage of the skin, hyperpigmentation, psoriasis, 
+pellagra, nonmelanoma skin cancer, and other skin diseases and con-
+ditions.2,3 Similarly, topical use of dexpanthenol, the alcohol analog 
+of pantothenic acid, is widespread for the treatment and care of 
+damaged skin, wound healing, atopic dermatitis, dermatitis, and scar 
+management, due to its moisturizing, anti-­inflammatory and effects 
+on fibroblast proliferation.4 Pyridoxine has been recently found to 
+specifically increase filaggrin transcription and production in the 
+skin, making it a candidate for the treatment of atopic dermatitis.5 
+Biotin acts as a hair and skin-­conditioning (miscellaneous) agent and 
+is thus commonly found in hair conditioners and masks as well as 
+skincare products.1,6 Folic acid is an upcoming agent in the treat-
+ment of photodamaged and aged skin due to its involvement in cell 
+replication, regulation of gene activity, and skin renewal.7 The topical 
+application of vitamin B12 is also a new approach in the treatment 
+of atopic dermatitis and childhood eczema. Its beneficial effects are 
+mediated through suppression of cytokine production, cell prolifera-
+tion enhancement, and modulation of lymphocyte activity.8,9
+Due to the many beneficial effects on the skin, B complex vita-
+mins are common ingredients, added in different amounts in various 
+cosmetic products, depending on their form and intended use. The 
+main challenge associated with the formulation of B complex vita-
+mins is assuring their stability. Most B complex vitamins are unstable 
+and sensitive to various environmental factors (heat, oxygen, and 
+light).10,11 Their instability in cosmetic products may lead to their 
+degradation, which affects the quality and also efficacy, and safety 
+of the product. The instability of B complex vitamins may also be as-
+sociated with the formation of degradation products with different 
+and unwanted effects on the skin. Typical examples include the hy-
+drolysis of niacinamide and nicotinate esters to nicotinic acid, which 
+induces intense skin reddening even at low concentrations,11 folic 
+acid photodegradation to 6-­formylpterin and pterin-­6-­carboxylic 
+acid, which are associated with the generation of reactive oxygen 
+species and skin photocarcinogenesis,12 and the photodegradation 
+of pyridoxine to phototoxic products, associated with skin pho-
+todamage and carcinogenesis.13
+Cosmetic products on the EU market are not subject to regular 
+quality control by the authorities, and their quality depends on the 
+manufacturer. Cosmetics in the EU are regulated under Regulation EC 
+1223/2009, which states that their sampling and analysis should be 
+carried out in a reproducible and standardized manner to ensure the 
+uniform application and control of the restrictions for substances,14 
+whereas control of the active ingredients content and stability evalua-
+tion are not required. Therefore, the growth of the cosmetic products 
+market is accompanied by a growing concern regarding their quality by 
+their users, some (accountable) manufacturers, and the scientific pub-
+lic. The latter suggests stricter regulation and quality control, following 
+the principles of the pharmaceutical industry and using an appropriate 
+analytical methodology.15–­17 While there are some publications on 
+the quality control and stability evaluation of lipophilic vitamins in 
+commercial cosmetic products,15,16,18 such studies have not yet been 
+reported for B complex vitamins. Considering their instability and its 
+association with the quality, efficacy, and safety of cosmetic prod-
+ucts, we aimed to determine the quality and stability of a represen-
+tative sample of commercial leave-­on cosmetic products containing 
+the most common B complex vitamins—­nicotinamide, dexpanthenol, 
+pyridoxine, and cyanocobalamin. For such purposes, we used proper 
+analytical methodology, based on conventional HPLC–­DAD systems.
+2  |  MATERIALS AND METHODS
+2.1  |  Chemicals and reagents
+Nicotinamide (B3) (≥99%) and pyridoxine chloride (B6) (≥99%) were 
+purchased from Sigma-­Aldrich. Dexpanthenol (B5) (≥98%) and cya-
+nocobalamin (B12) (≥98%) were purchased from Biosynth. HPLC 
+grade acetonitrile, methanol, and n-­hexane were obtained from 
+Honeywell, Riedel-­de Haën™. Hydrochloric acid and sodium dihy-
+drogen phosphate monohydrate were obtained from Merck. Ultra-­
+pure water was obtained through a Milli-­Q water purification system 
+A10 Advantage (Millipore Corporation).
+2.2  |  Instrumentation and 
+chromatographic conditions
+An Agilent Infinity 1290 ultra-­high-­performance liquid chroma-
+tograph (UHPLC) system (Agilent Technologies), equipped with a 
+diode array detector (DAD) using a Max-­Light highly sensitive car-
+tridge cell (60 mm) and EZChrom acquisition system was used for the 
+analysis. The examined vitamins were analyzed on a reversed-­phase 
+XSelect CSH C18 150 × 4.6 mm, 3.5 μm particle size column (Waters 
+Corporation) at 40°C using 25 mM NaH2PO4 × H2O, pH adjusted to 
+4.0 (solvent A) and methanol (solvent B). The flow rate was 1 ml/min. 
+Cyanocobalamin was analyzed according to a previously published
+
+=== Page 3 ===
+630 |   
+TEMOVA RAKUŠA et al.
+method for the simultaneous analysis of all main hydrophilic vita-
+mins using gradient elution as follows: 0–­4 min: 1% B, 4–­8 min: 1%–­
+16.5% B, 8–­18 min: 16.5% B, 18–­23 min: 16.5%–­25% B, 23–­25.2 min: 
+25% B, 25.2–­26 min: 25%–­1% B. The total run time was 30 min and 
+the detection wavelength was 362 nm.10 Nicotinamide, dexpanthe-
+nol, and pyridoxine were analyzed using isocratic elution (10% B) at 
+210 nm (dexpanthenol), 260 nm (nicotinamide), and 287 nm (pyridox-
+ine) in a total run time of 8.5 min. Injection volume was adjusted to 
+the individual cosmetic product and was between 1 and 10 μl.
+2.3  |  Preparation of standard solutions
+B vitamins stock standard solutions were prepared fresh daily for 
+three consecutive days of the validation by dissolving appropriate 
+amounts of the individual vitamin in Milli-­Q water. Six calibration 
+standards (five in the case of cyanocobalamin) and three quality con-
+trol (QC) solutions at low (QCL), medium (QCM), and high (QCH) con-
+centration levels (in triplicate) (Table 1) were prepared by diluting the 
+individual stock standard solution with Milli-­Q water.
+2.4  |  Method validation
+The previously published stability-­indicating HPLC–­DAD method 
+used for the cyanocobalamin analysis as well as the simplified iso-
+cratic HPLC–­DAD method for the simultaneous quantification of 
+nicotinamide, dexpanthenol, and pyridoxine were validated following 
+the ICH guidelines Q2(R1)19 in terms of specificity, linearity, precision, 
+accuracy, detection limit (LOD), quantitation limit (LOQ), and stability 
+of the QC solutions. Within validation of the analytical procedure, 
+recovery, and sample preparation repeatability were evaluated.
+To evaluate the specificity of the methods, we evaluated chro-
+matograms of the individual vitamin standard solutions, their mix-
+tures, the used solvents (methanol and Milli-­Q water), and also all 
+the tested cosmetic products for potential interferences.
+The linearity of the methods was evaluated using six calibration 
+standards (five in the case of cyanocobalamin) (Section 2.3). The 
+method of least squares was applied in regression analysis to deter-
+mine the calibration line equations and the correlation coefficients 
+(R2). The acceptance criterion was R2 > 0.999.
+The accuracy and precision of the methods were determined 
+based on the QC solutions on three concentration levels, covering 
+the entire linear range (low, medium, and high), prepared in triplicate 
+each day of the validation (Section 2.3). Accuracy was determined as 
+a ratio (%) of the determined and actual concentration. The accep-
+tance criterion was 100 ± 5%. Precision was determined as a relative 
+standard deviation (RSD) of the responses of the three parallels of 
+each QC solution and was expected to be ≤5%. Injection repeatabil-
+ity was also evaluated by six consecutive injections of one parallel of 
+each QC solution (QCL, QCM, and QCH) and was expected to be ≤2%.
+LOD and LOQ were calculated from the calibration lines, using 
+the following equations: LOQ = (10 × σ)/S; LOD = (3.3 × σ)/S where 
+σ is the SD of the intercepts, and S is the average slope of the cali-
+bration curve. The calculated LOQ and LOD values were confirmed 
+by the analysis of standard solutions with approximately the same 
+concentrations.
+The stability of the QC solutions was evaluated on each QC level 
+within 48 hours of storage at 25°C. Sample stability was expressed 
+as a percentage of the response after 24 and 48 hours in relation to 
+the response at time 0 and was expected to be within 100 ± 10%.
+Method recovery was determined individually for particular vita-
+mins: nicotinamide, dexpanthenol, and cyanocobalamin. A cosmetic 
+product with a significant amount of the evaluated vitamin was se-
+lected and analyzed with and without the addition of approximately 
+the same vitamin amount as contained in the product. Standard solu-
+tions of the added vitamin amount were also analyzed. All the sam-
+ples were prepared in triplicate. Average recoveries were calculated 
+using the following equation: recovery (%)  =  100 × (concentration 
+found in spiked sample –­ concentration found in the non-­spiked sam-
+ple)/added concentration. The acceptance criterion was 100 ± 10%.
+Sample preparation repeatability was determined as the RSD of 
+the responses of each cosmetic product, prepared and analyzed in 
+triplicate. The acceptance criterion was 5%.
+2.5  |  Tested commercial cosmetic products
+A total of 33 cosmetic products, 2 creams, registered as medi-
+cal devices, and one registered as a medicinal product were 
+tested. All the products were obtained on the Slovenian market 
+in May 2021 and included serums (Balea, La Roche-­Posay, Mabox, 
+Missha, Paula’s choice, Revolution, Revox, The Ordinary), face 
+creams (Afrodita, Cien (two products), Darphin Paris (two prod-
+ucts), Ducray Laboratories Dermatologiques, Eubos, Freezyderm, 
+La Roche-­Posay (two products), Paula’s choice, Rilastil, Skintegra 
+(two products)), eye cream (La Roche-­Posay), tonic (Afrodita, 
+Balea, Geek & Gorgeous), balms (La Roche-­Posay [three prod-
+ucts]), gels (Afrodita, La Roche-­Posay), lotion (Revox), face and 
+TA B LE 1 Nicotinamide (B3), dexpanthenol (B5), pyridoxine 
+(B6), and cyanocobalamin (B12) concentrations in the calibration 
+standards and quality control (QC) solutions
+Concentration [mg/L]
+B3
+B5
+B6
+B12
+Calibration standards
+7.50
+4.69
+0.75
+0.04
+18.8
+9.38
+1.88
+0.09
+37.5
+18.8
+3.75
+0.19
+75.0
+37.5
+7.50
+0.30
+150
+75.0
+15.0
+0.38
+300
+150
+30.0
+/
+QC solutions
+QCL
+22.5
+11.3
+2.25
+0.11
+QCM
+67.5
+33.8
+6.75
+0.23
+QCH
+225
+113
+22.5
+0.34
+
+=== Page 4 ===
+|  631
+TEMOVA RAKUŠA et al.
+body creams (Bayer (two products), Dr. Derm, Eucerin). The tested 
+cosmetic products belonged to different price ranges (1–­120€ cal-
+culated per 50 ml of the cosmetic product).
+2.6  |  Commercial cosmetic products sample 
+preparation
+We developed the sample preparation procedure based on our ex-
+perience and previously published procedures for the extraction of 
+lipophilic vitamins.15,16 The optimal extraction solvent, its volume, 
+and the amount of the weighted cosmetic product in the sample 
+preparation procedure were determined within preliminary testing 
+and were adjusted to each product. Samples from the obtained cos-
+metic products were prepared in triplicate and analyzed immediately 
+after their opening.
+A predefined amount of the cosmetic products (25–­200 mg) was 
+initially weighted into a centrifuge tube, followed by the addition of 
+5–­10 ml of Milli-­Q water (in the case of liquid cosmetic products) 
+or 10  ml of methanol or Milli-­Q water (in the case of semi-­solid 
+cosmetic products). The samples were further vortexed (3  min), 
+sonicated (15 min), vortexed once again (2  min), and centrifuged 
+(16 200 × g, 25°C, 10 min). If needed, the samples were also filtered 
+through an RC filter with a 0.45 μm pore size and transferred into 
+vials for analysis.
+2.7  |  Stability study
+The stability of selected cosmetic products was evaluated under ac-
+celerated and long-­term storage conditions in climate chambers, fol-
+lowing the CTFA (Cosmetic, Toiletry, and Fragrance Association) and 
+COLIPA (European Cosmetic Toiletry and Perfumery Association—­
+now Cosmetic Europe) guidelines20 as well as the ICH Q1A (R2) 
+guidelines.21 Long-­term testing was performed on cosmetic products 
+stored at 25°C and 60% relative humidity (RH) in their original pack-
+aging. Accelerated testing was performed by exposing previously 
+weighed samples in centrifuge tubes to elevated temperature and 
+RH (40°C and 75% RH). Changes in the tested vitamin contents and 
+organoleptic properties of the cosmetic products were evaluated at 
+different time points for 6 months: after 1 week, 2 weeks, 3 weeks, 1, 
+and 6 months. Samples were prepared in triplicate at each time point 
+following the sample preparation procedure, described in Section 2.6.
+3  |  RESULTS AND DISCUSSION
+3.1  |  Selection of analytes, commercial products, 
+and analytical methods
+The main aim of this study was to evaluate the content and stabil-
+ity of frequently present B complex vitamins in commercial cos-
+metic products and thus determine their quality. Therefore, we 
+focused on leave-­on cosmetic products, whose quality interrelates 
+with their efficacy and safety due to their prolonged contact with 
+the skin. Based on the performed screening of available leave-­on 
+cosmetic products on the Slovenian market, we concluded that 
+nicotinamide and dexpanthenol are the main representatives of B 
+complex vitamins in commercial cosmetics. Pyridoxine and cyano-
+cobalamin are less often found, whereas other B complex vitamins 
+(biotin and folic acid) are very rarely found in commercial cosmet-
+ics on the Slovenian market. Therefore, such vitamin distribution 
+is also maintained within our range of tested commercial cosmetic 
+products, which included products in various price ranges and 
+formulations in liquid and semi-­solid forms from different manu-
+facturers and also different products from the same manufactur-
+ers. In view of the quality control of cosmetic products in relation 
+to their declarations and labeling, products with declared vitamin 
+content were also included in the study. For comparison purposes, 
+representatives of B complex vitamins in similar formulations but 
+in more strictly regulated products—­medical devices and medici-
+nal products were also included. The basis for content and sta-
+bility evaluation is proper analytical methodology. A previously 
+published stability-­indicating HPLC–­DAD method for the simul-
+taneous determination of all main hydrophilic vitamins10 was used 
+for the evaluation of cyanocobalamin. This method was addition-
+ally simplified and shortened resulting in an isocratic HPLC–­DAD 
+method for the simultaneous quantification of nicotinamide, dex-
+panthenol, and pyridoxine. The sample preparation procedure was 
+developed and optimized for the individual cosmetic products.
+3.2  |  Validation of the analytical methods
+Both used HPLC–­DAD methods were validated following the ICH 
+guidelines Q2(R1) in terms of specificity, linearity, precision, injec-
+tion repeatability, accuracy, LOD, LOQ, and stability of QC solu-
+tions.19 Both methods were confirmed specific as no interferences 
+were detected in the chromatograms of the used solvents, vitamins 
+standard solutions and their mixtures, and the tested products. 
+Representative chromatographs of cyanocobalamin standard so-
+lution and a standard mixture of nicotinamide, dexpanthenol, and 
+pyridoxine are presented in Supplementary materials (Figures  S1 
+and S2). The remaining validation data are presented in Table  2. 
+The selected concentration ranges cover the evaluated vitamins’ 
+concentrations in the analyzed products’ samples. The determined 
+high R2 demonstrates the linearity of the methods. The sensitivity 
+of both methods for the analysis of the evaluated vitamins in com-
+mercial products was satisfactory. LOQ was <2.00 mg/L, which cor-
+responds to up to <0.001% (w/w) assuming maximum limit values 
+in the sample preparation parameters (5 ml of extraction solvent, 
+200 mg of the cosmetic product, and 10 μl injection volume) in the 
+case of nicotinamide and dexpanthenol and significantly lower (ap-
+proximately 4-­fold) for pyridoxine and (25-­fold) for cyanocobalamin 
+(Table  2). Moreover, both methods were also found accurate and 
+precise, as the obtained results for accuracy, precision, and injection
+
+=== Page 5 ===
+632 |   
+TEMOVA RAKUŠA et al.
+repeatability are within the acceptance criteria. The repeatabil-
+ity of the sample preparation procedure was demonstrated for all 
+tested products (RSD <5% between the triplicates), as displayed in 
+Figures 1 and 2. The average recoveries were between 95.2% and 
+104.5% and were also within the acceptance criteria. The evaluated 
+vitamins were also sufficiently stable (mostly within 100 ± 5%) after 
+48 h of storage at 25°C.
+3.3  |  B complex vitamins content in the tested 
+commercial products
+Within the performed quality control, we initially evaluated whether 
+the labeled B complex vitamins are present in the tested products. 
+Thus, we confirmed the proper labeling of B complex vitamins in all 
+tested products, as the labeled vitamins were present in the stated 
+form and additional, not labeled B complex vitamins were not ob-
+served. In the tested range of commercial products, dexpanthenol 
+was the most prevalent and was present in 26 products, followed 
+by nicotinamide (15 products) and pyridoxine and cyanocobalamin—­
+each present in one product. The results of their quantitative evalu-
+ation in the tested products are summarized in Figure 1.
+The determined dexpanthenol contents in the 24 tested cosmetic 
+products ranged between 0.141% and 5.191% (w/w) in the tested 
+products and were similar in the different tested product groups: be-
+tween 0.141% and 5.053% (w/w) in the tested creams, 0.254% and 
+5.191% (w/w) in the tested serums, and between 0.492% and 4.980% 
+(w/w) in the tested tonics. Such ranges are somewhat expected in 
+view of the efficacy of the products and are also within the range 
+of used dexpanthenol concentrations in ˃5,000 cosmetics, reported 
+by their manufacturers within the Food and Drug Administration's 
+Voluntary Cosmetic Registration Program (VCRP).22 Within inter-
+pretation of the results, we observed that dexpanthenol contents in 
+the tested cosmetic products tend to gravitate towards two typical 
+values –­ around 0.5% (w/w) and around 5% (w/w). Namely, almost a 
+third (30%) of the tested cosmetic products contained around 0.5% 
+(0.45%–­0.55%) (w/w) dexpanthenol and another third (33%) of the 
+tested cosmetic products contained around 5% (4.5%–­5.5%) (w/w) 
+TA B LE 2 Validation data of analytical methods
+Range 
+[mg/L]
+LOD 
+[mg/L]
+LOQ 
+[mg/L]
+R2
+Accuracy [%] 
+(AV ± SD)
+Precision 
+[%]
+Injection 
+repeatability [%]
+Stabilitya [%] 
+(AV ± SD)
+B3
+7.50–­300
+0.66
+2.00
+1.0000
+100.1 ± 0.5
+0.3
+0.2
+100.1 ± 1.8
+B5
+4.69–­150
+0.63
+1.88
+0.9999
+100.4 ± 0.7
+0.7
+0.8
+100.6 ± 0.9
+B6
+0.75–­30.0
+0.15
+0.46
+1.0000
+100.4 ± 0.5
+0.3
+0.2
+100.9 ± 4.9
+B12
+0.09–­0.38
+0.03
+0.08
+0.9997
+104.5 ± 2.4
+2.1
+1.0
+97.4 ± 1.5
+aafter 48 h of storage at 25°C.
+FI G U R E 1 Determined contents of 
+nicotinamide (B3), dexpanthenol (B5), 
+pyridoxine (B6), and cyanocobalamin 
+(B12) in the tested cosmetic products 
+(C), medical devices (MD), and medicinal 
+product (MP), expressed as a mass 
+percentage (%) (average ± SD, [n = 3]) in 
+relation to the price of the products (per 
+50 ml). *the labels of individual products 
+are retained throughout the manuscript.
+
+=== Page 6 ===
+|  633
+TEMOVA RAKUŠA et al.
+dexpanthenol. According to literature data, dexpanthenol in concen-
+trations between 2% and 5% (w/w) is effective in the treatment of 
+wounded or irritated skin,4 which is the range of its determined con-
+tent in the tested medicinal product and medical device (Figure 1). 
+Formulations with 1% (w/w) of dexpanthenol have a moisturizing ef-
+fect on the skin, whereas lower dexpanthenol concentrations (0.5% 
+(w/w)) do not have a significant effect on skin barrier and skin mois-
+ture.23 Based on the obtained results, we conclude that half of the 
+tested cosmetic products contain dexpanthenol in concentrations, 
+which are effective on the skin according to literature data (≥1% 
+(w/w)). These products are scattered among all price ranges and are 
+most concentrated among the affordable cosmetics (10–­15€ per 
+50 ml of the cosmetic product, Figure 1). The remaining 12 cosmetic 
+products contained between 0.141% and 0.775% (w/w) dexpanthe-
+nol, which is significantly below its effective concentration of 1% 
+(w/w). These products were most common among the lower-­priced 
+cosmetics (C1-­5 in Figure 1). However, considering their occurrence 
+in each price range, also including three (C27, C29, and C33) of the 
+five tested cosmetic products in the highest price range, we con-
+clude that higher price of the product is not necessarily related to 
+higher dexpanthenol content (Figure 1).
+The determined contents of nicotinamide in the 15 tested cos-
+metic products ranged between 0.030% and 11.217% (w/w). Similarly, 
+as in the case of dexpanthenol, comparable ranges of nicotinamide 
+contents were determined in different product forms (e.g., serums, 
+creams). Thereby, the determined nicotinamide contents gravitated 
+toward three typical concentrations: 2.0%–­2.5% (w/w) (40% of the 
+tested products), 4.2%–­4.6% (w/w) (27% of the tested products) and 
+10.1%–­11.2% (w/w) (20% of the tested products). The majority (13) of 
+the 15 tested cosmetic products contained nicotinamide in concentra-
+tions around or above the ones reported in the literature to improve 
+skin appearance. Namely, the topical application of nicotinamide in 
+concentrations between 2% and 5% (w/w) has been shown effective 
+in the treatment of acne, and atopic dermatitis, and as a lightening, 
+anti-­aging, and anti-­psoriatic agent.3,24 About 20% of the tested prod-
+ucts contained high-­nicotinamide concentrations (around 10% (w/w)), 
+whose effects have not been investigated in the literature. However, 
+clinical testing of nicotinamide in concentrations up to 10% (w/w) 
+showed no stinging sensation.25 Also, as nicotinamide is not a sensi-
+tizer or photosensitizer, it is considered safe in the current concen-
+trations and practices of use, and its concentration is therefore not 
+restricted in cosmetic products in the EU.25 Evaluating the relationship 
+between nicotinamide content and the prices of the products, we did 
+not observe a straightforward correlation (e.g., an increase in nicotin-
+amide content with an increase in the products price). Although all 
+products with high-­nicotinamide content (˃5% (w/w)) belonged to the 
+mid or higher price range (15–­120€ per 50 ml of the cosmetic product), 
+these price ranges also comprise products with some of the lowest 
+determined nicotinamide contents (C24 and C32 in Figure 1).
+The use of pyridoxine and cyanocobalamin in topical (cosmetic) 
+products is upcoming and thus their effective concentrations have 
+not yet been established. Also, they are quite rare ingredients in 
+cosmetics products and their contents have not yet been reported. 
+The determined pyridoxine content in the one tested product was 
+0.557% (w/w). The determined cyanocobalamin content in the one 
+tested cosmetic product was significantly lower (8.8 × 10−4% (w/w)).
+3.4  |  B complex vitamins content-­related quality 
+control of the tested commercial products
+Eight of the 36 evaluated commercial products (one medicinal prod-
+uct and seven cosmetic products) quantitatively specified the content 
+of nicotinamide (four products) and dexpanthenol (four products). 
+With the increasing number of such products on the market and their 
+insufficient control by the official authorities, there is also a growing 
+need for their proper quality control, which was performed within 
+this study. The content-­related quality control was assessed by com-
+paring the determined and the declared content (Figure 2).
+As can be seen in Figure 2, all four tested cosmetic products con-
+tained the declared dexpanthenol amount (100 ± 5% of the declared 
+content). Contrarily, the determined nicotinamide content was 
+as stated (101.8% of the declared content) in one tested cosmetic 
+product, higher than declared (112.2%) in one cosmetic product, 
+and significantly lower (46.9% and 56.5%) in the remaining two cos-
+metic products. Following the principles on acceptable tolerances 
+for vitamins content in foods and food supplements, established by 
+the European Commission based on their safety, on one hand, and 
+general instability on the other,26 we consider the determined devi-
+ations between the contained and declared vitamin amount in most 
+products (C6, C12, C16, C18, C33, and MP1, Figure 2) acceptable. 
+Contrary, as nicotinamide content significantly deviate from the la-
+beled one in C14 and C32 (Figure 2), these two cosmetic products 
+are inappropriate in view of their content-­related quality. Although 
+this is the first study, disclosing inappropriate vitamin B contents in 
+relation to the declared contents in cosmetic products, such findings 
+have been previously reported in food supplements.10,27 Possible 
+FI G U R E 2 Determined contents of nicotinamide (B3) and 
+dexpanthenol (B5) in the tested medicinal (MP) and cosmetic 
+products (C) with their declared contents, expressed as an average 
+% of the declared content (average ± SD, [n = 3]).
+
+=== Page 7 ===
+634 |   
+TEMOVA RAKUŠA et al.
+reasons for their inappropriate content include manufacturing in-
+accuracies, use of ingredients of insufficient quality, intentional ad-
+dition of higher or lower amounts than declared, or inappropriate 
+formulation in view of the stability and compatibility, which are all 
+associated with the lack or inappropriate quality control.10,15,27
+3.5  |  B complex vitamins stability in the tested 
+commercial products
+To assess the overall stability of the tested commercial products 
+and evaluate whether stability issues are a reason for the deter-
+mined lower nicotinamide content in relation to the declared 
+content in two cosmetic products, a stability study was performed 
+following the CTFA–­COLIPA and ICH Q1A(R2) guidelines.20,21 
+The stability of B complex vitamins was evaluated in a total of 
+22 products, including all products with quantitatively specified 
+contents, except C16. The physical and chemical stability of the 
+products was evaluated at regular time points during 6 months of 
+storage at long-­term (25°C and 60% RH) and accelerated stability 
+testing conditions (40°C and 75% RH). No changes in the organo-
+leptic properties were observed during the long-­term and accel-
+erated stability study, thus confirming the physical stability of all 
+tested commercial products. Evaluating the chemical stability, we 
+detected certain changes, which were specific to the individual vi-
+tamins and formulations (Figure 3). Based on the obtained results, 
+FI G U R E 3 The remaining content of nicotinamide (B3), dexpanthenol (B5), pyridoxine (B6), and cyanocobalamin (B12) in the tested 
+cosmetic products (C), medical devices (MD), and medicinal product (MP) after 6 months of storage at 25°C and 40°C, expressed as a % of 
+the initial content (average ± SD, [n = 3]).
+
+=== Page 8 ===
+|  635
+TEMOVA RAKUŠA et al.
+we may confirm the stability of nicotinamide in the 11 evaluated 
+products, as its content remained >92% of the initial content after 
+6 months of storage at long-­term conditions and > 85% at accel-
+erated storage conditions. Considering its high stability (>96% of 
+the initial content) in the two cosmetic products (C14 in C32) with 
+significantly lower nicotinamide content than declared (Figure 2), 
+we conclude that the inappropriate quality of these products is 
+not a consequence of its instability. Dexpanthenol was found less 
+stable than nicotinamide, yet its instability was not directly corre-
+lated with the formulation type (liquid and semi-­solid formulation). 
+Significant dexpanthenol degradation (>10% of the initial content) 
+was observed in two cosmetic products, stored at ambient temper-
+ature, and eight products stored at elevated temperature, in which 
+up to 28% degradation was observed (Figure 3). Elevated storage 
+temperature had a more pronounced effect on cyanocobalamin, 
+which was stable when stored at ambient temperature (98% of 
+the initial content after 6 months) and significantly degraded (28% 
+degradation) when stored at elevated temperature and especially 
+on pyridoxine (10% degradation at ambient temperature and > 90% 
+degradation at elevated temperature) (Figure  3). The stability of 
+the most common B complex vitamins in commercially available 
+cosmetic products has not yet been described in the literature. 
+However, the obtained results are supported by several reports 
+on their stability in different samples (solutions, foods, and phar-
+maceutical formulations) in the literature, where nicotinamide is 
+ascertained as quite stable under various (stress) conditions, and 
+dexpanthenol, pyridoxine, and cyanocobalamin as differently sus-
+ceptible to degradation in different samples and conditions.10,28,29 
+The observed higher degradation at elevated storage temperature 
+is in line with the general principles and somewhat expected, as 
+the temperature is one of the key environmental factors, affecting 
+vitamin stability in general, although, contradictory information re-
+garding its effect on the stability of dexpanthenol, pyridoxine, and 
+cyanocobalamin may be found in the literature.10,28,29 Considering 
+the inconsistent data on vitamins stability in the literature and their 
+susceptibility to the effects of various factors, including also the 
+formulation itself, stability studies should be applied as a useful 
+tool in the formulation of quality cosmetic products. Especially ac-
+celerated stability testing is gaining ground in the cosmetic indus-
+try, as it may enable the prediction of the product’s stability under 
+the desired storage conditions in a shorter time and provides infor-
+mation on the effect of short-­term deviations from the expected 
+storage conditions.21 However, prediction of the stability of prod-
+ucts containing active ingredients and other excipients based on 
+accelerated stability testing is quite demanding and has reported 
+limited applicability to certain cosmetic products.18 Therefore, the 
+results of accelerated stability testing should be confirmed by long-­
+term testing, as done in the pharmaceutical industry, and should 
+include both determination of the physical and chemical stability 
+of the products. This is also demonstrated by the obtained results 
+within this study, where all products remained physically stable, 
+whereas temperature had very different effects on the chemical 
+stability of individual vitamins. Namely, temperature significantly 
+affected B complex vitamins stability in some products (MD2, C9, 
+C11, and C19, Figure 3), but did not have the (expected) effect on 
+other products (C1, C11, and C33, Figure 3).
+4  |  CONCLUSIONS
+B complex vitamins have many favorable effects on the skin. 
+Therefore, the topical application of nicotinamide and dexpanthenol 
+is established in numerous skin conditions, while other B complex vi-
+tamins (e.g., pyridoxine and cyanocobalamin) are forthcoming agents 
+in cosmetology and dermatology. In view of their widespread use 
+in the cosmetic industry, which is associated with some formulation 
+challenges and the absence of regular quality control by the authori-
+ties, we focused on the evaluation of the quality and stability of a 
+representative sample of commercially available products with B 
+complex vitamins. We thus evaluated the labeling accuracy, the con-
+tent, and stability of the most prevalent B complex vitamins on the 
+Slovenian cosmetic market—­nicotinamide, dexpanthenol, pyridox-
+ine, and cyanocobalamin in a total of 36 products. For such purpose, 
+we used a previously developed HPLC–­DAD method, which was 
+additionally simplified and shortened. The performed quality con-
+trol confirmed the presence of all labeled B complex vitamins in the 
+tested products but also revealed inappropriate contents in two of 
+the eight tested cosmetics with declared vitamin B content. All the 
+tested products were found physically stable after 6 months of stor-
+age at long-­term and accelerated storage conditions. Nicotinamide 
+was found stable in the tested products, while the stability of dex-
+panthenol, pyridoxine, and cyanocobalamin depended on the for-
+mulation and the storage temperature. Even though stability is a 
+fundamental aspect in the formulation of quality cosmetic products, 
+within this study we revealed significant dexpanthenol, pyridoxine, 
+and cyanocobalamin degradation under both long-­term and acceler-
+ated stability conditions. Thus, with this article, we suggest a prin-
+ciple for quality control and stability testing for both manufacturers 
+and regulatory authorities and make an effort towards better rec-
+ognition of the importance of stability for the production of quality 
+and safe cosmetics.
+ACKNOWLEDGMENTS
+This research was financially supported by the Slovenian Research 
+Agency (ARRS) [P1-­0189].
+ETHICAL APPROVAL
+No ethical approval was required for this article.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from 
+the corresponding author upon reasonable request.
+ORCID
+Žane Temova Rakuša 
+ https://orcid.org/0000-0001-8948-9129 
+Robert Roškar 
+ https://orcid.org/0000-0001-9863-9117
+
+=== Page 9 ===
+636 |   
+TEMOVA RAKUŠA et al.
+REFERENCES
+ 1. Wargala E, Sławska M, Zalewska A, Toporowska M. Health ef-
+fects of dyes, minerals, and vitamins used in cosmetics. Women. 
+2021;1(4):223-­237. doi:10.3390/women1040020
+ 2. Forbat E, Al-­Niaimi F, Ali FR. Use of nicotinamide in dermatology. 
+Clin Exp Dermatol. 2017;42(2):137-­144. doi:10.1111/ced.13021
+ 3. Wohlrab J, Kreft D. Niacinamide -­ mechanisms of action and its top-
+ical use in dermatology. Skin Pharmacol Physiol. 2014;27(6):311-­315. 
+doi:10.1159/000359974
+ 4. Proksch E, de Bony R, Trapp S, Boudon S. Topical use of dexpanthe-
+nol: a 70th anniversary article. J Dermatolog Treat. 2017;28(8):766-­
+773. doi:10.1080/09546634.2017.1325310
+ 5. Fujishiro M, Yahagi S, Takemi S, Nakahara M, Sakai T, Sakata I. 
+Pyridoxine stimulates filaggrin production in human epidermal 
+keratinocytes. Mol Biol Rep. 2021;48(7):5513-­5518. doi:10.1007/
+s11033-­021-­06563-­y
+ 6. Fiume MZ. Cosmetic ingredient review expert panel. final report on 
+the safety assessment of biotin. Int J Toxicol. 2001;20(Suppl. 4):1-­
+12. doi:10.1080/109158101529025472
+ 7. Ammar HO, Ghorab MM, Mostafa DM, et al. Development of 
+folic acid–­loaded nanostructured lipid carriers for topical deliv-
+ery: preparation, characterisation and ex vivo investigation. Jof 
+Microencapsul. 2020;37(5):366-­383. doi:10.1080/02652048.2020.
+1761904
+ 8. Januchowski R. Evaluation of topical vitamin B(12) for the treatment 
+of childhood eczema. J Altern Complement Med. 2009;15(4):387-­
+389. doi:10.1089/acm.2008.0497
+ 9. Stücker M, Pieck C, Stoerb C, Niedner R, Hartung J, Altmeyer 
+P. Topical vitamin B12—­a new therapeutic approach in atopic 
+dermatitis—­evaluation of efficacy and tolerability in a random-
+ized placebo-­controlled multicentre clinical trial. Br J Dermatol. 
+2004;150(5):977-­983. doi:10.1111/j.1365-­2133.2004.05866.x
+ 10. Rakuša ŽT, Grobin A, Roškar R. Comprehensive approach for si-
+multaneous analysis of all main water-­soluble vitamins in multivita-
+min preparations by stability-­indicating HPLC-­DAD method. Food 
+Chem. 2021;337:127768. doi:10.1016/j.foodchem.2020.127768
+ 11. Bissett DL. Common cosmeceuticals. Clin Dermatol. 2009;27(5):435-­
+445. doi:10.1016/j.clindermatol.2009.05.006
+ 12. Juzeniene A, Grigalavicius M, Ma LW, Juraleviciute M. Folic acid 
+and its photoproducts, 6-­formylpterin and pterin-­6-­carboxylic 
+acid, as generators of reactive oxygen species in skin cells during 
+UVA exposure. J Photochem Photobiol B: Biol. 2016;155:116-­121. 
+doi:10.1016/j.jphotobiol.2016.01.001
+ 13. Wondrak 
+GT, 
+Roberts 
+MJ, 
+Jacobson 
+MK, 
+Jacobson 
+EL. 
+3-­hydroxypyridine 
+chromophores 
+are 
+endogenous 
+sensitiz-
+ers of photooxidative stress in human skin cells. J Biol Chem. 
+2004;279(29):30009-­30020. doi:10.1074/jbc.M404379200
+ 14. European Parliament and of the Council. Regulatution (EC) No 
+1223/2009 of the European parliament and of the council of 30 
+November 2009 on cosmetic products. Off J Eur Union. 2009;52:L 
+342/83-­L 342/127.
+ 15. Temova Rakuša Ž, Škufca P, Kristl A, Roškar R. Quality control of 
+retinoids in commercial cosmetic products. J Cosmet Dermatol. 
+2021;20:1166-­1175. doi:10.1111/jocd.13686
+ 16. Temova Rakuša Ž, Roškar R. Quality control of vitamins A and E 
+and coenzyme Q10 in commercial anti-­ageing cosmetic products. 
+Cosmetics. 2021;8(3):61. doi:10.3390/cosmetics8030061
+ 17. Cornell EM, Janetos TM, Xu S. Time for a makeover-­cosmetics reg-
+ulation in the United States. J Cosmet Dermatol. 2019;18(6):2041-­
+2047. doi:10.1111/jocd.12886
+ 18. Temova Rakuša Ž, Škufca P, Kristl A, Roškar R. Retinoid stabil-
+ity and degradation kinetics in commercial cosmetic products. J 
+Cosmet Dermatol. 2021;20:2350-­2358. doi:10.1111/jocd.13852
+ 19. ICH Q2(R1). Validation of analytical procedures: text and meth-
+odology. ICH Harmon Tripart Guidel. 2005; Current Step 4 version; 
+1-­13.
+ 20. Guidelines On Stability Testing Of Cosmetic Products. Cosmetics 
+Europe. The Personal Care Association; 2004. https://www.cosme​
+ticse​urope.eu/files/​5914/6407/8121/Guide​lines_on_Stabi​lity_
+Testi​ng_of_Cosme​tics_CE-­CTFA_-­_2004.pdf. Accessed May 16, 
+2022.
+ 21. ICH Q1A(R2). Stability testing of new drug substances and prod-
+ucts. ICH Harmon Tripart Guidel. 2003; Current Step 4 version; 1-­24.
+ 22. Safety Assessment of Panthenol, Pantothenic Acid, and Derivatives 
+as Used in Cosmetics. Cosmetic Ingredient Review Expert Panel. 
+February 2, 2017. http://www.cir-­safety.org/sites/​defau​lt/files/​
+PANTS​012017.pdf. Accessed May 17, 2022.
+ 23. Camargo FB, Gaspar LR, Maia Campos PMBG. Skin moistur-
+izing effects of panthenol-­based formulations. J Cosmet Sci. 
+2011;62(4):361-­370.
+ 24. Bains P, Kaur M, Kaur J, Sharma S. Nicotinamide: mechanism of 
+action and indications in dermatology. Indian J Dermatol Venereol 
+Leprol. 2018;84(2):234-­237. doi:10.4103/ijdvl.IJDVL_286_17
+ 25. Final report of the safety assessment of niacinamide and niacin1. Int J 
+Toxicol. 2005;24(5_suppl):1-­31. doi:10.1080/10915810500434183
+ 26. Setting of Tolerances for Nutrient Values Declared on a Label Guidance 
+For Food Supplements. European Commission; 2014. http://ec.eu-
+ropa.eu/food/food/label​lingn​utrit​ion/nutri​tionl​abel/index_
+en.htm. Accessed May 13, 2022.
+ 27. Žmitek K, Krušič S, Pravst I. An approach to investigate content-­
+related quality of nutraceuticals used by slovenian consum-
+ers: a case study with folate and vitamin D supplements. Foods. 
+2021;10(4):845. doi:10.3390/foods10040845
+ 28. Ottaway PB. Stability of vitamins in food. In: Ottaway PB, ed. 
+The Technology of Vitamins in Food. Springer US; 1993:90-­113. 
+doi:10.1007/978-­1-­4615-­2131-­0_5
+ 29. Riaz MN, Asif M, Ali R. Stability of vitamins during ex-
+trusion. 
+Crit 
+Rev 
+Food 
+Sci 
+Nutr. 
+2009;49(4):361-­368. 
+doi:10.1080/10408390802067290
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the 
+Supporting Information section at the end of this article.
+How to cite this article: Temova Rakuša Ž, Šenk A, Roškar R. 
+Content and stability of B complex vitamins in commercial 
+cosmetic products. J Cosmet Dermatol. 2023;22:628-636. 
+doi: 10.1111/jocd.15321
+

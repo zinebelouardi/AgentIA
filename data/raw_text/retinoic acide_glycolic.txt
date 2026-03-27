@@ -1,0 +1,629 @@
+=== Page 1 ===
+Research Article
+Comparative Effects of Retinoic Acid or Glycolic Acid
+Vehiculated in Different Topical Formulations
+Patrícia Maria Berardo Gonçalves Maia Campos,1 Lorena Rigo Gaspar,1
+Gisele Mara Silva Gonçalves,2 Lúcia Helena Terenciane Rodrigues Pereira,1
+Marisa Semprini,3 and Ruberval Armando Lopes3
+1Faculdade de Ciˆencias Farmacˆeuticas de Ribeir˜ao Preto, Universidade de S˜ao Paulo, Avenida do Caf´e, s/n,
+14040-903 Ribeir˜ao Preto, SP, Brazil
+2Faculdade de Ciˆencias Farmacˆeuticas, Pontif´ıcia Universidade Cat´olica de Campinas, 13060-904 Campinas, SP, Brazil
+3Faculdade de Odontologia de Ribeir˜ao Preto, Universidade de S˜ao Paulo, 14040-904 Ribeir˜ao Preto, SP, Brazil
+Correspondence should be addressed to Lorena Rigo Gaspar; lorenagaspar@gmail.com
+Received 16 July 2014; Revised 15 October 2014; Accepted 31 October 2014
+Academic Editor: Peter Fu
+Copyright © 2015 Patr´ıcia Maria Berardo Gonc¸alves Maia Campos et al. This is an open access article distributed under the
+Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+Retinoids and hydroxy acids have been widely used due to their effects in the regulation of growth and in the differentiation of
+epithelial cells. However, besides their similar indication, they have different mechanisms of action and thus they may have different
+effects on the skin; in addition, since the topical formulation efficiency depends on vehicle characteristics, the ingredients of the
+formulation could alter their effects. Thus the objective of this study was to compare the effects of retinoic acid (RA) and glycolic
+acid (GA) treatment on the hairless mouse epidermis thickness and horny layer renewal when added in gel, gel cream, or cream
+formulations. For this, gel, gel cream, and cream formulations (with or without 6% GA or 0.05% RA) were applied in the dorsum
+of hairless mice, once a day for seven days. After that, the skin was analyzed by histopathologic, morphometric, and stereologic
+techniques. It was observed that the effects of RA occurred independently from the vehicle, while GA had better results when
+added in the gel cream and cream. Retinoic acid was more effective when compared to glycolic acid, mainly in the cell renewal and
+the exfoliation process because it decreased the horny layer thickness.
+1. Introduction
+Retinoids and hydroxy acids have been widely used in
+cosmetic products and in dermatology to revert the pho-
+toageing process and superficial wrinkles and also in the acne
+treatment [1–3]. In addition, these substances have been used
+in chemical peels for the treatment of skin aging, particularly
+photodamage [4–6].
+Retinoic acid is used at 0.025%, 0.05%, and 0.1%
+concentrations for acne and photoageing treatment. The
+mechanism of action of retinoids has not been completely
+elucidated, but these substances could have profound
+effects on the modulation of cellular proliferation and
+differentiation. These effects are known to be mediated by
+the interaction of retinoids with specific nuclear receptors
+that belong to the steroid/thyroid/vitamin D receptor
+superfamily. Retinoid-X receptor (RXR) and retinoic acid
+receptor (RAR) mediated signaling is induced by retinoic
+acids (RA), which are involved in the regulation of skin
+permeability, differentiation, and immune response [7–9].
+Glycolic acid also stimulates the growth of new skin.
+Although the exact mechanism of action of glycolic acid
+is still unknown, alpha-hydroxy acids decrease corneocyte
+cohesion and it has been suggested that this occurs by
+interference with the formation of ionic bonds. They dissolve
+adhesions between cells in the upper layers of the skin,
+inducing shedding of dry scales from the skin’s surface,
+commonly referred to as exfoliation [2, 7].
+Because retinoic acid and alpha-hydroxy acids are water
+soluble, creams and lotions of oil-in-water emulsions are
+Hindawi Publishing Corporation
+BioMed Research International
+Volume 2015, Article ID 650316, 6 pages
+http://dx.doi.org/10.1155/2015/650316
+
+=== Page 2 ===
+2
+BioMed Research International
+Table 1: Formulations studied.
+Percentage of components
+in each formulation (w/w)
+Gel
+Gel cream
+Cream
+Hydroxyethylcellulose
+2.00
+2.00
+Hydrogenated lecithin
+—
+1.00
+1.00
+Cetearyl alcohol and
+ceteareth-20
+—
+—
+4.00
+Glycerin
+3.00
+3.00
+3.00
+Squalane
+2.00
+2.00
+2.00
+Butylated hydroxytoluene
+0.05
+0.05
+0.05
+Methyldibromo-glutaronitrile
+and phenoxyethanol
+0.20
+0.20
+0.20
+Propylene glycol
+2.00
+2.00
+2.00
+Distilled water to.
+100.00
+100.00
+100.00
+usually the preferred choice. The most appropriate vehicle for
+a given product will depend on the purpose of the product
+and the patient’s skin type. The vehicles may be hydro-
+alcohol-glycol solutions and gels (for oily and acneic skins),
+and creams and creamy lotions, ideal for dry and mature skins
+[7].
+In addition to patient’s skin type, it is essential to consider
+the influence of the vehicle on the effectiveness of a topical
+preparation. The vehicle may be the controlling factor in the
+release of the active ingredient from the formulation [10, 11].
+The drug must leave the vehicle and enter the environment
+of the tissue before it can exert any biological activity. The
+release of drugs from various vehicles has been the subject
+of many reviews and research papers. Consistently, these
+papers indicate that a formulation or vehicle for a given
+chemical must be specifically designed for that chemical
+to obtain maximum drug release. Specific additives may
+enhance or retard release of a chemical from the vehicle;
+for example, lecithin improves the topical absorption of
+triamcinolone added in a poloxamer gel [12] and improves
+the topical absorption of vitamin A on a carbomer gel as
+well [13]. In addition, the composition of dermocosmetic
+formulations can influence the skin penetration of active
+ingredients and improve their efficacy on skin, as studied
+for epigallocatechin-3-gallate from green tea and vitamin A
+[10, 14].
+Thus, the aim of this study was to compare the effects of
+retinoic and glycolic acid treatments on the hairless mouse
+epidermis thickness, horny layer renewal, and skin hydration,
+when added in gel, gel cream, or cream formulations.
+2. Materials and Methods
+2.1. Formulations Studied. The formulations consisted of a gel
+(HEC), a gel cream (HEC + hydrogenated lecithin), and a
+cream (ceteareth-20 + hydrogenated lecithin) with or without
+the addition of 6% glycolic acid (pH 3.5) or 0.05% retinoic
+acid (Table 1). The pH of all formulations was adjusted to 4.0.
+2.2. Biological Assay. Adult male hairless mice (HRS/J-
+hairless, Jackson, Bar Harbor, ME) weighing on average 30 g
+were kept in individual cages and received commercial ration
+(Nuvilab CR-1), as well as water ad libitum. This study was
+carried out in accordance with the “Principles of Laboratory
+Animal Care” (NIH). The formulations gel, gel cream, and
+cream, with or without 6% glycolic acid or 0.05% retinoic
+acid, were applied in specific areas of the dorsum, once a day
+for 7 days.
+2.3. Histology. After the application period, skin biopsies
+were obtained from the animals and semiserial 6 𝜇m thick
+sections were then stained with hematoxylin and eosin for
+general histopathological, morphometric, and stereologic
+analysis.
+One week after starting the treatment, mice were eutha-
+nized by CO2 inhalation and skin fragments were obtained
+and immediately immersed in a fixing solution consisting
+of 85 mL of 80% alcohol, 10 mL formaldehyde, and 5 mL
+acetic acid. After 24 h the fixed fragments were dehydrated,
+cleared, and embedded in paraffin. Semiserial 6 mm thick
+sections were then obtained and each section corresponded
+to an interval of fifty sections; that is, ten sections were
+obtained from the 2 mm biopsy. The sections were stained
+with haematoxylin and eosin for general histopathological
+and histometric analysis [15, 16].
+In the histopathological study, it was only possible to
+observe the qualitative alterations in the skin, after the use
+of the formulations.
+2.4. Morphometry. For the morphometric study (analysis of
+the nucleus of cells from the epithelial layers), the skin sec-
+tions obtained from each experimental group were analyzed
+with a Henamed light microscope equipped with a 100x
+immersion objective and a light camera (Jena). The largest
+and smallest diameters of the nuclei of the cells from the
+basal and spinous layers of the epidermis were measured and
+the mean diameter and nuclear volume were estimated. The
+following karyometric parameters were estimated.
+(i) Mean diameter 𝑀= (𝐷⋅𝑑)1/2.
+(ii) Volume 𝑉= 6−1 ⋅𝜋⋅𝑀3.
+2.5. Stereology. In the stereologic study, which is a quantita-
+tive evaluation, the epithelial thickness, the thickness of each
+layer of the epidermis, the numerical nuclear density, and the
+cytoplasmic and cell volume were obtained. A grid idealized
+by Merz printed on paper (Figure 1) was used to draw the
+epithelial structures [2] to use the stereologic equation with
+respect to the parameter studied using GMC program.
+The Merz grid was used to count points on a given
+histological structure and also to count intersections between
+two contiguous structures, by considering the number of
+points that fall on the structure under study in the former
+case and the number of times that neighboring surfaces cut
+the curved line in the latter.
+Thus, in order to obtain the thickness, the numerical
+nuclear density, and the cytoplasm volume, we used point
+counting (2000 per animal, corresponding to the product
+of 20 microscope fields per 100 points on the grid) or the
+
+=== Page 3 ===
+BioMed Research International
+3
+Figure 1: The Merz grid.
+number of intersections, according to the requirements of the
+stereologic equation with respect to the parameter studied.
+Numerical Nuclear Density (Nvn). The area of the epithelium
+within the test system was evaluated by counting the points
+that fall on it, and the epithelial volume was proportional to it.
+The nuclei inside the standard square were then counted. The
+total area of the square is 50.625 𝜇m2 in two fields per section,
+for a total of 20 fields per block and this permits to obtain the
+number of nuclear sections of the area (Nav). The number of
+nuclei per unit volume (numerical nuclear density, Nvn) was
+calculated using the following equation:
+Nvn =
+Nav
+𝐷+ 𝑇,
+(1)
+where 𝐷is the mean nuclear diameter previously estimated
+by karyometry and 𝑡is the thickness of the section (6 𝜇m).
+The result obtained corresponds to the number of nuclei per
+mm3.
+Cytoplasmic Volume and Epithelial Cell Volume. Cytoplasmic
+volume (𝑉ct) was estimated from the previously determined
+nuclear volume and the corrected nucleus/cytoplasm ration.
+In turn, the sum of the mean nuclear and cytoplasmic
+volumes provides the estimated value of the epithelial cell.
+The cytoplasmic volume is given by the following ratio:
+𝑉ct =
+𝑉𝑛
+corrected ⋅𝑛/𝑐.
+(2)
+The volume of the epithelial cell, in turn, is given by the
+following equation:
+𝑉cela = 𝑉𝑛+ 𝑉ct.
+(3)
+Mean Epithelial Thickness. Mean epithelial thickness was
+estimated by the formula of Weibel [12, 13]:
+𝐸=
+𝑃⋅𝐿
+2(𝐼𝐾+ 𝐼ct),
+(4)
+where 𝑃is the number of points that fell on the epithelium,
+𝐿is the length of the test line, and 𝐼𝐾and 𝐼ct are the numbers
+of intersections of the test line with the epithelium-keratin
+interface and the epithelium-connective tissue interface,
+respectively.
+2.6. Statistical Analysis. Morphometric and stereologic data
+were analyzed statistically using analysis of variance, a para-
+metric test, followed by Tukey test.
+3. Results and Discussion
+The results obtained in this investigation are shown in Figures
+2 to 6.
+3.1. Histology. The areas treated with gel cream or cream
+(Figures 2(d) and 2(g)) presented an enhancement on the
+epidermis thickness, with the basal cells and their nuclei
+being more voluminous, when compared to gel treatment
+(Figure 2(a)). An enhancement in the nuclear volume in the
+spinous and basal layers could also be observed.
+When retinoic acid was present in the formulations
+studied, the epidermis thickness was greatly increased, and
+the basal layer showed both cells and nuclei increased. In
+addition, the effects observed from retinoic acid topical use
+occurred independently from vehicles studied (Figures 2(b),
+2(e), and 2(h)). There was an apparent increase of the dermal
+thickness when compared to the vehicles (formulations
+without retinoic acid).
+Glycolic acid increased the epidermis thickness and also
+the cell volume, when it was present in the cream formulation.
+Glycolic acid effects were vehicle dependent because better
+results were obtained only when this active substance was
+added in the gel cream and cream formulations (Figures 2(c),
+2(f), and 2(i)).
+3.2. Morphometry and Stereology. The statistical analysis
+results of the nuclear volume obtained in the morphometric
+study and the cell volume and epithelial and horny layer
+thickness obtained in the stereologic evaluation are shown in
+Figures 3 to 7.
+Both glycolic acid and retinoic acid acted on the epider-
+mis. However, this fact has occurred in different intensity
+and way, depending upon the variable studied. Retinoic acid
+enhanced the epithelial thickness (𝑃< 0.001) (Figure 3) (G:
+25.27 ± 2.16, GC: 25.07 ± 1.75, and C: 27.19 ± 0.42 𝜇m),
+which can suggest that epidermal cells are in intense renewal
+process, which was also observed by other authors who
+studied retinol effects on the skin [17, 18]. On the other
+hand, glycolic acid reduced this thickness (𝑃
+<
+0.001)
+(Figure 3) (G: 20.12 ± 3.20, GC: 18.24 ± 2.60, and C: 19.01 ±
+1.18 𝜇m). Rodrigues and Maia Campos [2] observed that
+a 15-day treatment of hairless mouse skin with glycolic
+acid enhanced the epithelium thickness; consequently the
+formulation of the present study could be suggested, since
+a lower concentration of this acid and a higher pH as well
+as the period of application were not enough to provoke a
+statistically significant enhancement of epithelium thickness.
+The effect provoked by retinoic acid in the horny layer
+renewal (Figure 7) was higher than the glycolic acid effect,
+since retinoic acid caused a reduction in the horny layer
+thickness (𝑃< 0.05) (retinoic acid: G: 7.70 ± 0.85, GC:
+7.22±1.30, and C: 8.87±0.91; glycolic acid: G: 15.43±2.08, GC:
+7.00 ± 0.66, and C: 8.79 ± 4.92), which can be due to higher
+
+=== Page 4 ===
+4
+BioMed Research International
+(a) Gel
+(b) Gel + RA
+(c) Gel + GA
+(d) GC
+(e) GC + RA
+(f) GC + GA
+(g) Cream
+(h) Cream + RA
+(i) Cream + GA
+Figure 2: Photomicrographs of hairless mice skin. Magnification: ×960, HE. Yellow stars represent nuclei of the basal cells and red rectangles
+represent spinous layers.
+0
+10
+20
+30
+Vehicle
+Gel
+Gel cream
+Cream
+v + retinoic acid
+v + glycolic acid
+Epithelial thickness (𝜇m)
+∗
+∗
+∗
+Figure 3: Mean values of epithelial thickness obtained by the
+treatment with the active substances in different formulations
+(ANOVA, 𝑛
+=
+5 measurements, mean ± SEM). ∗Significantly
+different from the vehicle treated area (𝑃< 0.001).
+cellular renewal stimulation and a higher desquamation ratio.
+This enhancement of epithelium thickness and reduction of
+horny layer thickness were also reported by Zouboulis [19].
+Glycolic acid, after a 7-day treatment, only reduced the
+granular layer thickness (Figure 4) which suggested that the
+exfoliation process was only beginning.
+0
+2
+4
+6
+8
+10
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+G
+GC
+C
+G
+GC
+C
+G
+GC
+C
+Basal layer
+Spinous layer
+Granular layer
+Epithelial layers thickness (𝜇m)
+Vehicle
+v + retinoic acid
+v + glycolic acid
+Figure 4: Mean values of epithelial layers thickness obtained by
+the treatment with the active substances in different formulations
+(ANOVA, 𝑛
+=
+5 measurements, mean ± SEM). ∗Significantly
+different from the vehicle treated area (𝑃< 0.01).
+Retinoic acid produced a significant increase in the
+thickness of the basal, spinous, and granular layers (𝑃<
+0.01) (retinoic acid: basal: 8.55, spinous: 7.52, and granular:
+4.7 𝜇m; vehicle: basal: 7.3, spinous: 5.6, and granular: 2.9 𝜇m)
+(Figure 4) without the enhancement of the number of cells
+
+=== Page 5 ===
+BioMed Research International
+5
+0
+100
+200
+300
+∗
+∗
+∗
+∗
+∗
+Nuclear volume (𝜇m3)
+G
+GC
+C
+G
+GC
+C
+G
+GC
+C
+Basal layer
+Spinous layer
+Granular layer
+Vehicle
+v + retinoic acid
+v + glycolic acid
+Figure 5: Mean values of nuclear volume obtained by the treatment
+with the active substances in different formulations (ANOVA, 𝑛=
+5 measurements, mean ± SEM). ∗Significantly different from the
+vehicle treated area (𝑃< 0.001).
+0
+200
+400
+600
+800
+1000
+1200
+∗
+∗
+∗
+∗
+∗
+Cell volume (𝜇m3)
+G
+GC
+C
+G
+GC
+C
+G
+GC
+C
+Basal layer
+Spinous layer
+Granular layer
+Vehicle
+v + retinoic acid
+v + glycolic acid
+Figure 6: Mean values of cell volume obtained by the treatment
+with the active substances in different formulations (ANOVA, 𝑛=
+5 measurements, mean ± SEM). ∗Significantly different from the
+vehicle treated area (𝑃< 0.001).
+(𝑃< 0.001) (basal: 1.9, spinous: 1.6, and granular: 1.7 cells
+× 105/mm3), probably due to the extracellular hydration. No
+inflammation was evident.
+Summers et al. [20] reported that epidermis cell renewal
+process usually leads to the formation of a thicker horny layer
+(hyperkeratinization) or sometimes to a thinner horny layer,
+which depends on the corneocyte cohesion.
+Retinoic acid treatment provoked an enhancement of
+epithelial layers thickness (basal, spinous, and granular
+layers), when compared to formulations with and without
+glycolic acid.
+Retinoic acid also provoked the enhancement of nuclear
+and cell volumes (𝑃< 0.001) (Figures 5 and 6), one of
+the reasons that cause the epithelium thickening (Figure 3).
+This way, it could be suggested that the enhancement of
+epithelium thickness occurred due to an enhancement of
+the intracellular hydration. Glycolic acid, except in granular
+0
+5
+10
+15
+20
+Horny layer thickness (𝜇m)
+Vehicle
+Gel
+Gel cream
+Cream
+v + retinoic acid
+v + glycolic acid
+∗
+Figure 7: Mean values of horny layer thickness obtained by the
+treatment with the active substances in different formulations
+(ANOVA, 𝑛
+=
+5 measurements, mean ± SEM). ∗Significantly
+different from the vehicle treated area (𝑃< 0.05).
+layer, has not modified epithelial layers thickness significantly
+(Figure 4).
+It can be suggested that intra- and extracellular edema
+(hydration) is a possible cause of the enhancement of epithe-
+lium thickness since Maia Campos et al. [15] and Silva and
+Maia Campos [16] also described these effects in guinea pig
+skin with the application of other active substances.
+The alterations observed in the cell nuclei can suggest
+an alteration on their functionality and could reflect an
+enhancement of nuclei activity [16].
+The enhancement of nuclear volume provoked by the
+retinoic acid treatment was connected with the enhancement
+of cytoplasm and cell volume, which confirms the presence
+of intracellular edema. On the other hand, glycolic acid did
+not alter significantly the cytoplasm and cellular volume
+when compared to the vehicle (formulation without active
+substances).
+The results obtained showed that one of the benefits
+from the use of these acids in dermocosmetic formulations
+is caused by the hydration of the epidermis.
+It is also important to highlight that, under the experi-
+mental conditions, retinoic acid effects are independent from
+the vehicle and, consequently, dermatologists could choose
+any of the studied vehicles (gel, gel cream, and cream)
+according to skin types that its antiaging effects will not be
+altered.
+Despite the fact that hairless mouse epidermis thickness
+is similar to human, differences between hairless mouse and
+human skin mean that caution is needed in interpreting the
+results. Nevertheless, the results obtained in this research
+contributed to orient and elucidate the possible effects of
+these acids on the epidermis.
+4. Conclusion
+Under the present experimental conditions, we concluded the
+following.
+(i) The effects of retinoic acid were independent from
+the vehicle because the evaluated variables were not
+
+=== Page 6 ===
+6
+BioMed Research International
+different when this substance was added to gel, gel
+cream, and cream. The glycolic acid effects were
+dependent on the vehicles since it caused better
+results when added to cream and gel cream.
+(ii) Retinoic acid was more effective when compared to
+glycolic acid, mainly in the cell renewal (due to the
+enhancement of nuclear volume) and the exfoliation
+process because it decreased the horny layer thick-
+ness.
+(iii) Retinoic acid was indicated to improve the skin
+conditions, in a short time application period, due to
+the horny layer renewal effect.
+Conflict of Interests
+The authors declare that there is no conflict of interests
+regarding the publication of this paper.
+Acknowledgment
+The authors would like to thank Professor Geraldo Maia
+Campos (in memoriam), from Faculdade de Odontologia de
+Ribeir˜ao Preto, Universidade de S˜ao Paulo, for the important
+contributions in histopathological and statistical analysis.
+References
+[1] C. E. Orfanos, C. C. Zouboulis, B. Almond-Roesler, and C. C.
+Geilen, “Current use and future potential role of retinoids in
+dermatology,” Drugs, vol. 53, no. 3, pp. 358–388, 1997.
+[2] L. H. T. Rodrigues and P. M. B. G. Maia Campos, “Comparative
+study of the effects of cosmetic formulations with or without
+hydroxy acids on hairless mouse epidermis by histopathologic,
+morphometric, and stereologic evaluation,” Journal of Cosmetic
+Science, vol. 53, no. 5, pp. 269–282, 2002.
+[3] N. S. Sadick, C. Karcher, and L. Palmisano, “Cosmetic derma-
+tology of the aging face,” Clinics in Dermatology, vol. 27, no. 3,
+pp. S3–S12, 2009.
+[4] E. C. Davis and V. D. Callender, “Aesthetic dermatology for
+aging ethnic skin,” Dermatologic Surgery, vol. 37, no. 7, pp. 901–
+917, 2011.
+[5] N. Kakudo, S. Kushida, K. Suzuki, and K. Kusumoto, “Effects
+of glycolic acid chemical peeling on facial pigment deposition:
+evaluation using novel computer analysis of digital-camera-
+captured images,” Journal of Cosmetic Dermatology, vol. 12, no.
+4, pp. 281–286, 2013.
+[6] L. H. Kligman, A. N. Sapadin, and E. Schwartz, “Peeling agents
+and irritants, unlike tretinoin, do not stimulate collagen synthe-
+sis in the photoaged hairless mouse,” Archives of Dermatological
+Research, vol. 288, no. 10, pp. 615–620, 1996.
+[7] M. Ramos-e-Silva, D. M. Hexsel, M. S. Rutowitsch, and M.
+Zechmeister, “Hydroxy acids and retinoids in cosmetics,” Clin-
+ics in Dermatology, vol. 19, no. 4, pp. 460–466, 2001.
+[8] S. Michel, A. Jomard, and M. D´emarchez, “Pharmacology
+of adapalene,” The British Journal of Dermatology, vol. 139,
+supplement 52, pp. 3–7, 1998.
+[9] J. Mih´aly, J. Gericke, G. Aydemir et al., “Reduced retinoid
+signaling in the skin after systemic retinoid-X receptor ligand
+treatment in mice with potential relevance for skin disorders,”
+Dermatology, vol. 225, no. 4, pp. 304–311, 2012.
+[10] M. D. Gianeti, T. A. L. Wagemaker, V. C. Seixas, and P. M.
+B. G. Maia Campos, “The use of nanotechnology in cosmetic
+formulations: the influence of vehicle in the vitamin A skin
+penetration,” Current Nanoscience, vol. 8, no. 4, pp. 526–534,
+2012.
+[11] E. Bagatin, T. A. L. Wagemaker, N. R. Aguiar Jr. et al.,
+“Tretinoin-based formulations—influence of concentration
+and vehicles on skin penetration,” Brazilian Journal of Pharma-
+ceutical Science, vol. 50, no. 4, 2014.
+[12] M. V. L. B. Bentley, J. M. Marchetti, N. Ricardo, Z. Ali-Abi, and
+J. H. Collett, “Influence of lecithin on some physical chemical
+properties of poloxamer gels: rheological, microscopic and in
+vitro permeation studies,” International Journal of Pharmaceu-
+tics, vol. 193, no. 1, pp. 49–55, 1999.
+[13] P. M. B. G. Maia Campos, S. A. Benetton, and G. M. Eccle-
+ston, “Vitamin A skin penetration—studies of some vehicles
+currently used,” Cosmetics & Toiletries, vol. 113, no. 7, pp. 69–72,
+1998.
+[14] S. E. Dal Belo, L. R. Gaspar, P. M. B. G. Maia Campos, and
+J.-P. Marty, “Skin penetration of epigallocatechin-3-gallate and
+quercetin from green tea and Ginkgo biloba extracts vehiculated
+in cosmetic formulations,” Skin Pharmacology and Physiology,
+vol. 22, no. 6, pp. 299–304, 2009.
+[15] P. M. B. G. Maia Campos, G. Ricci, M. Semprini, and R.
+A. Lopes, “Histopathological, morphometric, and stereologic
+studies of dermocosmetic skin formulations containing vitamin
+A and/or glycolic acid,” Journal of Cosmetic Science, vol. 50, no.
+3, pp. 159–170, 1999.
+[16] G. M. Silva and P. M. B. G. Maia Campos, “Histopathological,
+morphometric and stereological studies of ascorbic acid and
+magnesium ascorbyl phosphate in a skin care formulation,”
+International Journal of Cosmetic Science, vol. 22, no. 3, pp. 169–
+179, 2000.
+[17] S. Kang, E. A. Duell, G. J. Fisher et al., “Application of retinol to
+human skin in vivo induces epidermal hyperplasia and cellular
+retinoid binding proteins characteristic of retinoic acid but
+without measurable retinoic acid levels or irritation,” Journal of
+Investigative Dermatology, vol. 105, no. 4, pp. 549–556, 1995.
+[18] T. F¨orster, C. Jassoy, D. Petersohn et al., “Investigating the
+influence of a retinol cream on the skin,” in Proceedings of the
+21st IFSCC International Congress, September 2000.
+[19] C. C. Zouboulis, “Retinoids: is there a new approach?” IFSCC
+Magazine, vol. 3, no. 3, pp. 9–19, 2000.
+[20] R. S. Summers, B. Summers, P. Chandar, C. Feinberg, R. Gursky,
+and A. V. Rawlings, “The effect of lipids, with and without
+humectant, on skin xerosis,” Journal of Cosmetic Science, vol. 47,
+no. 1, pp. 27–39, 1996.
+

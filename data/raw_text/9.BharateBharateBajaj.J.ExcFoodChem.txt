@@ -1,0 +1,2694 @@
+=== Page 1 ===
+Review Paper
+ 
+Interactions and incompatibilities of pharmaceutical excipients
+with active pharmaceutical ingredients: a comprehensive
+review.
+Sonali S. Bharate, Sandip B. Bharate and Amrita N. Bajaj
+a*
+b 
+c
+P.E. Society’s Modern College of Pharmacy (For Ladies), Borhadewadi, At/Post- Moshi, Tal-Haweli, Dist- Pune, Maharashtra –
+a
+412105, India
+STES’s Sinhgad College of Pharmacy, Off Sinhgad Road, Vadgaon (Budruk), Pune-411041, India
+b
+C.U. Shah College of Pharmacy, S.N.D.T. Women’s University, Juhu Tara Road, Santacruz (E), Mumbai, Maharashtra-400049, India
+c
+Received: 05 March 2010; Accepted: 03 November 2010
+ABSTRACT
+Studies of active drug/excipient compatibility represent an important phase in the preformulation
+stage of the development of all dosage forms. The potential physical and chemical interactions
+between drugs and excipients can affect the chemical nature, the stability and bioavailability of drugs
+and, consequently, their therapeutic efficacy and safety. The present review covers the literature
+reports of interaction and incompatibilities of commonly used pharmaceutical excipients with
+different active pharmaceutical ingredients in solid dosage forms. Examples of active drug/excipient
+interactions, such as transacylation, the Maillard browning reaction, acid base reactions and physical
+changes are discussed for different active pharmaceutical ingredients belonging to different thera-
+peutic categories viz antiviral, anti-inflammatory, antidiabetic, antihypertensive, anti-convulsant, an-
+tibiotic, bronchodialator, antimalarial, antiemetic, antiamoebic, antipsychotic, antidepressant, anti-
+cancer, anticoagulant and sedative/hypnotic drugs and vitamins. Once the solid-state reactions of a
+pharmaceutical system are understood, the necessary steps can be taken to avoid reactivity and imp-
+rove the stability of drug substances and products.
+KEY WORDS: Incompatibility, interaction, active pharmaceutical ingredient, excipients, lactose, magnesium stearate
+INTRODUCTION
+Preformulation is the first step in the rational
+formulation of an active pharmaceutical
+ingredient (API). It is an investigation of the
+physical-chemical properties of the drug subs-
+tance, alone and in combination with
+excipients. Assessment of possible incom-
+patibilities between the drug and different
+excipients is an important part of pre-
+formulation. The formulation of a drug subs-
+tance frequently involves it being blended with
+different excipients to improve manufac-
+turability, and to maximize the product’s ability
+to administer the drug dose effectively.
+Excipients 
+are 
+known 
+to 
+facilitate
+administration and modulate release of the
+active component. They can also stabilize it
+against degradation from the environment.
+Corresponding author: Dr. Sonali S. Bharate, Assistant Professor, P.E.
+*
+Society’s Modern College of Pharmacy (For Ladies), Borhadewadi,
+At/Post- Moshi, Tal- Haweli, Dist- Pune, Maharashtra – 412105, India, 
+Email: sonalibharate@gmail.com
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 3
+
+=== Page 2 ===
+Review Paper
+Most excipients have no direct pharmacological
+action but they can impart useful properties to
+the formulation. However, they can also give
+rise to inadvertent and/or unintended effects
+such as increased degradation of the drug.
+Physical and chemical interactions between
+drugs and excipients can affect the chemical
+nature, the stability and bioavailability of drug
+products, and consequently, their therapeutic
+efficacy and safety (1). 
+There have been several approaches proposed
+that satisfy the requirements of a drug-excipient
+chemical compatibility screen. The most
+resource sparing of these approaches is
+computational, where drug-excipient chemical
+compatibility can be predicted. This requires a
+comprehensive database of reactive functional
+groups for both drugs and excipients, com-
+bined with an in-depth knowledge of excipients
+and their potential impurities. Such an app-
+roach provides a rapid analysis and requires no
+bulk substance. However, there are inherent
+risks with using this computational approach as
+the sole source of information.
+Binary mixture compatibility testing is another
+commonly used method. In this approach,
+binary (1:1 or customized) mixtures of the drug
+and excipient, with or without, added water and
+sometimes compacted or prepared as slurries,
+are stored under stressed conditions (also
+known as isothermal stress testing (IST)) and
+analyzed using a stability-indicating method,
+e.g. high performance liquid chromatography
+(HPLC). The water slurry approach allows the
+pH of the drug-excipient blend and the role of
+moisture to be investigated. Alternatively,
+binary mixtures can be screened using other
+thermal methods, such as differential scanning
+calorimetry (DSC) (2, 3). DSC is currently the
+leading technique in this field (4). The main
+benefit of DSC, rather than stressed storage
+methods, is its ability to quickly screen potential
+excipients for incompatibilities derived from
+the appearance, shifts or disappearances of
+peaks and/or variations in the corresponding 
+ÄH (enthalpy of transition) (5). Other features
+such as low sample consumption also makes it
+an attractive method. Although DSC is
+unquestionably a valuable technique, interpret-
+nation of the data may not be straightforward.
+In this method, the sample is exposed to high
+temperatures (up to 300°C or more), which in
+reality is not experienced by the dosage form.
+Thus, DSC results should be interpreted
+carefully, as the conclusions based on DSC
+results alone can be often misleading and in-
+conclusive. Therefore results obtained with
+DSC should always be confirmed with IST.
+IST involves storage of drug-excipient blends
+with, or without moisture, at elevated tem-
+pertures for a specific period of time (typically
+3–4 weeks) to accelerate drug degradation and
+interaction with excipients. The samples are
+then visually observed for any changes in color
+or physical characteristics, and the drug
+content, along with any degradants, is deter-
+mined quantitatively (6). Although more useful,
+the disadvantage with this method is that it is
+time consuming and requires quantitative
+analysis using e.g. HPLC. Ideally, both tech-
+piques, DSC and IST should be used in
+combination for the selection of excipients.
+Similarly, isothermal micro calorimetry is a po-
+pular method for detecting changes in the solid
+state of drug-excipient mixtures through
+changes in heat flux (7). The results from using
+thermal techniques can be indicative of whet-
+her formulations are stable, but reveal no
+information concerning the cause or nature of
+any incompatibility. Techniques such as hot
+stage microscopy and scanning electron
+microscopy can be used in conjunction with
+DSC to determine the nature of an apparent
+incompatibility (8). These techniques study the
+morphology of the drug substance and can
+determine 
+the 
+nature 
+of 
+physical
+transformations, thus indicating the type of
+incompatibility that has occurred (4). A more
+definitive result would be obtained using e.g.
+HPLC or HPLC-MS/MS. It is well known that
+the chemical compatibility of an API in a binary
+mixture may differ from that of a multi-
+component prototype formulation. An alterna-
+tive is to test “prototype” formulations. The
+amount of API in the blend can be modified
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 4
+
+=== Page 3 ===
+Review Paper
+according to the anticipated drug-excipient
+ratio in the final compression blend (9).
+There are several examples of formulation
+instability resulting from solid–solid interac-
+tions (10, 11). Certain classes of compounds are
+known to be incompatible with particular
+excipients (12). Therefore knowledge of the
+chemistry of the drug substance and excipients
+can often minimize formulation surprises. Heat
+and water are the primary catalysts for drug-
+excipient interactions and play a critical role in
+the degradation of a drug substance (13). The
+majority of ‘small molecule’ API instability
+reactions occur via hydrolysis, oxidation and
+Maillard reaction. The moisture content of the
+drug and excipients plays a critical role in their
+incompatibility. Heat and moisture accelerate
+most reactions, even if moisture is not involved
+in the reaction scheme, since moisture brings
+molecules closer together, and heat always
+increases the reaction rate. The incompatibility
+between a drug and an excipient per se, and that
+which occurs between a drug and moisture/
+water activity due to the ability of the excipient
+to absorb moisture, represents two different
+kinds of incompatibilities. Excipients such as
+starch and povidone may possess a high water
+content (the equilibrium moisture content of
+povidone is about 28% at 75% relative humi-
+dity), which can increase drug degradation. The
+moisture level will affect the stability depending
+on how strongly it is bound and whether it can
+come into contact with the drug (14). It is
+generally recognized that aspirin is incom-
+patible with magnesium salts. Higher moisture
+contents and humidity 
+accelerate the
+degradation even further (14). Many different
+moisture mediated degradation mechanisms
+exist, but those mediated by surface moisture
+appear to be the most common (15).
+Consequently it is important that stress met-
+hods incorporate water to encourage the for-
+mation of all possible impurities. The way in
+which water facilitates degradation is not fully
+understood, but work carried out by Kontny
+et al. (15) has confirmed its importance. Degra-
+dation problems can, therefore, be difficult to
+avoid because water often cannot be entirely
+excluded from drug product formulations.
+Many excipients are hygroscopic, (16, 17) and
+absorb water during manufacturing, for
+example during wet granulation. Depending on
+the degree of hydrolytic susceptibility, different
+approaches to tablet granulation can be used to
+minimize hydrolysis. For compounds such as
+acetylsalicylic acid that are readily hydrolysable,
+direct compression or dry granulation is pre-
+ferable, to wet granulation. However drug-
+excipient incompatibility may still occur.
+Chemical interaction between the drug and
+excipients may lead to increased decom-
+position. Stearate salts (e.g. magnesium stearate,
+sodium stearate) should be avoided as tablet
+lubricants if the API is subject to hydrolysis via
+ion-catalyzed degradation. Excipients generally
+contain more free moisture than the drug
+substance (16), and in an attempt to obtain the
+most thermodynamically stable state, water is
+able to equilibrate between the various compo-
+nents (18). Formulation can, therefore, poten-
+tially expose the drug substance to higher levels
+of moisture than normal, which greatly
+increases the possibility of even stable com-
+pounds degrading. In selecting excipients, it is
+probably best to avoid hygroscopic excipients
+when formulating hydrolytically labile com-
+pounds, although examples exist where the
+drug is deliberately formulated with over-dried
+hygroscopic excipients (e.g. Starch 1500) which
+act as a moisture scavenger to prevent the drug
+from coming into contact with water.
+One of the most effective ways to stabilize a
+pH sensitive drug is through the adjustment of
+the microscopic pH of the formulation. Ex-
+cipients with high pH stability and buffering
+agents are recommended. Humidity is another
+major determinant of product stability in solid
+dosage forms. Elevation of relative humidity
+usually decreases the stability, particularly for
+drugs that are highly sensitive to hydrolysis. For
+example, nitrazepam in the solid state showed a
+linear relationship between the logarithm of the
+rate constant for the decomposition of the drug
+at different relative humidities (19). In addition,
+increased humidity can also accelerate the
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 5
+
+=== Page 4 ===
+Review Paper
+degradation process by facilitating interaction
+with excipients (20, 21). Molecular mobility is
+also responsible for solid-solid reactions (22-
+24). Systems with enhanced mobility have more
+reactivity. Mechanical stress is also expected to
+accelerate such reactions by creating a larger
+surface area, increasing the number of defects,
+and increasing the amount of amorphous
+material (10).
+Oxidation reactions are complex and it can be
+difficult to understand the reaction mechanism.
+The best approach is to avoid excipients
+containing oxidative reactants such as peroxides
+and fumed metal oxides like fumed silica and
+fumed titanium dioxide. Excipients such as
+povidone and polyethylene glycols (PEGs) may
+contain organic peroxides as synthetic by-
+products which are typically more reactive than
+hydrogen peroxide. Although most compendial
+excipients have limits on metals, free ethylene
+oxide or other oxidizing agents via the peroxide
+or iodine value there are still some instances of
+oxidative degradation of drug due to presence
+of reactive peroxides in excipients such as
+povidone. For example, Hartauer et al. (2000)
+reported oxidative degradation of Raloxifene
+H.L. occurring via peroxide impurities in
+povidone (25). Thus, it is important to under-
+stand the purity and composition of the
+excipient prior to formulation.
+Aldehyde-amine addition is another important
+type of reaction, which is responsible for
+incompatibility between excipients comprising
+reducing sugars (e.g. lactose, dextrose) and
+amine-containing drugs. Aldehyde-amine addi-
+tion leads to the formation of a Schiff base,
+which further cyclizes to form a glycosamine
+followed by an Amadori rearrangement (26,
+27). This sequence of reactions is called the
+Maillard reaction, and is responsible for a large
+number of incompatibilities between APIs and
+excipients. 
+Monkhouse (28) listed common solid-state
+incompatibilities as shown in Table 1.
+Table 1 List of common solid-state incompatibilities 
+Functional Group 
+(Example of API)
+Incompatible with
+Type of Reaction
+Reference
+Primary amine (e.g.
+Acyclovir)
+Mono and disaccharides
+(e.g. lactose)
+Maillard reaction
+(26, 29)
+Esters (e.g.
+Moexipril)
+Basic components (e.g.
+magnesium hydroxide)
+Ester hydrolysis
+(30)
+Lactone (e.g.
+Irinotecan HCl)
+Basic components (e.g.
+magnesium hydroxide)
+Ring opening
+(hydrolysis)
+(31)
+Carboxyl
+Bases
+Salt formation
+(28, 32)
+Alcohol (e.g.
+Morphine)
+Oxygen
+Oxidation to
+aldehydes and
+ketones
+(33, 34)
+Sulfhydryl (e.g.
+Captopril)
+Oxygen
+Dimerization
+(33, 34)
+Phenol
+Metals, polyplasdone
+Complexation
+(28, 32)
+Gelatin 
+Cationic surfactants
+Denaturation
+(28, 32)
+This present review discusses incompatibilities
+of ‘small molecule’ API’s associated with
+different pharmaceutical excipients as sum-
+marized in Table 2. Incompatibilities of APIs
+with different pharmaceutical excipients are
+discussed below in subsequent sections relating
+to excipient types as follows: Saccharides, Stea-
+rates, Polyvinylpyrrolidone, Dicalcium phos-
+phate dihydrate, Eudragit polymers, Celluloses,
+Polyethylene glycol, Polysorbate 80, Sodium
+lauryl sulfate, Chitosan, Magnesium oxide, Sili-
+con dioxide, Carbonates, and Miscellaneous. 
+Saccharides 
+Lactose is perhaps one of the most commonly
+used excipients in pharmaceutical oral dosage
+forms (tablets) and, is in its crystalline form,
+generally considered to be least reactive. Blaug
+and Huang (99) reported that, crystalline
+lactose, rather than, amorphous lactose caused
+a problem in interaction of dextroamphetamine
+sulfate with spray dried lactose. Lactose is a
+reducing disaccharide and reactions between it
+and drugs containing amino groups have been
+reported. This interaction is shown in Figure 1.
+This sequence of such reaction is referred to as
+the Maillard reaction (26). 
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 6
+
+=== Page 5 ===
+Review Paper
+Table 2 A list of excipients and their incompatibilities with API’s belonging to different therapeutic classes
+Excipient
+API and its Therapeutic Class
+Saccharides
+(A)
+Lactose
+Acyclovir (29) - Antiviral; Aceclofenac (35) and Ketoprofen (36-38) - Anti-inflammatory; Metformin (29)-
+Antidiabetic; Amlodipine (39), Ceronapril (40), Lisinopril (41) and Oxprenolol (42) - Antihypertensive; Fluconazole
+(43) - Antifungal; Primaquine (44) - Antimalarial; Promethazine (45) - Antiemetic; Fluoxetine (46) and Seproxetine
+Maleate (47) – Antidepressant; Picotamide (48) – Anticoagulant; Etamsylate (43) - Antihemorrhagic; Aminophylline
+(49) and Clenbuterol (50) – Bronchodialator; Baclofen (51)- CNS Drug; Ranitidine (52) – GI Agent; Doxylamine (53)
+– Antihistaminic; Thiaminechloride HCL (54) – Vitamin; Pefloxacin (55) - Antibiotic
+(B)
+Lactose/meglumine/ Tris Buffer Blend
+Glipizide (56) - Antidiabetic
+(C)
+Mannitol, Pearlitol (80% Mannitol +20
+% Maize Starch)
+Quinapril (9)- Antihypertensive; Primaquine (44)- Antimalarial; R-omeprazole (57) – GI Agent; Promethazine (45) –
+Antiemetic 
+(D)
+Starch
+Seproxetine Maleate (47) – Antidepressant; Clenbuterol (50) - Bronchodialator
+(E)
+Sodium Starch Glicollate
+Clenbuterol (50) - Bronchodialator
+(F)
+Dextrose
+Pefloxacin (55) - Antibiotic
+Stearates
+(A)
+Magnesium Stearate
+Acyclovir (58) – Antiviral; Aspirin (59-62), Ibuproxam (8), Indomethacin (63, 64) and Ketoprofen (36-38)- Anti-
+inflammatory; Glipizide (56), Chlorpropamide (65), Glimepiride (66) and Glibenclamide (67) - Antidiabetic; 
+Captopril (68, 69), Fosinopril (40), Moexipril (10, 30, 70), Oxprenolol (42) and Quinapril (9) - Antihypertensive;
+Cephalexin (71), Erythromycin (72), Nalidixic Acid (73), Oxacillin (74) and Penicillin G (74) - Antibiotic; Primaquine
+(44)- Antimalarial; Promethazine (45)- Antiemetic; Albendazole (75) - Antiamoebic; â-lapachone (76)- Anticancer;
+Clopidogrel (77)- Anticoagulant; Doxylamine (53) – Antihistaminic; Temazepam (42) - Hypnotic
+(B)
+Stearic Acid
+Doxylamine (53)- Antihistaminic
+Polyvinyl Pyrolidone (PVP)
+Indomethacin (63, 64), Ibuproxam (8) and Ketoprofen (36-38) – Anti-inflammatory; Atenolol (63) and Oxprenolol
+(42)- Antihypertensive; Sulfathiazole (78) – Antibiotic; Haloperidol (79)- Antipsychotic; Ranitidine (52)- GI Agent;
+Doxylamine (53)- Antihistaminic; Temazepam (42)- Hypnotic; Clenbuterol (50) – Bronchodialator
+Dicalcium Phosphate Dihydrate
+(DCPD)
+Ceronapril (40), Oxprenolol (42) and Quinapril (9)- Antihypertensive; Metronidazole (80) – Antiamoebic; â-
+lapachone (76) and Parthenolide (81)- Anticancer; Famotidine (82)- GI Agent; Temazepam (42) - Hypnotic
+Eudragit Polym ers
+(A)
+Eudragit RS and Rl
+Diflunisal (83, 84), Flurbiprofen (83, 84) and Piroxicam (83, 84) – Anti-inflammatory
+(B)
+Eudragit RL100
+Ibuprofen (85) (86)– Anti-inflammatory
+(C)
+Eudragit E100
+Ranitidine (52) – GI Agent
+Celluloses
+(A)
+Microcrystalline Cellulose (MCC),
+Avicel PH 101
+Enalapril (87, 88) – Antihypertensive; Isosorbide Mononitrate (6) – Antiangina; Clenbuterol (50) - Bronchodialator
+(B)
+Cellulose Acetate
+Isosorbide Mononitrate (6)- Antiangina
+(C)
+Hypromellose Acetate Succinate
+(HPMCAS)
+Dyphylline (89) - Bronchodialator
+(D)
+Hydroxypropyl Cellulose
+Trichlormethiazide (90) - Diuretic
+PEG
+Ibuprofen (91), Ibuproxam (8) and Ketoprofen (36-38)– Anti-inflammatory; Phosphomycin (92) - Antibiotic;
+Clopidogrel (77)- Anticoagulant
+Polysorbate 80
+Ibuprofen (91) – Anti-inflammatory
+Sodium Lauryl Sulfate
+Chlorpropamide (65) – Antidiabetic; Clopidogrel (77)– Anticoagulant; Chlordiazepoxide (11, 93) – Hypnotic
+Chitosan
+Diclofenac (11, 94) and Piroxicam (95)– Anti-inflammatory
+Magnesium Oxide
+Ibuprofen (96) – Anti-inflammatory
+Silicon Dioxide
+Enalapril (87, 88) - Antihypertensive
+Carbonates
+(A)
+Sodium Carbonate
+Adefovir Dipivoxil (97) - Antiviral
+(B)
+Sodium Bicarbonate
+Ibuprofen (96) – Anti-inflammatory
+Miscellaneous
+(A) Plasdone
+Glimepiride (66) - antidiabetic
+(B) Ascorbic acid
+Atenolol (63) – antihypertensive
+(C) Citric acid
+Atenolol (63)- antihypertensive
+(D) Butylated hydroxyanisole
+Atenolol (63)- antihypertensive
+(E) Succinic acid
+Phosphomycin (92)- antibiotic
+(F) Na dioctylsulfocuccinate
+Phosphomycin (92) - antibiotic
+(G) Ca and Mg salts
+Tetracyclins (98) - Antibiotic
+(H) Talc
+Seproxetine maleate (47) - antidepressant
+(i). Precirol ATO 5
+Temazepam (42)- hypnotic
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 7
+
+=== Page 6 ===
+Review Paper
+There are a number of reports of the incom-
+patibility of lactose with amine-containing
+APIs. DSC and FT-IR studies showed that
+aminophylline, a bronchodilator drug consisting
+of a purine ring system coupled with an
+ethylenediamine moiety was incompatible with
+lactose. Brown discoloration appeared in
+samples containing 1:5 (w/w) mixtures of
+aminophylline and lactose following three
+weeks of storage at 60°C (100). Another group
+of researchers also reported similar findings
+from stability experiments using aminophylline
+combined with four tablet excipients (cellulose
+starch, glucose (dextrose) and lactose) stored at
+5°C, room temperature (27 ± 3°C), 45°C and in
+direct sunlight for 30 days. Degradation of the
+drug increased with increase in temperature and
+on exposure to sunlight. The degradation was
+particularly intense in the presence of glucose
+and lactose and a change in color from white to
+yellow occurred in such mixtures. At 45°C and
+in sunlight both pure drug and its mixtures
+changed color during the storage period (49).
+Seproxetine, a selective serotonin re-uptake
+inhibitor, is a primary amine and an active
+metabolite of fluoxetine. Its maleate hemi-
+hydrate salt demonstrated an incompatibility
+with lactose and starch in a gelatin capsule
+dosage form. Analogous to a Micheal addition,
+there is a formation of 1-4 addition product
+between the drug and the maleic acid facilitated
+by the free moisture associated with the starch.
+Formation of the 1,4-addition product was
+noticed in the presence of pregelatinized starch
+while a Maillard reaction product was formed
+by interaction of the drug with lactose as shown
+in Figure 1 (47). The schematic of the interac-
+tion between saproxetine and maleic acid in the
+presence of starch is shown in Figure 2. An
+ACE inhibitor, ceronapril containing a primary
+amine function, also exhibited incompatibility
+with lactose due to a Maillard reaction. HPLC
+studies of mixtures of ceronapril with lactose
+after 3 weeks storage at 50ºC showed that the
+ceronapril had degraded by 8.4% (40).
+Amlodipine is a dihydropyridine calcium chan-
+nel blocker containing a primary amine group.
+It was found to be unstable in a multi-
+component mixture with lactose, magnesium
+stearate and water. Amlodipine besylate glyco-
+syl was identified as a major reason for
+degradation due to a Maillard reaction between
+the drug and lactose (39). Metformin is a bigua-
+nide class of antidiabetic drug also containing a
+primary amine group. Binary mixtures of met-
+formin with starch and lactose showed interac-
+tion upon heating, changing the melting
+temperature of metformin and the accom-
+panying enthalpy. A change in the melting
+temperature of metformin was observed for all
+mixtures tested i.e. metformin: starch ratios of
+2:8; 3:7; 1:1; 7:3 and 8:2. The melting peak for
+metformin was not visible in the presence of
+lactose suggesting an interaction between them.
+Displacement of the melting temperature of
+metformin, for all the metformin–starch mix-
+tures tested, confirmed the interaction between
+the two materials. One possible reason for this
+interaction can be a Maillard reaction between
+Figure 1 A general Maillard reaction between lactose
+and an amine group-containing API
+Figure 2 Interaction between Seproxetine and maleic
+acid in the presence of starch (47).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 8
+
+=== Page 7 ===
+Review Paper
+the lactose carbonyl that can react with an
+amine group of metformin (101). Acyclovir is a
+purine class of antiviral drug, again, containing
+a primary amine group. Results of DSC studies
+of physical mixtures of the drug with lactose
+suggested an incompatibility, confirmed by li-
+quid chromatography coupled with mass spect-
+rometry (LC-MS) which identified the for-
+mation of a Maillard reaction as shown in
+Figure 1 (29).
+Baclofen is a primary amine used in treatment
+of spastic movement disorders. Using LC-MS
+studies showed that it was incompatible with
+lactose as indicated by the formation of a Mail-
+lard reaction product. Fourier transform infra-
+red spectroscopic analysis (FTIR) showed the
+formation of the imine bond, which indicated
+that baclofen, undergoes a Maillard-type reac-
+tion with lactose (51).
+Lactose monohydrate also interacted with
+moisture sensitive drugs and affected the stabi-
+lity of the drug (102). A mixture of thiamine
+hydrochloride and lactose underwent the Mail-
+lard reaction forming the N-glycosylamine,
+which was further converted to the amino
+ketone via an Amadori rearrangement. The
+configuration of an á-(spray-dried) lactose and
+â-anhydrous lactose was not relevant for the
+Maillard reaction because the reaction of
+lactose is believed to occur through an open-
+chain form. Spray dried lactose also contains
+amorphous lactose which is important for
+reactivity (99). Similar changes in spectra were
+noticed for binary mixtures of both forms of
+lactose with thiamine hydrochloride. A change
+of tablet color due to the degradation of drug
+under accelerated conditions was observed (54).
+Although primary amines are the most
+commonly reported substrates for the Maillard
+reaction, there are also reports of Maillard
+reactions with secondary amines. Oxprenolol
+hydrochloride (42), fluoxetine hydrochloride
+(46), etamsylate (43), ranitidine (52) and aceclo-
+fenac (35) are examples. Etamsylate is 2,5-di-
+hydroxybenzene sulfonic acid containing an N-
+ethylethanamine group. The DSC thermograms
+of the mixtures of etamsylate and lactose sho-
+wed additional peaks, in addition to those
+recorded for the individual components. In the
+case of the etamsylate–lactose mixture an
+additional prominent endotherm appeared at
+118.5°C. The main peak at 136.7°C in the
+original etamsylate thermogram shifted to a
+lower temperature of 131.4°C. This was pro-
+bably due to solid solubility of lactose in
+etamsylate (43).
+Ranitidine HCl is a drug used for the treatment
+of gastric ulcer. The drug is a secondary amine.
+An incompatibility was reported in a 1:1 binary
+mixture of the drug and lactose. The DSC
+thermogram of lactose monohydrate showed a
+dehydration peak at 150°C followed by an
+endothermic melting peak at 222°C. However,
+the thermogram of the binary mixture showed a
+broader peak at 150°C and the disappearance
+of the melting peak of lactose at 222°C,
+indicating a possible interaction between
+ranitidine and lactose (52). Aceclofenac is a
+Non-Steroidal 
+Anti-inflammatory 
+drug
+(NSAID) with a secondary amine group. It
+showed an incompatibility with spray-dried
+lactose (SDL). In the binary mixture of
+aceclofenac and SDL (7:3), an IR peak at
+1848.6 cm using pure aceclofenac was
+-1
+observed. This peak disap-peared and another
+peak at 1771.5 cm shifted to 1762.8 cm . In
+-1
+-1
+the mixture of aceclofenac and SDL at a ratio
+of 6:4, peaks at 1848.6 and 1771.5 cm-1 
+disappeared completely using pure aceclofenac.
+A further increase in the SDL concentration
+gave similar results (35).
+There are also some reports of lactose
+interaction with drugs not having a primary or
+secondary amine group such as Fluconazole
+and Pefloxacin. The mixture of fluconazole and
+lactose showed additional peaks by DSC at
+86.1°C and 136.4°C respectively, in addition to
+the peak corresponding to the melting of pure
+drug at 140.2°C. This indicates an interaction
+between the drug and the excipient (43).
+The antibacterial drug pefloxacin mesylate also
+does not contain a primary or secondary amine
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 9
+
+=== Page 8 ===
+Review Paper
+group but is reported to interact with
+anhydrous dextrose, Pearlitol® (mannitol),
+Lactopress SD (directly compressible lactose),
+Lactochem FP [Natural L (+) Lactic Acid], and
+Lycatab® (starch/calcium carbonate), as indica-
+ted by the loss of the characteristic melting
+endothermic peak of perfloxacin mesylate in
+the DSC thermogram. The enthalpy changes in
+admixtures were within a 10% limit of the
+calculated enthalpy. However, the results of
+isothermal stability studies did not support the
+conclusions from the DSC results (55). Since
+elevated temperatures in DSC study are not
+necessarily relevant to ambient conditions,
+isothermal stress results are more reliable.
+Further, additional stability studies of prototype
+formulation at accelerated conditions can be
+carried out to discover any potential incom-
+patibility. Another tertiary amine drug, prome-
+thazine hydrochloride used as an antiemetic,
+antihistamine and sedative, resulted in a brown
+color in stressed binary mixture studies (stored
+at 55°C for 3 weeks) indicating a potential in-
+teraction with lactose monohydrate (45).
+Meglumine is an amino sugar derived from
+sorbitol. The incompatibility of the antidiabetic
+drug glipizide with the blend of meglumine/
+TRIS buffer has been reported. An interaction
+was observed between meglumine and glipizide
+but the mechanism has not been established. A
+yellow coloration caused by the interaction of
+the amine group of meglumine/TRIS buffer
+and lactose was observed. Because the solubility
+modifier (meglumine/TRIS buffer) was requi-
+red to increase the solubility of glipizide in the
+formulation, the presence of lactose in the for-
+mulation was considered detrimental to long-
+term stability. In addition, a melting endo-
+thermic peak of glipizide was found to be mis-
+sing in a glipizide–lactose mixture, which
+suggested an interaction between the two com-
+ponents. A sharp endothermic peak at
+130.32°C was observed in the DSC thermo-
+gram of meglumine, which broadened and
+shifted to lower temperature (122.81°C) for a
+glipizide and meglumine mixture. The drug
+peak was completely absent in the DSC trace of
+the mixture, which suggested a possible interac-tion.
+The DSC trace of TRIS buffer showed two
+endothermic peaks at 139.14ºC (probably due
+to evaporation of adsorbed moisture) and
+172.73°C (melting point of TRIS buffer),
+followed by an endotherm at 300°C, probably
+due to the decomposition of TRIS buffer. In
+the thermogram of glipizide and TRIS buffer
+mixture, the TRIS buffer peak at 139.14°C
+shifted to a lower temperature (135.60°C). In
+addition, the drug peak was missing and a
+broad endothermic peak was observed at
+296.16°C (56). The DSC results were indicative
+of an interaction between glipizide and TRIS
+buffer. However, the IR spectrum of glipizide–
+TRIS buffer mixture showed the presence of
+characteristic bands corresponding to glipizide.
+There was no appearance of new bands. Hence,
+there was strong evidence of unchanged drug
+structure and lack of chemical interaction bet-
+ween the two. Thus, it was concluded that there
+was no chemical incompatibility between glipi-
+zide and TRIS buffer.
+ 
+The results confirmed that DSC could be used
+as a rapid method to evaluate the compatibility
+between a drug and excipients. However,
+caution needs to be exercised while interpreting
+the DSC results alone. Wherever possible,
+results from other techniques such as IR and
+quantitative analysis after storage under stressed
+conditions, should be taken in conjunction with
+DSC results to reach any definite conclusion. In
+the present example, the results from the DSC
+along with IR and/or HPLC were successfully
+employed to assess the compatibility of glipizi-
+de with the excipients used in the development
+of extended release formulations. Based on the
+results of IR and/or HPLC analysis, any pos-
+sible pharmaceutical incompatibility between
+glipizide and TRIS buffer and magnesium
+stearate was ruled out. Other APIs which show
+possible incompatibilities in binary mixtures
+with lactose include ketoprofen (36, 37),
+picotamide (48), primaquine (44), clenbuterol
+(50), sennosides A and B (103) and lisinopril
+(41).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 10
+
+=== Page 9 ===
+Review Paper
+Mannitol is a sugar alcohol derived from a
+sugar by reduction and is a commonly used,
+non-hygroscopic and chemically stable exci-
+pient, with good flow properties and high
+compressibility. As such, it is suitable for use
+with APIs sensitive to water. It is primarily used
+as a diluent (10-90%) in tablet formulations.
+There have, however, been some reports of 
+adverse effects of mannitol on stability of
+drugs. This has been attributed to continued
+crystallization of mannitol from a system that is
+initially only partially crystalline. This can result
+in an increase in water activity in amorphous
+regions where the drug is located, with
+subsequent adverse effects on stability (104).
+Mannitol was found to be incompatible with
+omeprazole (57), primaquine (44) and quinapril
+(9). Mixing mannitol with either of the
+omeprazole sodium isomers in their racemic
+forms led to a decrease in the crystallinity of the
+resulting mixtures. In the case of S- and R,S-
+omeprazole sodium the crystallinity is lost.
+Mixing of mannitol and R-omeprazole sodium
+leads to the decrease in melting temperatures
+and broadening the melting peaks that can be
+attributed to the interaction between two
+different crystalline structures. There was better
+compression of the S-omeprazole–mannitol
+mixture resulting in a smoother tablet surface,
+compared to that of R-omeprazole–mannitol.
+Significant physical interaction of R-
+omeprazole with mannitol was observed from
+localized thermal analysis (LTA) and DSC
+results (57).
+Despite of the well known interaction of
+lactose with drugs that contain primary and
+secondary amine groups, it continues to be one
+of the most widely used diluents. Most of the
+Maillard reactions may be prevented by
+reducing the water activity in the formulations
+and using appropriate packaging. Castello and
+Mattocks (1962) reported that the Maillard
+reaction occurs only in the presence of an
+amine base and not in the presence of the salt.
+The release of free-base from the amine salt
+occurs by reaction of the alkaline lubricant, for
+example magnesium stearate, which removes
+hydrogen ion with the formation of stearic acid,
+furnishing an alkaline medium in the adsorbed
+moisture (105).
+Stearates
+Magnesium stearate is widely used as a lubricant
+in the manufacture of pharmaceutical solid
+dosage forms. Literature shows that there are
+numerous reports of the incompatibility
+between stearates and active pharmaceutical
+ingredients. Chemical incompatibility between
+aspirin and magnesium stearate results in a
+number of potentially undesirable products,
+such as salicylic acid, salicyl salicylic acid and
+acetyl salicyl salicylic acid (106, 107). Several
+theories have been suggested to explain the
+mechanism of this chemical incompatibility.
+Acetylsalicylic acid is a moisture-sensitive drug
+(108) hence its degradation is often associated
+with the presence of water (109) and/or
+alkaline pH (110). Tablet mixtures containing
+aspirin and drugs with easily-acetylated groups
+react to give acetyl compounds and salicylic
+acid. Troup and Mitchner (111) reported the
+reaction of phenylephrine hydrochloride with
+acetylsalicylic acid where an acetyl group is
+transferred from acetylsalicylic acid to the
+phenylephrine. For example, mixtures of
+phenylephrine hydrochloride and aspirin
+contained 80% of acetylated phenylephrine
+after 34 days at 70°C. Adding starch and
+magnesium stearate slowed this reaction to
+about 1% in 34 days, while adding magnesium
+stearate 
+alone 
+resulted 
+in 
+complete
+decomposition in 16 days. In addition some
+diacetylated product was produced. This
+reaction may proceed by direct acetylation.
+Similarly, aspirin tablets containing codeine or
+acetaminophen yielded acetylated drugs when
+heated (112, 113). Kornblum and Zoglio (109)
+found that the rate of decomposition of
+acetylsalicylic acid in suspensions with lubri-
+cants, such as magnesium stearate, was asso-
+ciated with the high solubility of the mag-
+nesium salt of acetylsalicylic acid. This formed a
+buffer with solvated acetylsalicylic acid, creating
+a pH environment that was detrimental to the
+stability of the compound. It has also been
+suggested that the presence of MgO impurities
+in magnesium stearate catalyze degradation by
+creating an alkaline pH environment (59).
+However, the relationship between pH and
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 11
+
+=== Page 10 ===
+Review Paper
+decomposition is controversial, with some
+authors claiming that pH does not play a
+significant part in the solid state decomposition
+(106). Other reports suggested that the main
+mechanism of incompatibility was a reduction
+in the melting point of acetylsalicylic acid,
+which would generate a liquid layer on the
+surface of the magnesium stearate particles,
+thereby accelerating decomposition. The
+presence of liquid films around decomposing
+acetylsalicylic acid particles was demonstrated
+by microscopic examination. Similarly, Miller
+and York (60) described the formation of a
+magnesium stearate surface film around
+acetylsalicylic acid particles, suggesting that the
+intimate contact between the two materials may
+facilitate the lowering of the acetylsalicylic acid
+melting point (61, 62). Further Gordon et al.
+(85) noticed that in the presence of stearates
+ibuprofen forms a eutectic which sublimates. 
+Oxprenolol hydrochloride, a drug used for the
+treatment of angina pectoris showed an
+incompatibility in a binary mixture with
+magnesium stearate. The binary mixture
+showed two overlapping endothermic peaks
+with onsets of transition at 85°C and 96°C. The
+broad melting endotherm at 110°C to 118°C
+for magnesium stearate was absent in the binary
+mixture (42). Albendazole, a benzimidazole
+class of anthelmintic drug showed an
+incompatibility in a 1:1 binary mixture with
+magnesium stearate. Exposure of the binary
+mixture to heat and moisture resulted in
+degradation confirmed by DSC and HPLC 
+(75). Compatibility studies of the ACE inhibitor
+fosinopril sodium with different excipients and
+20% added water resulted in the formation of
+degradation product A as shown in Figure 3.
+However, in the presence of magnesium
+stearate, formation of product A was acce-
+lerated along with the formation of two other
+degradation products B and C (Figure 3). The
+structure of degradation product C appears to
+be incorrectly transcribed in the original paper
+(additional terminal methyl should not be
+present) (40). Based on an HPLC investigation,
+90% of the drug degraded in 1 week. In a
+separate study, when a 1:1 mixture of fosinopril
+sodium and magnesium stearate was exposed to
+75% RH at 50°C, the degradation of fosinopril
+sodium after 3 weeks was less than 1%. This
+was because both fosinopril sodium and
+magnesium stearate were non-hygroscopic,
+although the interaction between them is
+mediated by water. This would not be the case
+in capsules and tablets where other formulation
+components, such as microcrystalline cellulose,
+starch, gelatin shell etc., would result in
+moisture sorption (40).
+The antitumor drug, b-lapachone showed an
+interaction with magnesium stearate based on
+FTIR studies. The disappearance of different
+magnesium stearate bands at 1579.5 and 1465.7
+cm from the FTIR spectra for both, stressed
+!1
+mixtures (samples were stored in an oven at
+40ºC and 75% relative humidity in closed
+containers using sodium chloride saturated
+solutions for a month) and thermally stressed
+mixtures (the drug, some excipients and its
+mixtures were subjected to thermal stress by
+heating up to 160ºC at a rate of 10ºC min )
+!1
+suggested the decomposition of the excipient.
+Additionally, some changes were observed in
+the â-lapachone bands at 2978 cm and
+!1
+1568 cm assigned to the aromatic C-H and C-
+!1
+C respectively. Heating-cooling DSC (HC-
+DSC) experiments confirmed the hypothesis of
+magnesium stearate degradation since the
+second heating revealed only the melting peak
+of â-Lapachone, which was observed at a lower
+Figure 3 Interaction between Fosinopril sodium and
+magensium stearate (40).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 12
+
+=== Page 11 ===
+Review Paper
+temperature and associated enthalpy and none
+of the magnesium stearate thermal events were
+observed. Heating to 160°C does not promote
+changes in the morphology of â-Lapachone or
+magnesium stearate separately but when heated
+together the sample becomes black as a result
+of the degradation of magnesium stearate. This
+evidence of interaction suggests that magne-
+sium stearate should be avoided in â-lapachone
+formulations (76).
+Captopril is a pyrrolidine carboxylic acid deriva-
+tive used in the treatment of hypertension. It
+showed surface interactions with metallic
+stearates during grinding (5 min at room
+temperature at 32% or 80% RH). A mixture of
+captopril and each metallic stearate before and
+after grinding gave different results in DSC,
+thermogravimetric (TGA) and FTIR studies.
+Although there was no interaction between
+captopril and sodium stearate during grinding,
+grinding could induce the trans cis iso-
+merization of captopril in a ground mixture of
+captopril–sodium stearate. There was no
+evidence of solid-state interaction between
+captopril and monoaluminum stearate, but
+grinding appeared to accelerate the solid-state
+interaction of captopril with magnesium
+stearate. The solid-state interaction between
+captopril and magnesium stearate was
+evidenced by the shifting of the IR spectral
+peak for the -COOH of the stearate moiety
+from 1578 cm to 1541 cm . This was due to
+-1
+-1
+the interaction of the -OH group in the
+carboxylic acid function of captopril with
+bridging coordination of the –COO group of
+-
+magnesium stearate via hydrogen bonding
+involving water. The interaction between
+captopril and magnesium stearate was stopped
+at 60°C due to evaporation of water from the
+ground mixture (68). Another group of re-
+searchers (69) also noticed similar type of re-
+sults for a captopril and magnesium stearate
+mixture. The DSC thermogram of the binary
+mixtures indicated a possible interaction due to
+the disappearance of the characteristic captopril
+fusion peak.
+Chlorpropamide, a sulfonylurea antidiabetic
+drug showed a possible solid-solid interaction,
+but not necessarily a pharmaceutical incom-
+patibility, in a binary mixture of chlorpro-
+pamide with magnesium stearate. The DSC
+curve of the chlorpropamide/magnesium stea-
+rate mixture resulted in only one endothermic
+event at 96.3–108.6°C suggesting a drug–
+excipient interaction when heated. A substantial
+decrease in the dissolution rate was observed
+for chlorpropamide tablets containing magne-
+sium stearate after 6 months of storage at
+40°C/75% RH (65). The ACE inhibitor
+quinapril, a tetrahydroisoquinoline carboxylic
+acid, was incompatible with magnesium stearate
+due to the basicity of magnesium stearate, and
+because the rate of degradation was mediated
+by the availability of moisture (9). DSC studies
+showed that the antiviral drug, acyclovir also
+interacted with magnesium stearate, as shown
+by the disappearance of the characteristic acyc-
+lovir fusion peak in the thermogram of the
+binary mixture. X-ray powder diffraction
+(XRPD) did not provide evidence of an
+incompatibility between acyclovir and magne-
+sium stearate, since the diffraction peaks remai-
+ned unaltered in the physical mixture. The main
+difference observed in the FTIR of binary
+mixtures of acyclovir and stearic acid was the
+significant decrease in the band attributed to
+the -OH group, indicating a possible chemical
+interaction between these compounds (58).
+The sedative drug, doxylamine succinate, was
+incompatible with magnesium stearate, stearic
+acid, povidone (PVP) and lactose (53). Salt
+forms of cysteine showed interaction with
+magnesium stearate and other excipients such
+as xylitol, sorbitol and two gum bases, Every T
+Toco and Smily 2 Toco (114). Other APIs
+which have been found to be incompatible with
+stearates are glimepiride (66), cephalexin (71),
+glipizide (56), ibuproxam (8), indomethacin (63,
+64), ketoprofen (38), moexipril (10, 30, 70),
+nalidixic acid (73), primaquine (44), promet-
+hazine hydrochloride (45), temazepam (42),
+glibenclamide (67), penicillin G (74), oxacillin
+(74), clopidogrel besylate (77) and erythromycin
+(72). It has been suggested that stearate salts
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 13
+
+=== Page 12 ===
+Review Paper
+should be avoided as tablet lubricants if the
+API is subject to ion-catalyzed degradation.
+The degradative effect of alkali stearates is
+inhibited in the presence of malic, hexamic and
+maleic acid due to competition for the lubricant
+cation between the drug and additive acid (115).
+In some cases the interactions may not occur at
+the typical use level of magnesium stearate
+(0.25% to 0.5%). An even more important
+concern is mixing time, which can directly
+affect the disintegration time and dissolution of
+the drug from the solid dosage form. This is a
+detrimental physical interaction.
+Povidone (PVP, polyvinyl pyrrolidone,
+copovidone)
+PVP is commonly used as a binder in tablet
+formulations, as a film forming agent, and also
+for forming amorphous dispersions of drugs. It
+was found to be incompatibile with a wide
+range of APIs. The antimicrobial drug sulfat-
+hiazole interacted with PVP, the rate increasing
+at higher PVP concentrations (78). In the DSC
+thermogram of an oxprenolol:PVP mixture,
+apart from the adsorbed water endotherm, a
+second broad endotherm, followed by
+degradation and/or vaporization was seen,
+while the endotherm characteristic of oxpreno-
+lol hydrochloride was absent indicating an
+interaction (42). Evidence of an interaction
+between the antihypertensive drug atenolol and
+PVP showed substantial changes in the DSC
+thermograms of a drug-excipient binary mix-
+ture. This interaction was enhanced or
+mediated by the free (unbound) water of the
+PVP. Indications of interaction were greater in
+the PVP-rich mixture, in the moisture treated
+mixtures, and in mixtures annealed (at 70°C) in
+closed containers, where relative humidity
+would be expected to be higher than in open
+containers. Temperature conditioning only
+affected (on the atenolol melting enthalpy)
+considerably after prolonged annealing in a
+closed container. This effect was less than that
+caused by moisture conditioning which, in
+addition, also appeared to modify the crystalline
+order of the atenolol (63).
+A strong interaction between PVP and halo-
+peridol was observed, favored by mechanical
+stress and more evident in the 20:80 binary
+mixture. The melting peak of the haloperidol
+showed a low temperature shoulder. The onset
+temperature of this shoulder corresponded to
+that of the peak present in the 20:80 mixture.
+The total enthalpy change was about 18%
+lower than would have been expected if no
+interaction had occurred between the
+components (79). PVP also showed an
+interaction with ibuproxam (8), indomethacin
+(63, 64), ketoprofen (36-38), clenbuterol (50)
+and temazepam (42). At 2% to 5% PVP may
+not prove detrimental to many drugs. However,
+when used at higher levels for specialized
+applications such for the formation of amorp-
+hous dispersions, then the interactions may be
+deleterious. Since PVP is produced by free
+radical polymerization of N-vinylpyrrolidone
+using hydrogen peroxide as an initiator; a
+commercial PVP always contain traces of
+unreacted peroxides which may oxidize APIs.
+Therefore for drugs where peroxide degra-
+dation may be of concern (e.g. Ranitidine HCl),
+the use of PVP as a binder should be avoided.
+Hartauer et al. (25) reported that the presence
+of povidone and crospovidone, in the tablet
+formulation of raloxifene hydrochloride, led to
+oxidation of the drug. The formation of the N-
+oxide derivative of the drug substance was
+confirmed based upon spectroscopic charac-
+terization and chromatographic comparison to
+the synthetic N-oxide. However, the dissolution
+of Raloxifene HCl could not be achieved
+without using PVP (116). Same authors also
+showed that phenolic impurities in tablet
+binding agents, such as povidone and disin-
+tegrants such as crospovidone, can lead to
+photodegradation of the drug through free
+radical reactions.
+Dicalcium phosphate dihydrate (DCPD,
+Emcompress )
+®
+DCPD is commonly used a filler in tablet
+formulations and as a dental polishing agent in
+toothpaste that contains sodium monofluoro-
+phosphate. It is one of the most common
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 14
+
+=== Page 13 ===
+Review Paper
+diluents for tablets, but is susceptible to
+dehydration at quite low temperatures in the
+presence of water vapor, thus crucial choosing
+conditions for processing and storage of the
+dosage forms. It has been shown to be
+incompatible with a number of acidic drugs as
+well as with sodium salts of poorly water
+soluble drugs due to its alkaline nature (117,
+118).
+Temazepam is a benzodiazepine hypnotic drug.
+It is acidic in nature with pKa of 1.61 and
+therefore when formulated with the basic
+excipient DCPD, an interaction was observed
+as indicated by DSC results (42). The
+combination of the antihypertensive drug
+oxprenolol hydro-chloride with DCPD showed,
+apart from the characteristic oxprenolol
+hydrochloride endo-therm, an extra endoderm
+with an onset of 136°C indicating an interaction
+(42). The ACE inhibitor ceronapril, which is
+incompatible with lactose, was also found to be
+incompatible with DCPD. HPLC studies of
+mixtures of ceronapril with DCPD showed that
+ceronapril degraded by 2.5% after 3 weeks of
+storage. The degradation product formed in
+presence of DCPD was identified (Figure 4)
+using LC-MS and liquid chromatography
+coupled with mass spectrometry/mass
+spectrometry (LC-MS-MS). This product was
+formed through an oxidative process which was
+not predicted based on initial preformulation
+testing (40).
+The antitumor drug, â-lapachone is sensitive to
+alkaline pH and when formulated with DCPD
+was found to be incompatible. The heating–
+cooling DSC results suggested that lapachone
+promotes DCPD dehydration at lower tem-
+peratures, at the same temperature as the
+melting range of the drug. The DCPD water of
+crystallization (20.9% of the DCPD weight)
+partially dissolves the â-lapachone and the re-
+sultant basic environment could decompose the
+â-lapachone. This was verified by the second
+heating which showed the broad drug melting
+peak shifting to a lower temperature with a
+slight associated enthalpy change, thus a pos-
+sible sign of drug degradation. Accentuated
+changes were also detected in the bands
+corresponding to the functional groups of the
+drug, in the thermally stressed mixtures (TSM),
+which indicated chemical decomposition of â-
+Lapachone (76).
+Parthenolide, a naturally occurring furanone,
+was found to be incompatible with DCPD.
+This could be attributed to the alkaline nature
+of DCPD (81). Other drugs which were found
+to be incompatible with DCPD include famoti-
+dine (82), nalidixic acid (73), quinapril (9) and
+metronidazole (80).
+Eudragit polymers
+®
+Eudragit polymers are copolymers derived
+from esters of acrylic and methacrylic acid. The
+physicochemical properties of the different
+polymers are determined by the types of
+functional groups. These polymers are available
+in a range of different physical forms (aqueous
+dispersion, organic solution granules and
+powders) and are widely used for targeted and
+controlled drug delivery. The acidic nature of
+some Eugradit polymers has resulted in a
+number of incompatibilities with active ingre-
+dients.
+Three NSAIDs, diflunisal, flurbiprofen, and
+piroxicam showed interaction with Eudragit
+polymers (RS100 and RL100). These re-
+searchers showed that, due to the acidic nature
+of Eudragit RS100 and RL100, except for
+mechanical dispersion, the drugs interacted
+with Eudragit matrixes by virtue of electrostatic
+interactions with the ammonium groups pre-
+sent in the polymer. These interactions were
+stronger for drugs bearing a carboxylic moiety,
+a 
+thus having lower pK
+values which signi-
+Figure 4 Interaction between Ceronapril with
+dicalcium phospate (40).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 15
+
+=== Page 14 ===
+Review Paper
+ficantly affected the drug release profile from
+solid dispersions. The progressive disap-
+pearance of FT-IR, X-ray, and thermotropic
+drug signals in solid dispersion was more likely
+related to the increasing amount of the
+polymers, which exert a diluting effect on drug
+signals. DSC of flurbiprofen exhibited a sharp
+endothermic peak around 115°C, corres-
+ponding to its melting point. The dispersion of
+flurbiprofen in the Eudragit RS and, most often
+in the Eudragit RL matrix, at both 1:2 and 1:5
+weight ratios resulted in a complete suppression
+of the drug fusion peak, suggesting a homo-
+geneous solution of the drug in the polymer.
+However, the mere physical dispersion of the
+drug with Eudragit RS or Eudragit RL also
+resulted in a modification of the thermotropic
+profile. At the lower flurbiprofen-polymer ratio
+a downward shift of the drug fusion peak
+occurred in 2 partially superimposed peaks
+(centered at 98°C and 106°C, respectively). In
+the 1:5 w/w mixture, these peaks were further
+reduced or even absent, giving a DSC
+thermogram comparable to that of the
+corresponding solid dispersion. An XRPD
+analysis showed clearly that the systems pre-
+pared using lower amounts of polymer still
+showed the typical signals for drug crystals.
+However, increasing the Eudragit RS ratio
+progressively weakened their intensity (83, 84).
+Ibuprofen (a NSAID) was also incompatible
+with Eudragit. Physical and chemical inte-
+raction with the carboxylic group of ibuprofen
+occurs because of electrostatic interactions
+and/or hydrogen bonding with the quaternary
+ammonium groups in Eudragit RL. This
+probably inhibits its uniform dispersion in the
+polymer network and ultimately affects the drug
+loading and ibuprofen release profile in vitro and
+in vivo. Pignatello et al. (86) mixed different
+chemical forms of ibuprofen (free acid, sodium
+salt, and n-butyl ester) with Eudragit RL100 at
+increasing weight ratios in order to investigate
+the role of the carboxylic group in the interac-
+tion with the Eudragit RL polymer. As the acid
+form, ibuprofen crystallized within the polymer
+network under the experimental conditions
+when its concentration exceeded the solubility
+of the drug in the polymer itself. At lower
+weight ratios, the drug existed in an amorphous
+or microcrystalline state, however, thoroughly
+dispersed in the polymer matrix. The thermal
+behavior of the solid dispersions and mixtures
+suggested that the polymer inhibited the
+melting of the drug crystals. A large
+endothermic peak is only visible above 140°C,
+probably due to the beginning of polymer
+degradation. The systems containing higher
+polymer ratios (33% of Eudragit RL with acid-
+free form of the drug (IBU/A) and 33% of
+Eudragit RL with ibuprofen sodium salt
+(IBU/S) aqueous solution) showed a melting
+peak at 146°C and 97.5°C, respectively. These
+findings from powder X ray diffraction
+(PXRD) analysis confirmed that, above a
+certain concentration, the excess of drug was
+not able to form a homogeneous solid solution
+with the polymer. IR studies showed that,
+ibuprofen exhibited a strong peak at 1720 cm-1
+for carbonyl group stretching, while for its solid
+dispersion a broader and weaker signal was
+visible, at around 1725 cm (86).
+-1
+A mild interaction between the antiulcer drug
+ranitidine and Eudragit E100 has been
+reported. Although there was no alteration in
+the DSC thermogram of the ranitidine-Eudragit
+mixture, compared to those of pure compound,
+careful examination of DRIFTS spectrum
+(diffuse reflectance infrared Fourier transform
+spectroscopy) of 1:1 drug-Eudragit E100
+mixture revealed a slight shift to a higher wave
+number of the band associated with the
+3
+protonated tertiary amine group R -NH of
++
+ranitidine HCl at 2560 cm . This suggested a
+-1
+mild interaction, such as hydrogen bonding,
+between protonated tertiary amine group of the
+drug and a functional group on the polymer
+(52). The use of acidic film formers Eudragit L
+100, 
+hypromellose 
+acetate 
+succinate
+(HPMCAS-HF), Hypromellose phthalate grade
+55 (HP-55), and shellac resulted in instability of
+the acid-labile proton pump inhibitor
+omeprazole in solid drug-polymer blends at
+accelerated storage conditions (40ºC/75% RH).
+HP-55 caused the highest degree of omeprazole
+degra-dation, followed by shellac, HPMCAS-
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 16
+
+=== Page 15 ===
+Review Paper
+HF, and then Eudragit1 L 100 (119). Despite of
+the interaction of methacrylic acid co-polymers
+with most drugs belonging to the proton pump
+inhibitors group, the polymers are widely used
+in enteric coat formulations because of their
+ability to control drug release within a narrow
+pH range. The incompatibility is avoided by
+suitably protecting the drug using a barrier
+coating. 
+Celluloses
+Methylcellulose is widely used in a variety of
+oral and topical pharmaceutical formulations. It
+is also extensively used in cosmetics and food
+products. MCC is used as an inactive filler in
+tablets and as a thickener and stabilizers in pro-
+cessed foods. Hydroxypropyl methylcellulose
+(hypromellose) has been used as an excipient in
+oral tablet and capsule formulations, where,
+depending on the grade, it functions as a
+controlled release agent delaying the release of a
+medicinal compound into the digestive tract.
+Different grades can also be used as binders or
+as a component of tablet coatings
+It has been reported that the degradation rate
+of enalapril maleate was accelerated by several
+orders of magnitude in the presence of MCC.
+The MCC appeared to reduce the apparent heat
+of fusion of the enalapril maleate. At a heating
+rate of 10°C/min, the DSC thermogram for
+enalapril maleate showed two partially
+superimposed endothermic events. The first
+was due to melting and the second due to
+thermal decomposition. This indicated that
+decomposition takes place, to some extent, 
+during melting. Moreover, in the DSC
+thermogram for the enalapril maleate:MCC
+binary mixture, there is an increase in the
+degree of overlap of the two events. However,
+the authors did not attempt to separate the
+thermal events by decreasing the heating rate
+(87). Other researchers (88) have also de-
+monstrated an increase in the degradation rate
+of enalapril maleate in presence of MCC using
+DTA (differential thermal analysis) studies and
+accelerated stability testing. Apart from MCC,
+magnesium stearate, calcium phosphates and
+several other common disintegrants (starch,
+sodium starch glycolate, crospovidone and
+croscarmellose sodium) were also shown to
+contribute to the decomposition of enalapril
+maleate (120).
+Isosorbide mononitrate, a nitrooxy dioxa-
+bicyclic compound used for treatment of an-
+gina pectoris showed an interaction with
+cellulose acetate and MCC as evidenced by
+DSC, IST and HPLC studies. There was also a
+drastic reduction in the enthalpy value (from
+125.32 to 34.10 J/g), which also suggested an
+incompatibility. When IST samples of an iso-
+sorbide mononitrate:cellulose acetate mixture
+were observed after 3 weeks of storage under
+stressed conditions, a yellow coloration was
+observed. The presence of a new peak in the
+HPLC chromatogram of the stressed samples
+of isosorbide mononitrate:cellulose acetate mix-
+ture further suggested a chemical interaction
+(6).
+HPMCAS is a widely used excipient in solid
+dispersion technology. HPMCAS potentially
+undergoes hydrolysis to produce succinic acid
+and acetic acid, the hydrolysis rate being higher
+at higher temperatures and higher relative
+humidities. The use of HPMCAS is not
+recommended for APIs containing hydroxyl
+group(s) due to the potential of ester formation
+with succinic acid and/or acetic acid. Dyphyl-
+line, a drug used to treat bronchial asthma,
+consists of a purine skeleton with a 2,3-
+dihydroxy-side chain. In order to test the
+potential incompatibility of hydroxy group
+containing APIs with HPMCAS, Dong and
+Choi (89) used a dyphylline as a model drug.
+Dyphylline was stored at 140°C for 5 hours in
+the following three forms: (a) pure powder, (b)
+physical mixture with succinic acid (50:50) and
+© physical mixture with HPMCAS with a
+drug–excipient ratio of 40:60 to mimic a 40%
+loading HME (hot melt extrusion) compo-
+sition. The samples were dissolved in a diluent
+(95% pH 8.25 50 mM phosphate buffer + 5%
+acetonitrile) to form a 0.1 mg/mL solution of
+dyphylline for HPLC analysis. Upon heat
+treatment, three degradants were observed in
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 17
+
+=== Page 16 ===
+Review Paper
+the physical mixture of dyphylline and
+HPMCAS. They were identified as two mono-
+esters and one di-ester of two dyphylline
+molecules with one succinic acid molecule
+(Figure 5), suggesting potential drug–excipient
+incompatibility during formulation develop-
+ment (89).
+The diuretic drug, trichlormethiazide was found
+to be stable in a solid state under humid con-
+ditions, but when made into tablets was not
+stable under the same conditions. Trichlor-
+methiazide degradation was accelerated by the
+addition of hydroxypropylcellulose. Various
+factors that could affect the trichlormethiazide
+stability in tablets were considered, such as,
+adsorption of water, amount of free water and
+pH (90).
+Polyethylene glycol (PEG)
+PEG is widely used as a lubricant and as a
+cosolvent/dispersant for poorly soluble drugs
+in pharmaceutical dosage forms. The purity of
+PEG plays a very important role in the
+degradation of drugs. High purity grades
+available from reputable manufacturers are less
+likely to lead to degradation of drugs.
+Ibuprofen showed an incompatibility with PEG
+in tablets stored for three weeks at 70°C/75%
+RH resulting in the formation of ibuprofen
+degradation products. One of the identified de-
+gradation products was a known toxin 4-
+isobutylacetophenone (91). Aspirin undergoes
+pseudo-first order decomposition in com-
+bination with several grades of PEGs due in
+part to trans-esterification to form salicyclic
+acid and acetylated PEG (121). The rate of
+decomposition was considerably greater when a
+fatty base, such as cocoa butter, was used (122).
+Analysis of commercial batches of 100 mg
+indomethacin-PEG suppositories showed that
+approximately 2%, 3.5% and 4.5% of the origi-
+nal amount of indomethacin was esterified with
+PEG 300 after storage of one, two and three
+years respectively. The formation of poly-
+ethylene glycol (PEG) sulfonate/ besylate esters
+have been reported during hot melt granulation
+of clopidogrel besylate with PEG 6000, several
+of which are genotoxic (77). Other APIs which
+showed interaction with PEG are ibuproxam
+(8) ketoprofen (38) and calcium phosphomycin
+(92). 
+Polysorbate 80
+Polysorbate 80, commercially known as
+Tween 80, is a nonionic surfactant and
+®
+emulsifier used in food and pharmaceuticals.
+Formation of peroxide in neat polysorbate 80
+in the presence of air during incubation at
+elevated temperatures has been reported. This
+can affect the stability of oxidation-sensitive
+drugs (123). Ibuprofen showed an incom-
+patibility with polysorbate 80 in tablets stored
+for three weeks at 70°C/75% RH (91).
+Sodium lauryl sulfate (SLS)
+SLS is widely used in solid oral formulations as
+a surfactant/wetting agent to improve the solu-
+bility of poorly soluble drugs. Incompatibility
+between the antidiabetic drug chlorpropamide
+and SLS has been reported. The DSC
+thermogram of a chlorpropamide/SLS mixture
+showed a wide endotherm at 99-120°C with the
+disappearance of the double melting peak of
+the drug. A considerable decrease in the
+dissolution rate of chlorpropamide from tablets
+containing SLS was observed after 6 months of 
+Figure 5 Interaction between hydroxypropyl
+methylcellulose acetate succinate and dyphylline (89).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 18
+
+=== Page 17 ===
+Review Paper
+storage at 40°C/75% RH which clearly
+suggested incompatibility between the active
+drug and excipient. (65). An in vitro study found
+that chlordiazepoxide, which can exist in
+cationic form, formed an ion pair with the
+anionic SLS, resulting in decreased membrane
+permeability (11, 93). The anti-coagulant drug,
+clopidogrel besylate was also found to be
+incompatible with SLS (77).
+Chitosan
+Chitosan has been investigated as an excipient
+for use in direct tablet compression, as a tablet
+disintegrant, for the production of controlled
+release solid dosage forms and for the
+improvement of drug dissolution (124).
+Chitosan inhibited the release of the NSAID
+diclofenac sodium from matrix tablets at low
+pH, possibly due to the formation of an ionic
+complex between the diclofenac sodium and
+the ionized amino groups of the cationic
+polymer (11, 94). Chitosan also interacted with
+piroxicam. The solubility of piroxicam and it’s
+biological availability increased 10-fold when
+mixed with chitosan (95).
+Magnesium oxide
+Magnesium oxide is used in antacids as an
+active ingredient and may also be used as a pH
+modifier (e.g. in Levothyroxine sodium penta-
+hydrate tablets) (125). A solid–solid reaction in
+1:1 and 2:1 mixtures of ibuprofen/magnesium
+oxide stored at 55°C has been reported as
+showed by the disappearance of ibuprofen mel-
+ting endotherm in DSC curve and changes in
+the infrared spectrum 
+after 
+reaction.
+Comparison with authentic samples indicated
+that Mg(diibuprofen) was the product of the
+reaction (Figure 6). This reaction is greatly
+influenced by moisture and the molecular
+mobility of the reactants. Solid–solid reactions
+of ibuprofen were also observed with basic
+oxides (e.g. calcium oxide) and hydroxides (e.g.
+magnesium hydroxide) (96).
+Silicon dioxide (Silica)
+2
+In pharmaceuticals, silica (SiO ) is used as a
+glidant during tablet manufacturing. Colloidal
+2 
+SiO
+was found to noticeably decrease the
+thermal stability of enalapril maleate. The
+TG/DTG and DSC thermograms of the binary
+2
+mixtures of enalapril maleate and SiO
+2
+indicated that SiO results in a decrease of more
+than 20°C in the onset temperature of
+degradation of the drug. Therefore, the use of
+2
+SiO as an excipient should be avoided in
+formulations containing enalapril maleate, since
+it may act as a catalyst in the thermal
+2
+decomposition of the drug even though SiO is
+usually employed at low concentrations
+(typically <1% mass/mass) (120).
+Carbonates
+The addition of aqueous soluble carbonate
+salts, such as sodium carbonate, compromised
+the stability of adefovir dipivoxil in the solid
+state, increasing the hydrolysis of the drug
+(Figure 7). However, aqueous insoluble car-
+bonates, such as calcium carbonate and mag-
+nesium carbonate, enhanced the stability of
+adefovir dipivoxil as compared to a control
+formulation. Pivalic acid, a degradation product
+of adefovir dipivoxil, was shown to accelerate
+the degradation rate of adefovir dipivoxil in the
+solid state. The de-stabilizing effect of this acid
+on adefovir dipivoxil stability was diminished in
+the presence of magnesium carbonate. Pivalic
+acid also increased the rate at which adefovir
+dipivoxil dimers were formed in the presence
+of formaldehyde vapor. Addition of insoluble
+carbonates reduced the rate of formaldehyde-
+catalyzed dimerization of adefovir dipivoxil
+(97). Solid–solid reactions of ibuprofen with so-
+dium bicarbonate and potassium carbonate
+were also observed (96).
+Figure 6 Acid-base reaction of ibuprofen and
+magnesium oxide (96).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 19
+
+=== Page 18 ===
+Review Paper
+Miscellaneous
+Apart from API-excipient incompatibilities
+discussed above, several other incompatibilities
+have been reported as summarized in Table 3.
+Table 3. Miscellaneous API-excipient incompatibilities
+Excipient (s)
+API
+Reference
+Ascorbic 
+acid, 
+citric 
+acid, 
+butylated
+hydroxyanisole
+Atenolol
+(126)
+a
+Maize starch, pregelatinized starch,
+sodium starch glycolate, Avicel PH 101 
+®
+Clenbuterol
+(50)
+Plasdone
+Glimepiride
+(66)
+®
+Palmitic acid
+Ketoprofen
+(38)
+Methyl paraben, cetostearyl alcohol,
+glyceryl monostearate
+Lapachol
+(127)
+Methyl paraben, propyl paraben, butylated
+hydroxytoluene, acetylated lanolin
+Lipoic acid
+(128)
+2
+Succinic Acid
+Na –Phosphomycin
+(92)
+Sodium dioctylsulfosuccinate
+Ca–Phosphomycin
+(92)
+Pearlitol SD200
+®
+c
+Promethazine
+hydrochloride
+(45)
+Precirol ATO 5
+Temazepam
+(42)
+®
+d
+Ca and Mg salts
+Tetracycline
+(98)
+Sodium edetate, sodium bisulfite
+Hydralazine HCl
+(129)
+e
+Talc
+Saproxetine maleate
+(47)
+f
+Vitamin E succinate-processed films
+Tetrahydrocannabinol
+(130)
+Formation of the degradation products (N-formyl atenolol, carbamic formic anhydride
+a
+of atenolol, –acetyl atenolol) have been reported
+Incompatibility was indicated by yellow to brown coloration or white precipitation
+b
+Pearlitol SD is a spray dried mannitol containing 20% maize starch
+c
+Precirol Ato 5 is a glyceryl palmitostearate and is used as multipurpose functional
+d
+excipient (lubricant, sustained release agent and/or a taste masking agent for oral dosage
+forms
+A yellow coloration was observed
+e
+The amide derivative was formed due to interaction of drug with maleic acid in the
+f
+presence of talc
+CONCLUSION
+Drug-excipient interactions/incompatibilities
+are major concerns in formulation deve-
+lopment. Selection of the proper excipient du-
+ring preformulation studies is of prime impor-
+tance. Acid-base interactions and Maillard
+reactions are probably the most common API-
+excipient interactions reported. The excipients
+lactose and magnesium stearate are the most
+widely used excipients in oral solid dosage
+forms. Combined with their propensity for
+reaction with certain functional groups, it is no
+accident therefore, that they are involved in
+higher number of incompatibilities and should
+always be used with caution. Use of lactose as a
+diluent should be avoided for active
+pharmaceutical ingredients containing amines
+due to the possibility of a Maillard reaction.
+Stearate salts should be avoided as tablet
+lubricants if the API is subject to hydrolytic
+ion-catalyzed degradation. Alkaline excipients
+such as DCPD should not be used in the
+formulation of acidic drugs. The use of
+Eudragit RL should be avoided with drugs
+containing a carboxyl group (e.g. ibuprofen, lo-
+wer pKa) since these exhibit strong electrostatic
+interaction with ammonium groups present in
+Eudragit polymer affecting the release profile
+of the active ingredient. Care should also be
+taken when formulating drugs containing
+hydroxyl groups. The use of HPMCAS should
+be avoided due to potential ester formation
+with succinic acid or acetic acid. Although, in
+many of the examples discussed above, the
+incompatibility is evident at elevated tempe-
+ratures or at unrealistically high concentration
+ratios of excipient to API, and thus they may
+not be seen at ambient (real) temperatures or at
+commonly used excipient to API ratios for the
+duration of the product shelf-life. However,
+such information is very helpful for analyzing
+any instability issues with commercial for-
+mulations or during the development of new
+formulations. Once solid-state reactions are
+understood in a pharmaceutical system, the
+necessary steps can be taken to avoid the
+reactivity and improve the storage stability for
+drug products.
+REFERENCES
+1
+Rowe RC; Sheskey PJ; Quinn ME, Handbook of
+Pharmaceutical 
+Excipients. 
+6th 
+Edition 
+ed.;
+Pharmaceutical Press: London, 2009.
+Figure 7 Hydrolysis of adefovir dipivoxil (97).
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 20
+
+=== Page 19 ===
+Review Paper
+2
+Clas SD; Dalton CR; Hancock BC, Differential
+scanning 
+calorimetry: 
+applications 
+in 
+drug
+development. Pharm. Sci. Technol. Today 2, 311-
+320, 1999.
+3
+Giron D, Contribution of thermal methods and
+related techniques to the rational development of
+pharmaceuticals—Part 2. Pharm. Sci. Technol.
+Today 1, 262–268, 1998.
+4
+Sims JL; Carreira JA; Carrier DJ; Crabtree SR;
+Easton L; Hancock SA; Simcox CE, A New
+approach to accelerated drug-excipient compatibility
+testing. Pharm. Dev. Technol. 8, 119-126, 2003.
+5
+Vueba 
+ML; 
+Veiga 
+F; 
+Sousa 
+JJ; 
+Pina 
+ME,
+Compatibility 
+studies 
+between 
+ibuprofen 
+or
+ketoprofen with cellulose ether polymer mixtures
+using thermal analysis. Drug Dev. Ind. Pharm.
+31, 943-949, 2005.
+6
+Verma RK; Garg S, Compatibility studies between
+isosorbide mononitrate and selected excipients used
+in 
+the 
+development 
+of 
+extended 
+release
+formulations. J. Pharm. Biomed. Anal. 35, 449-458,
+2004.
+7
+Phipps MA; Mackin LA, Application of isothermal
+microcalorimetry in solid state drug development.
+Pharm. Sci. Technol. Today 3, 9-17, 2000.
+8
+Mura P; Faucci MT; Manderioli A; Bramanti G;
+Ceccarelli 
+L, 
+Compatibility 
+study 
+between
+ibuproxam and pharmaceutical excipients using
+differential 
+scanning 
+calorimetry, 
+hot-stage
+microscopy and scanning electron microscopy. J.
+Pharm. Biomed. Anal. 18, (151-163), 1998.
+9
+Thomas VH; Naath M, Design and utilization of the
+drug–excipient chemical compatibility automated
+system. Int. J. Pharm. 359, 150–157, 2008.
+10
+Byrn SR; Xu W; Newman AW, Chemical reactivity
+in 
+solid-state 
+pharmaceuticals: 
+formulation
+implications. Adv. Drug Del. Rev. 48, 115–136,
+2001.
+11
+Jackson K; Young D; Pant S, Drug–excipient
+interactions and their affect on absorption. PSTT 3,
+(10), 336-345, 2000.
+12
+Monkhouse DC; Maderich A, Whither compatibility
+testing? Drug Dev. Ind. Pharm. 15, 2115-2130,
+1989.
+13
+Crowley PJ, Excipients as stabilizers. Pharm. Sci.
+Technol. Today 2, 237-243, 1999.
+14
+Maulding HV; Zoglio MA; Pigois FE; Wagner M,
+Pharmaceutical heterogeneous systems IV: A kinetic
+approach to the stability screening of solid dosage
+forms containing aspirin. J. Pharm. Sci. 58, 1359-
+1362, 1969.
+15
+Kontny MJ; Grandolfi GP; Zografi G, Water vapor
+sorption of water-soluble substances: studies of
+crystalline 
+solids 
+below 
+their 
+critical 
+relative
+humidities. Pharm. Res. 4, 104-112, 1987.
+16
+Callahan JC; Cleary GW; Elefant M; Kaplan G;
+Kensler T; Nash RA, Equilibrium moisture content
+of pharmaceutical excipients. Drug Dev. Ind.
+Pharm. 8, 355, 1982.
+17
+Hancock BC; Shamblin SL, Water vapor sorption by
+pharmaceutical sugars. Pharm. Sci. Technol. Today
+1, 345–351, 1998.
+18
+Kontny 
+MJ, 
+Distribution 
+of 
+water 
+in 
+solid
+pharmaceutical systems. Drug Dev. Ind. Pharm. 14,
+1991-2027, 1988.
+19
+Genton D; Kesselring UW, Effect of temperature
+and relative humidity on nitrazepam stability in solid
+state. J. Pharm. Sci. 66, 676-680, 1977.
+20
+Chemburkar PB; Smyth RD; Buehler JD; Shah PB;
+Joslin RS; Polk A; Reavey-Cantwell NH, Correlation
+between dissolution characteristics and absorption
+of methaqualone from solid dosage forms. J. Pharm.
+Sci. 65, 529-533, 1976.
+21
+Horhota ST; Burgio J; Lonski L; Rhodes CT, Effect
+of storage at specified temperature and humidity on
+properties of three directly compressible tablet
+formulations. J. Pharm. Sci. 65, 1746-1749, 1976.
+22
+Byrn SR; Kessler DW, The solid-state reactivity of
+the crystal forms hydrocortizone esters. Tetrahedron
+43, 1335 -1343, 1987.
+23
+Byrn SR; Lin CT, The effect of crystal packing and
+defects on desolvation of hydrate crystals of caffeine
+and 
+L-(2)-1,4-cyclohexadiene-1-alanine. 
+J. 
+Am.
+Chem. Soc. 98, 4004–4005, 1976.
+24
+Byrn SR; Sutton PA; Tobias B; Frye J; Main P,
+Crystal structure, solid-state NMR spectra, and
+oxygen 
+reactivity 
+of 
+five 
+crystal 
+forms 
+of
+prednisolone tertbutylacetate. J. Am. Chem. Soc.
+110, 1609–1614, 1988.
+25
+Hartauer KJ; Arbuthnot GN; Baertschi SW;
+Johnson RA; Luke WD; Pearson NG; Rickard EC;
+Tingle CA; Tsang PKS; Wiens RE, Influence of
+peroxide impurities in povidone and crospovidone
+on the stability of raloxifene hydrochloride in
+tablets: identification and control of an oxidative
+degradation product. Pharm. Dev. Technol. 5,
+303–310, 2000.
+26
+Maillard LC, Action of amino acids on sugars.
+Formation of melanoidins in a methodical way.
+Comp. Rend. 154, 66-68, 1912.
+27
+Buxton PC; Jahnke R; Keady S, Degradation of
+glucose in the presence of electrolytes during heat
+sterilization. Eur. J. Pharm. Biopharm. 40, 172-175,
+1994.
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 21
+
+=== Page 20 ===
+Review Paper
+28
+Monkhouse DC, Excipient compatibility possibilities
+and limitations in stability prediction. In Stability
+testing in the EC, Japan and the USA. Scientific and
+regulatory requirements, Crim W; Krummen K, Eds.
+Wissenschaftlidie Verlassgellschaft mbH: Stuttgart,
+1993; pp 67-74.
+29
+Monajjemzadeh F; Hassanzadeh D; Valizadeh H;
+Siahi-Shadbad MR; Mojarrad JS; Robertson TA;
+Roberts MS, Compatibility studies of acyclovir and
+lactose in physical mixtures and commercial tablets.
+Eur. J. Pharm. Biopharm. 73, (3), 404-413, 2009.
+30
+Gu L; Strickley RG; Chi LH; Chowhan ZT, Drug-
+excipient incompatibility studies of the dipeptide
+angiotensin-converting enzyme inhibitor, moexipril
+hydrochloride: dry powder vs wet granulation.
+Pharm. Res. 7, (4), 379-83, 1990.
+31
+Ozdemir 
+FA; 
+Anilanmert 
+B; 
+Pekin 
+M,
+Spectrophotometric investigation of the chemical
+compatibility of the anticancer drugs irinotecan-HCl
+and epirubicin-HCl in the same infusion solution.
+Cancer Chemother. Pharmacol. 56, 529–534, 2005.
+32
+Tong WQ; Zhang GGZ, Stability and excipient
+compatibility studies. Integrated Drug Product
+Development Process (3 day-course), University of
+Utah
+http://www.pharmacy.utah.edu/pharmaceutics/pdf
+/Stability.pdf, 2006.
+33
+Connors KA; Amidon GL; Stella VJ, Chemical
+Stability of Pharmaceuticals: A Handbook for
+Pharmacists. In 2nd ed.; John Wiley and Sons: New
+York, 1986; pp 93-94.
+34
+Waternnan KC; Adami RC; Alsante KM; Hong J;
+Landis MS; Lombardo F; Roberts CJ, Stabilization
+of pharmaceuticals to oxidative degradation. Pharm.
+Dev. Technol. 7, 1-32, 2002.
+35
+Mutalik S; Naha A; Usha AN; Ranjith AK;
+Musmade P; Manoj K; Anju P; Prasanna S,
+Preparation, 
+in 
+vitro, 
+preclinical 
+and 
+clinical
+evaluations of once daily sustained release tablets of
+Aceclofenac. Arch. Pharm. Res. 30, (2), 222-234,
+2007.
+36
+deCarvalho LAEB; Marques MPM; Tomkinson J,
+Drug–excipient 
+interactions in 
+Ketoprofen: 
+A
+vibrational spectroscopy study. Biopolymers 82, 420-
+424, 2006.
+37
+de Carvalho LAEB; Marques MPM; Tomkinson J,
+Drug-excipient 
+interactions 
+in 
+ketoprofen: 
+A
+vibrational spectroscopy study. Biopolymers 82, (4),
+420-424, 2006.
+38
+Mura P; Manderioli A; Bramanti G; Furlanetto S;
+Pinzauti S, Utilization of differential scanning
+calorimetry as a screening technique to determine
+the compatibility of ketoprofen with excipients. Int.
+J. Pharm. 119, 71-79, 1995.
+39
+Abdoh A; Al-Omari MM; Badwan AA; Jaber AMY,
+Amlodipine besylate-excipients interaction in solid
+dosage form. Pharm. Dev. Technol. 9, 15-24, 2004.
+40
+Serajuddin ATM; Thakur AB; Ghosal RN; Fakes
+MG; Ranadive SA; Morris KR; Varia SA, Selection
+of solid dosage form composition through drug-
+excipient compatibility testing. J. Pharm. Sci. 88,
+696-704, 1999.
+41
+Eyjolfsson 
+R, 
+Lisinopril-lactose 
+incompatibility.
+Drug Dev. Ind. Pharm. 24, 797-798, 1998.
+42
+Botha SA; Lotter AP, Compatibility study between
+oxprenolol hydrochloride, temazepam and tablet
+excipients using differntial scanning calorimetry.
+Drug Dev. Ind. Pharm. 16, 331-345, 1990.
+43
+Desai 
+SR; 
+Shaikh 
+MM; 
+Dharwadkar 
+SR,
+Preformulation compatibility studies of etamsylate
+and fluconazole drugs with lacose by DSC. J.
+Therm. Anal. Cal. 71, 651-658, 2003.
+44
+Bertol CD; Cruz AP; Stulzer HK; Murakami FS;
+Silva MAS, Thermal decomposition kinetics and
+compatibility studies of primaquine under isothermal
+and non-isothermal conditions. J. Therm. Anal.
+Calorim., 102, 187-192, 2010.
+45
+Thumma S; Repka MA, Compatibility studies of
+promethazine hydrochloride with tablet excipients
+by means of thermal and non-thermal methods.
+Pharmazie 64, 183-189, 2009.
+46
+Wirth DD; Baertschi SW; Johnson RA; Maple SR;
+Miller MS; Hallenbeck DK; Gregg SM, Maillard
+Reaction of lactose and fluoxetine hydrochloride, a
+secondary amine. J. Pharm. Sci. 87, 31–39, 1998.
+47
+Schildcrout SA; Risley DS; Kleemann RL, Drug-
+excipient 
+interactions 
+of 
+Seproxetine 
+Maleate
+hemihydrate: Isothermal stress methods. Drug Dev.
+Ind. Pharm. 19, 1113-1130, 1993.
+48
+Mura P; Faucci MT; Manderioli A; Furlanetto S;
+Pinzauti S, Thermal analysis as a screening technique
+in preformulation studies of picotamide solid
+dosage forms. Drug Dev. Ind. Pharm. 24, 747-756,
+1998.
+49
+Riaz M; Ami KH, Stability of aminophylline. Pak. J.
+Pharm. Sci. 6, 35-44, 1993.
+50
+Signoretti EC; Dell'utri A; Salvo AD; Donini L,
+Compatibility study between clenbuterol and tablet
+excipients using differential scanning calorimetry.
+Drug Dev. Ind. Pharm. 12, 603-620, 1986.
+51
+Monajjemzadeh F; Hassanzadeh D; Valizadeh H;
+Shadbad MRS; Mojarrad JS; Robertson T; Roberts
+MS, Assessment of feasibility of Maillard reaction
+between 
+Baclofen 
+and 
+lactose 
+by 
+liquid
+chromatography and tandem mass spectrometry,
+application 
+to 
+preformulation 
+studies. 
+AAPS
+PharmSciTech 10, (2), 649-659, 2009.
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 22
+
+=== Page 21 ===
+Review Paper
+52
+Sarisuta N; Lawanprasert P; Puttipipatkhachorn S;
+Srikummoon K, The influence of drug-excipient and
+drug-polymer interactions on butt adhesive strength
+of Ranitidine Hydrochloride film-coated tablets.
+Drug Dev. Ind. Pharm. 32, 463-471, 2006.
+53
+Tonder ECV; Lotter AP; Botha SA, Compatibility
+study between Doxylamine Succinate with other
+drugs and excipients using differntial scanning
+calorimetry. Drug Dev. Ind. Pharm. 16, 2125-2133,
+1990.
+54
+Flemming A; Picker-Freyer KM, Compaction of
+lactose drug mixtures: Quantification of the extent
+of incompatibility by FT-Raman spectroscopy. Eur.
+J. Pharm. Biopharm. 68, (3), 802-810, 2008.
+55
+Misra M; Misra AK; Panpalia GM, Interaction study
+between pefloxacin mesylate and some diluents
+using DSC supported with isothermal method. J.
+Therm. Anal. Cal. 89, 803–808, 2007.
+56
+Verma RK; Garg S, Selection of excipients for
+extended release formulations of glipizide through
+drug–excipient compatibility testing. J. Pharm.
+Biomed. Anal. 38, 633–644, 2005.
+57
+Agatonovic-Kustrin S; Markovic N; Ginic-Markovic
+M; Mangan M; Glass BD, Compatibility studies
+between mannitol and omeprazole sodium isomers.
+J. Pharm. Biomed. Anal. 48, 356–360, 2008.
+58
+Barboza F; Vecchia DD; Tagliari MP; Silva MAS;
+Stulzer HK, Differential scanning calorimetry as a
+screening technique in compatibility studies of
+Acyclovir 
+extended 
+release 
+form ulations.
+Pharmaceut. Chem. J. 43, 363-368, 2009.
+59
+Jaminet F; Louis G, Influence de quelques
+lubrifiants sur la stabilite de l’Aspirine dans les
+comprimes. Pharm. Acta Helv. 43, 153-157, 1968.
+60
+Miller TA; York P, Pharmaceutical tablet lubrication.
+Int. J. Pharm. 41, 1-19, 1988.
+61
+Wissing S; Craig DQM; Barker SA; Moore WD, An
+investigation into the use of stepwise isothermal high
+sensitivity DSC as a means of detecting drug-
+excipient incompatibility. Int. J. Pharm. 199, (2),
+141-150, 2000.
+62
+Harding L; Qi S; Hill G; Reading M; Craig DQM,
+The development of microthermal analysis and
+photothermal 
+microspectroscopy 
+as 
+novel
+approaches to drug–excipient compatibility studies.
+Int. J. Pharm. 354, 149–157, 2008.
+63
+Marini A; Berbenni V; Pegoretti M; Bruni G;
+Cofrancesco P; Sinistri C; Villa M, Drug excipient
+compatibility 
+studies 
+by 
+physico 
+chemical
+techniques. The case of atenolol. J. Therm. Anal.
+Cal. 73, 547-561, 2003.
+64
+Phipps MA; Winnike RA, Use of isothermal
+microcalorimetry in the early detection of potential
+drug formulation incompatibilities. Proc. Workshop
+Microcalorim. Energ. Mater., M1-M14, 1997.
+65
+Freire FD; Aragao CFS; Moura TFAdLe; R. FN,
+Compatibility study between chlorpropamide and
+excipients in their physical mixtures. J. Therm. Anal.
+Calorim. 97, 355-357, 2009.
+66
+Cides LCS; Araújo AAS; Santos-Filho M; Matos JR,
+Thermal 
+behaviour, 
+compatibility 
+study 
+and
+decomposition 
+kinetics 
+of 
+glimepiride 
+under
+isothermal and non-isothermal conditions. J. Therm.
+Anal. Cal. 84, (2), 441-445, 2006.
+67
+Oliveira 
+GGG; 
+Ferraz 
+HG; 
+Matos 
+JSR,
+Thermoanalytical 
+study 
+of 
+glibenclamide 
+and
+excipients. J. Therm. Anal. Cal. 79, 267-270, 2005.
+68
+Cheng W-T; Wang S-L; Lin S-Y, Solid-state
+interaction study on the captopril/lubricants systems
+accelerated by grinding process. J. Phys. Chem. 69,
+(4), 1007-1016, 2008.
+69
+Stulzer HK; Rodrigues PO; Cardoso TM; Matos
+JSR; Silva MAS, Compatibility studies between
+Captopril and pharmaceutical excipients used in
+tablets formulations. J. Therm. Anal. Cal. 91,
+323–328, 2008.
+70
+Strickley RG; Visor GC; Lin L; Gu L, An
+unexpected pH effect on the stability of moexipril
+lyophilized powder. Pharm. Res. 6, 971-975, 1989.
+71
+El-Shattawy 
+HH; 
+Kildsig 
+DO; 
+Peck 
+GE,
+C ephalexin-direct 
+compression 
+excipients:
+Preformulation stability screening using differential
+scanning calorimetry. Drug Dev. Ind. Pharm. 8, 897-
+909, 1982.
+72
+El-Shattawy 
+HH; 
+Kildsig 
+DO; 
+Peck 
+GE,
+Erythromycin - Direct compression excipients:
+Preformulation stability screening using differential
+ccanning calorimetry Drug Dev. Ind. Pharm. 8,
+937–947, 1982.
+73
+El-Shattawy 
+HH, 
+Nalidixic 
+acid 
+- 
+Direct
+compression excipients, preformulation stability
+screening using differential scanning calorimetry
+Drug Dev. Ind. Pharm. 10, 491–504, 1984.
+74
+Jacobson H; Reier G, Application of differential
+thermal analysis to compatibility and stability
+problems in penicillin-stearic acid mixtures. J.
+Pharm. Sci. 58, 631-633, 1969.
+75
+Malan CEP; de Villiers MM; Lotter AP, Evaluation 
+of compatibility of tablet excipients with
+albendazole and closantel using DSC and HPLC.
+Drug Dev. Ind. Pharm. 23, 533-537, 1997.
+76
+Cunha-Filho MSS; Martýnez-Pacheco R; Landin M,
+Compatibility of the antitumoral â-lapachone with
+different solid dosage forms excipients. J. Pharm.
+Biomed. Anal. 45, 590-598, 2007.
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 23
+
+=== Page 22 ===
+Review Paper
+77
+Doser KH; Glanzer K; Loffler U Pharmaceutical
+formulation for salts of monobasic acids with
+clopidogrel. 2007/0048370 A1, Mar. 1, 2007, 2007.
+78
+Voigt R; Pergande G; Keipert S, Comparative
+studies on the study of drug-excipient interactions
+with vapor pressure osmometry and equilibrium
+dialysis. Pharmazie 39, (11), 760-763, 1984.
+79
+Bruni G; Berbenni V; Milanese C; Girella A; Marini
+A, Drug-excipient compatibility studies in binary and
+ternary mixtures by physico-chemical techniques. J.
+Therm. Anal. Cal., 102, 193-201, 2010.
+80
+Kiss D; Zelkó R; Novák C; Éhen Z, Application of
+DSC and NIRS to study the compatibility of
+metronidazole 
+with 
+different 
+pharmaceutical
+excipients. J. Therm. Anal. Cal. 84, 447-451, 2006.
+81
+Jin P; Madieh S; Augsburger LL, The solution and
+solid state stability and excipient compatibility of
+Parthenolide in Feverfew. AAPS PharmSciTech 8,
+E1-E6, 2007.
+82
+Indrayanto 
+G; 
+Mugihardjo; 
+Handayani 
+R,
+Compatibility study between famotidine and some
+excipients using differential scanning calorimetry.
+Drug Dev. Ind. Pharm. 20, 911-920, 1994.
+83
+Pignatello R; Ferro M; Puglisi G, Preparation of
+solid dispersions of nonsteroidal anti-inflammatory
+drugs with acrylic polymers and studies on
+mechanisms of drug-polymer interactions. AAPS
+PharmSciTech 3, (2), 1-11 [article 10], 2002.
+http://www.aapspharmscitech.org/articles/pt0302/
+pt030210/pt030210.pdf
+84
+Pignatello R; Ferro M; Guidi GD; Salemi G;
+Vandelli MA; Guccione S; Geppi M; Forte C; Puglisi
+G, Preparation, characterisation and photosensitivity
+studies of solid dispersions of diflunisal and
+Eudragit RS100 and RL100. Int. J. Pharm., (218),
+27–42, 2001.
+85
+Gordon 
+RE; 
+VanKoevering 
+CL; 
+Reits 
+DJ,
+Utilization of differential scanning calorimetry in the
+compatibility screening of ibuprofen with the
+stearate lubricants and construction of phase
+diagrams. Int. J. Pharm. 21, 99-105, 1984.
+86
+Pignatello R; Spadaro D; Vandelli MA; Forni F;
+Puglisi G, Characterization of the mechanism of
+interaction 
+in 
+Ibuprofen 
+- 
+Eudragit 
+RL100
+coevaporates. Drug Dev. Ind. Pharm. 30, 277–288,
+2004.
+87
+Cotton ML; Wu DW; Vadas EB, Drug-excipient
+interaction study of enalapril maleate using thermal
+analysis and scanning electron microscopy. Int. J.
+Pharm. 40, 129-142, 1987.
+88
+Devi MV; Babu PSSK, Drug-excipient interaction
+studies on enalapril maleate Int. J. Pharm. Excipients
+2, 153-158 2000.
+89
+Dong Z; Choi DS, Hydroxypropyl methylcellulose
+acetate 
+succinate: 
+Potential 
+drug–excipient
+incompatibility. AAPS PharmSciTech 9, (3), 991-
+997, 2008.
+90
+Teraoka R; Matsushima Y; Sugimoto I; Inoue K;
+Morita S-y; Kitagawa S, Effect of pharmaceutical
+excipients on the stability of Trichlormethiazide
+tablets under humid conditions. Chem. Pharm. Bull.
+57, (12), 1343-1347, 2009.
+91
+Cory W.C; Harris C; Martinez S, Accelerated
+degradation of ibuprofen in tablets. Pharm. Dev.
+Technol., 15, 636-643, 2010.
+92
+Vecchio S; Rodante F; Tomassetti M, Thermal
+stability of disodium and calcium phosphomycin and
+the effects of the excipients evaluated by thermal
+analysis. J. Pharm. Biomed. Anal. 24, 1111-1123,
+2001.
+93
+Lieberman 
+HH; 
+Lachman 
+L; 
+Schwartz 
+JB,
+Pharmaceutical dosage forms: Tablets. In 2nd
+Edition ed.; Lieberman HH; Lachman L; Schwartz
+JB, Eds. Marcel Dekker, Inc.: NewYork, Basel,
+1989; Vol. I, p 557.
+94
+Sabnis S; Rege P; Block LH, Use of chitosan in
+compressed tablets of diclofenac sodium: Inhibition
+of drug release in an acidic environment. Pharm.
+Dev. Technol. 2, (3), 243-255, 1997.
+95
+Drebushchak VA; Shakhtshneider TP; Apenina SA;
+Medvedeva AS; Safronova LP; Boldyrev VV,
+Thermoanalytical investigation of drug-excipient
+interaction. Part II. Activated mixtures of piroxicam
+with cellulose and chitosan. J. Therm. Anal. Cal. 86,
+303–309, 2006.
+96
+Kararli TT; Needham TE; Seul CJ; Finnegan PM,
+Solid state interaction of magnesium oxide and
+ibuprofen to form a salt. Pharm. Res. 6, 804–808,
+1989.
+97
+Yuan L-C; Dahl TC; Oliyai R, Effect of carbonate
+salts on the kinetics of acid-catalyzed dimerization of
+adefovir dipivoxil. Pharm. Res. 17, 1098-1103, 2000.
+98
+Moreton RC, Excipient interactions. In Excipient
+developemnt for pharmaceutical, biotechnology and
+drug delivery systems, Katdare A; Chaubal M, Eds.
+Informa Healthcare USA, Inc: New York, 2006; p
+105.
+99
+Blaug 
+S; 
+H u ang 
+W , 
+Interaction 
+of
+dextroamphetamine sulfate with spraydried lactose.
+J. Pharm. Sci. 61, 1770-1775, 1972.
+100 Hartauer KJ; Guillory JK, A comparison of diffuse
+reflectance FTIR spectroscopy and DSC in the
+characterization of a drug excipient interaction.
+Drug Dev. Ind. Pharm. 17, 617-630, 1991.
+101 Santos AFO; BasílioJr ID; Souza FSd; Medeiros
+AFD; Pinto MF; Santana DPd; Macedo RO,
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 24
+
+=== Page 23 ===
+Review Paper
+Application of thermal analysis of binary mixtures
+with metformin. J. Therm. Anal. Cal. 93, (2), 361-
+364, 2008.
+102 Cavatur R; Vemuri NM; Chrzan Z, Use of
+isothermal 
+microcalorimetry 
+in 
+pharmaceutical
+preformulation studies part III. Evaluation of
+excipient compatibility of a new chemical entity. J.
+Therm. Anal. Cal. 78, 63–72, 2004.
+103 Verloop Q; Marais AF; deVilliers MM; Liebenberg
+W, Compatibility of sennoside A and B with
+pharmaceutical excipients. Pharmazie 59, 728-730,
+2004.
+104 Ahlneck C; Zografi G, The molecular basis of
+moisture effects on the physical and chemical
+stability of drugs in the solid state. Int. J. Pharm. 62,
+87–95, 1990.
+105 Castello RA; Mattocks AM, Discoloration of tablets
+containing amines and lactose. J. Pharm. Sci. 51,
+106-108, 1962.
+106 Mroso PN; Li Wan Po A; Irwin WJ, Solid state
+stability of aspirin in the presence of exciplents:
+kinetic interpretation, modelling and prediction. J.
+Pharm. Sci. 71, 1096-1101, 1982.
+107 Reepmeyer JC; Kirchhoefer RD, Isolation of
+salicylsalicylic acid, acetylsalicylsalicylic acid, and
+acetylsalicylic anhydride from aspirin tablets by
+extraction and high-pressure liquid chromatography.
+J. Pharm. Sci. 68, 1167-1169, 1979.
+108 Mitrevej 
+A; 
+Hollenbeck 
+RG, 
+Influence 
+of
+hydrophilic excipients on the interaction of aspirin
+and water. Int. J. Pharm. 14, 243-250, 1983.
+109 Kornblum 
+SS; 
+Zoglio 
+MA, 
+Pharmaceutical
+heterogeneous systems I. Hydrolysis of aspirin in
+combination with tablet lubricants in an aqueous
+suspension. J. Pharm. Sci. 56, 1569-1575, 1967.
+110 Nelson E; Eppich D; Carstensen JT, Topochemical
+decomposition patterns of aspirin. J. Pharm. Sci. 63,
+755-757, 1974.
+111 Troup 
+AE; 
+Mitchner 
+H, 
+Degradation 
+of
+phenylephrine hydrochloride in tablet formulations
+containing aspirin. J. Pharm. Sci. 53, 375–379, 1964.
+112 Jacobs AL; Dilatush AE; Weinstein S; Windheuser
+JJ, Formation of acetylcodeine from aspirin and
+codeine. J. Pharm. Sci. 55, 893–895, 1966.
+113 Koshy KT; Troup AE; Duvall RN; Conwell RN;
+Shankle LL, Acetylation of acetaminophen in tablet
+formulations containing aspirin. J. Pharm. Sci. 56,
+1117–1121, 1967.
+114 Kartal A; Björkqvist M; Lehto V-P; Juppo AM;
+Marvola M; Sivén M, Compatibility of chewing gum
+excipients with the amino acid L-cysteine and
+stability 
+of 
+the 
+active 
+substance 
+in 
+directly
+compressed chewing gum formulation. J. Pharm.
+Pharmacol. 60, 1131-1138, 2008.
+115 Zoglio MA; Maulding HV; Haller RM; Briggen S,
+Pharmaceutical 
+heterogeneous 
+systems 
+III.
+Inhibition of stearate lubricant induced degradation
+of aspirin by the use of certain organic acids. J.
+Pharm. Sci. 57, 1877-1880, 1968.
+116 Garg 
+A; 
+Singh 
+S; 
+Rao 
+VU; 
+Bindu 
+K;
+Balasubramaniam J, Solid State Interaction of
+Raloxifene HCl with Different Hydrophilic Carriers
+During Co-grinding and its Effect on Dissolution
+Rate. Drug Dev. Ind. Pharm. 35, 455-470, 2009.
+117 Chan AS Fluoride stability in dicalcium phosphate
+dihydrate 
+composition. 
+United 
+States 
+Patent
+5037636, 1991.
+118 Thakur AB; Chen X; Bugay DE; Serajuddin ATM,
+Solid state incompatibility of dicalcium phosphate
+dihydrate with the sodium salt of a poorly water-
+soluble drug. Pharm. Res. 11 (Supl.), S166, 1994.
+119 Stroyer A; McGinity JW; Leopard CS, Solid State
+Interactions between the Proton Pump Inhibitor
+Omeprazole and Various Enteric Coating Polymers.
+J. Pharm. Sci. 95, 1342-1353, 2006.
+120 Rezende RLO; Santoro MIRM; Matos JR, Stability
+and compatibility study of Enalapril maleate using
+thermoanalytical techniques. J. Therm. Anal. Cal. 93,
+881-886, 2008.
+121 Jun HW; Whitworth CW; Luzzi LA, Decomposition
+of aspirin in polyethylene glycols. J. Pharm. Sci. 61,
+1160-1162, 1972.
+122 Whitworth CW; Luzzi LA; Thompson BB; Jun HW,
+Stability of aspirin in liquid and semisolid bases II:
+Effect of fatty additives on stability in a polyethylene
+glycol base. J. Pharm. Sci. 62, 1372-1374, 1973.
+123 Ha E; Wang W; Wang J, Peroxide formation in
+polysorbate 80 and protein stability. J. Pharm. Sci.
+91, 2252-2264, 2002.
+124 Ilium L, Chitosan and its use as a pharmaceutical
+excipient. Pharm. Res. 15, 1326-1331, 1998.
+125 Patel H; Stalcup A; Dansereau R; Sakr A, The effect
+of excipients on the stability of levothyroxine
+sodium pentahydrate tablets. Int. J. Pharm. 264, 35-
+43, 2003.
+126 Kumar V; Shah RP; Malik S; Singh S, Compatibility
+of 
+atenolol 
+with 
+excipients: 
+LC–MS/TOF
+characterization 
+of 
+degradation/interaction
+products, and mechanisms of their formation. J.
+Pharm. Biomed. Anal. 49, 880–888, 2009.
+127 Lira AM; Araujo AAS; Basilio IDJ; Santos BLL;
+Santana DP; Macedo RO, Compatibility studies of
+lapachol with pharmaceutical excipients for the
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 25
+
+=== Page 24 ===
+Review Paper
+development of topical formulations. Thermochim.
+Acta 457, (1-2), 1-6, 2007.
+128 Moyano MA; Broussalis AM; Segall AI, Thermal
+analysis of lipoic acid and evaluation of the
+compatibility with excipientes. J. Therm. Anal.
+Calorim., 99, 631-637, 2010.
+129 Alexander KS; Pudipeddi M; Parker GA, Stability of
+hydralazine hydrochloride syrup compounded from
+tablets. Am. J. Hosp. Pharm. 50, 683-686, 1993.
+130 Munjal M; Stodghill SP; ElSohly MA; Repka MA,
+P o ly m e ric 
+sy ste m s 
+fo r 
+am o rp h o u s 
+9 -
+tetrahydrocannabinol 
+produced 
+by 
+a 
+hot-melt
+method. Part I: Chemical and thermal stability
+during processing. J. Pharm. Sci. 95, (8), 1841-1853,
+2006.
+This Journal is © IPEC-Americas Inc
+J. Excipients and Food Chem. 1 (3) 2010 - 26
+

@@ -1,0 +1,1156 @@
+=== Page 1 ===
+Forum for exchange of information on 
+enforcement 
+ 
+Pilot project report on: 
+enforcement of restrictions of PFCAs and related substances 
+focusing on cosmetics 
+ 
+adopted 25 October 2024
+
+=== Page 2 ===
+Disclaimer 
+This publication is solely intended for information purposes and does not necessarily represent 
+the official opinion of the European Chemicals Agency. The European Chemicals Agency is not 
+responsible for the use that may be made of the information contained in this document. 
+ 
+FORUM PROJECT REPORT 
+Enforcement of restrictions of PFCAs and related substances focusing on cosmetics 
+Reference: ECHA-24-R-10-EN 
+ISBN: 978-92-9468-405-9 
+Cat. Number: ED-01-24-009-EN-N 
+DOI: 10.2823/3449060 
+Publ.date: October 2024 
+Language: EN 
+© European Chemicals Agency, 2024 
+Cover page © European Chemicals Agency 
+If you have questions or comments in relation to this document please send them (quote the 
+reference and issue date) using the information request form. The information request form 
+can be accessed via the Contact ECHA page at: 
+http://echa.europa.eu/contact 
+European Chemicals Agency 
+P.O. Box 400, FI-00121 Helsinki, Finland 
+Version 
+Changes 
+ 
+1.0 
+ 
+First edition
+
+=== Page 3 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+3
+ 
+Table of Contents 
+ 
+LIST OF ABBREVIATIONS ........................................................................................... 4 
+1. EXECUTIVE SUMMARY ............................................................................................ 5 
+2. INTRODUCTION ...................................................................................................... 6 
+3. RESULTS ................................................................................................................. 7 
+3.1. General overview ................................................................................................. 7 
+3.2. Participating countries ........................................................................................... 7 
+3.3. Type of product inspected ...................................................................................... 8 
+3.4. The role of the inspected companies for non-compliant cosmetic products found ........... 9 
+3.5. Non-compliant substances ..................................................................................... 9 
+3.6. Infringements and enforcement measures ............................................................. 10 
+3.6.1. Infringements .............................................................................................................. 10 
+3.6.2. Enforcement measures and follow-up activities ................................................................. 11 
+4. DISCUSSION, CONCLUSIONS AND RECOMMENDATIONS ...................................... 13 
+4.1. Discussion and conclusions .................................................................................. 13 
+4.2. Recommendations .............................................................................................. 14 
+4.2.1. Recommendations to industry/duty holders. ..................................................................... 14 
+4.2.2. Recommendations to consumers .................................................................................... 14 
+4.2.3. Recommendations to the European Commission ............................................................... 14 
+4.2.4. Recommendations to the inspectors ................................................................................ 15 
+4.2.5. Recommendations to the ECHA Forum ............................................................................. 15 
+5. ANNEX .................................................................................................................. 16 
+Annex I - Project questionnaires ................................................................................. 16
+
+=== Page 4 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+4
+ 
+List of abbreviations 
+Word 
+Explanation 
+CPNP 
+The Cosmetic Products Notification Portal 
+D4 
+Cyclotetrasiloxane 
+D5 
+Cyclopentasiloxane 
+D6 
+Cyclohexasiloxane 
+ECHA 
+European Chemicals Agency based in Helsinki, Finland 
+EEA 
+European Economic Area 
+EU 
+European Union 
+INCI name 
+INCI names (International Nomenclature Cosmetic Ingredient) are 
+systematic names internationally recognized to identify cosmetic 
+ingredients. 
+ICSMS 
+The internet-supported Information and Communication System on (pan-
+European) Market Surveillance. An IT platform to facilitate communication 
+between market surveillance bodies in EU and EFTA (the European Free 
+Trade Association) countries. It shares information on products especially 
+on non-compliant ones. 
+MS 
+Member States belonging to the EEA 
+NEA(s) 
+National enforcement authority(-ies) 
+POP 
+Regulation (EC) No 2019/1021 of the European Parliament and of the 
+Council of 20 June 2019 on persistent organic pollutants (POPs) 
+PFCA 
+Perfluorocarboxylic acids (C9-C14) 
+PFOA 
+Perfluorooctanoic acid 
+PFOS 
+Perfluorooctane sulfonic acid 
+REACH 
+Regulation (EC) No 1907/2006 of the European Parliament and of the 
+Council of 18 December 2006 concerning the Registration, Evaluation, 
+Authorisation and Restriction of Chemicals (REACH) 
+REACH 
+Annex XVII 
+Annex XVII to REACH: restrictions on the manufacture, placing on the 
+market and use of certain dangerous substances, mixtures and articles 
+SDS 
+Safety Data Sheet 
+UVCB 
+Unknown or variable composition, complex reaction products or of biological 
+materials
+
+=== Page 5 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+5
+ 
+1. Executive summary 
+The European Chemicals Agency’s Forum for Exchange of Information on Enforcement (Forum) 
+has finalised its pilot project that focused on the enforcement of PFCAs and related substances, 
+including PFOA and D4/D5 mainly in cosmetic products. 
+The project contributes to the harmonised enforcement of integrated control of chemicals in 
+cosmetic products with respect to: 
+a. POPs Regulation (Annex I restrictions) 
+b. REACH Regulation (Annex XVII restrictions) 
+This was an EU enforcement project inspecting 4686 products between November 2023 and 
+April 2024 in 13 Member States1. 
+The overall non-compliance rate was 6.1%. Most of the inspections were on cosmetic products 
+which had a non-compliance rate of 6.4%. The inspections were mainly done by checking the 
+ingredients list online or on the packaging for INCI names of the restricted substances. The 
+most non-compliant restricted substances identified were perfluorononyl dimethicone and 
+cyclopentasiloxane (D5) (in wash-off cosmetic products). 
+ 
+ 
+ 
+ 
+1 In this report a reference to ‘Member States’ will cover the countries that are either one of the 27 EU Member States 
+or one of the EEA countries. See Section 3.2. for the participating countries in the pilot project.
+
+=== Page 6 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+6
+ 
+2. Introduction 
+The Forum pilot project was carried out with the aim of enforcement on restricted substances 
+under both the POPs and REACH Regulations mainly in cosmetic products2 but also in other 
+products. 
+The project covered: 
+• 
+Enforcement of POPs Annex I restrictions on PFOA3 in cosmetic products, 
+• 
+Enforcement of REACH Annex XVII PFCAs (entry 68)4 and D4/D5 (entry 70) restrictions 
+applicable to cosmetic products. The entry 70 restricts D4 and D5 in wash-off 
+cosmetics. 
+Main target were companies that import or formulate cosmetic products to be sold in the EEA. 
+Distributors of cosmetic products were also in the scope of this pilot project. 
+The project was focused on consumer products (cosmetics) but also covered products for 
+professional use. 
+Every NEA was free to select the cosmetic products they wished to check within the project for 
+a different restricted substance and the associated legal requirements. The check was mainly 
+done based on the ingredients labelled on the cosmetic products themselves or on the website 
+of the selected product. Another option was to use laboratory tests to check for the presence 
+of the restricted substances. 
+Even if the focus of the project was on cosmetic products, it was up to the participating 
+country to decide if they wanted to check and report these restricted substances in any other 
+mixture or article. 
+The operational phase of the project ran from November 2023 to April 2024. The participating 
+countries were supported by the Forum Working Group. 
+ 
+ 
+ 
+ 
+ 
+2 Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic 
+products (OJ L 342, 22.12.2009, p. 59) is out of the scope of the project. 
+3 Including PFOA salts and related substances 
+4 Including C9-C14 PFCA salts and related substances
+
+=== Page 7 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+7
+ 
+3. Results 
+3.1. General overview 
+The Forum has finalised its pilot project that focused on the enforcement of restricted 
+substances under both the POPs and REACH Regulations mainly in relation to cosmetic 
+products. For the POPs Regulation, the checks focused on PFOA, its salts, and related 
+substances as restricted under Annex I. Under the REACH Regulation, the checks targeted C9-
+C14 PFCAs, their salts, and related substances restricted under entry 68, as well as D4 and D5 
+restricted under entry 70. The project covered 13 participating countries encompassing 4686 
+checked products from 345 companies. Of these, 4478 were cosmetic products and 208 were 
+other types such as detergents and cleaning products. 
+A total of 285 non-compliant products were reported in the project5, resulting in a non-
+compliance rate of 6.1% from all inspected products (cosmetic and other products). 
+All the non-compliances were found in cosmetic products (4478), accounting for a non-
+compliance rate of 6.4% in this category of products. In the project, the reporting was done 
+per product, which, for example, could include several shades or colour variants of a product 
+(all different shades/colours of a product were counted as one single product). Of the 4478 
+cosmetic products inspected, 4434 were checked for restricted substances under REACH and 
+3761 under POPs (most of the products were checked for potential non-compliance with both, 
+POPs and REACH). 
+The following chapters present the detailed results of the project. 
+Since no non-compliance was found in product categories other than cosmetics the project 
+report focuses on cosmetic products. 
+3.2. Participating countries 
+A total of 13 countries participated in the pilot project (Austria, Denmark, Germany, Finland, 
+Iceland, Italy, Lichtenstein, Lithuania, Luxembourg, Malta, Norway, Romania, Sweden). 
+The non-compliance rate found in the different MS varied greatly, between 0 and 52.6%. This 
+difference can be attributed to the different methodologies used by the MS for identifying 
+products to check. As an example, one MS checked 54% of all cosmetic products inspected in 
+this project and found 3.5% of the products non-compliant while another MS checked just 15% 
+and found 60.4% of them to be non-compliant. 
+Another aspect affecting the results might be the influence of campaigns by other institutions 
+e.g. NGOs which were running prior to or in parallel with the pilot project. 
+To identify the restricted substances different approaches were also possible, with the most 
+common being checking the ingredients listed on the label of the product as well as on the 
+company’s website. 
+Table 1 presents an overview of the methods used for checking for the presence of restricted 
+substances in all products checked (cosmetic and other products) while Table 2 presents the 
+figures related to methods used when non-compliances were found. 
+ 
+ 
+ 
+5 Additional cases were reported for non-compliance but they were not considered for this report as their non-compliance 
+could not be related to the scope of this project (REACH/POPs restrictions).
+
+=== Page 8 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+8
+ 
+ 
+Table 1: Overview of methods used to check for the presence of restricted 
+substances for all inspections6. 
+Method used to check 
+% 
+a) based on the information available on the label of the product 
+ 83 
+b) based on the information available on the website for the product 
+43 
+c) based on chemical analysis initiated by the authority7 
+4 
+d) based on the information available in the database for cosmetics (CPNP) 
+13 
+e) based on the information in additional online databases or applications 
+19 
+f) based on the information provided in Annexes 5-8 (e.g. decision tree) to this manual 
+13 
+g) other (e.g. SDS) 
+33 
+As can be seen from the Table 2 below the use of the company websites seems to be the most 
+effective way of finding non-compliant products. 
+Table 2: Overview of method used to check for the presence of restricted substances 
+in cosmetic products for cases when non-compliances were found8. 
+Method used to check 
+% 
+a) based on the information available on the label of the product 
+42 
+b) based on the information available on the website for the product 
+92 
+c) based on chemical analysis initiated by the authority9 
+2 
+d) based on the information available in the database for cosmetics (CPNP) 
+14 
+e) based on the information in additional online databases or applications 
+13 
+f) based on the information provided in Annexes 5-8 (e.g. decision tree) to this manual 
+13 
+g) other (e.g. IT tools) 
+9 
+3.3. Type of product inspected 
+All non-compliant substances were found in cosmetic products and constitute mixtures in 
+terms of REACH legislation. 
+Regarding D4 and D5 substances the corresponding products had to fulfil the criteria of being 
+wash-off cosmetic products in the terms of REACH restrictions. 
+ 
+ 
+ 
+6 Multiple options were possible. 
+7 Chemical analyses were conducted on a voluntary basis by the NEAs in the context of this project. 
+8 Multiple options were possible. 
+9 Chemical analyses were conducted on a voluntary basis by the NEAs in the context of this project.
+
+=== Page 9 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+9
+ 
+The company names, brands, types (e.g. conditioner, lipstick) and all other identifiers of the 
+non-compliant cosmetic products were not reported for this project. 
+3.4. The role of the inspected companies for non-compliant cosmetic 
+products found 
+The main identified role of the inspected companies was as distributors or else the role was 
+‘not-known’. The high number for the role ‘not-known’ amongst the companies was a result of 
+the type of inspections carried out (online inspections) and because there was no requirement 
+to find out the role for the efficient enforcement of the regulations. 
+There were several cases where two or three roles were indicated for the same company. One 
+company could have also had several non-compliant products. 
+Table 3: The role of the inspected company for non-compliant cosmetic products 
+found. 
+Role 
+Total 
+Importer 
+4 
+Formulator 
+16 
+Distributor 
+98 
+Marketplace 
+57 
+Not known 
+130 
+Total 
+305 
+3.5. Non-compliant substances 
+A total of six different restricted substances were found in 285 non-compliant products. Table 4 
+below shows the substances identified in the project and the number of non-compliant 
+products containing these substances. A total of 9 products contained more than one restricted 
+substance (e.g. D5 together with D4). The most frequently found substances were 
+perfluorononyl dimethicone and cyclopentasiloxane (D5). 
+Perfluorononyl dimethicone is covered by both the PFOA restriction in POPs and the C9-C14 
+PFCAs restriction in REACH. Perfluorononyl dimethicone is a siloxane polymer having a C9-
+perfluorinated side-chain. Based on its chemical structure, the substance is a PFOA- and C9-
+C14 PFCA- related substance according to the chemical definitions in the corresponding 
+restrictions. 
+Cyclopentasiloxane (D5) is covered by restriction entry 70 of Annex XVII of REACH for D4 and 
+D5.
+
+=== Page 10 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+10
+ 
+Table 4: Restricted substances identified during the project and number of non-
+compliant products10. 
+Restricted substance 
+Number of non-
+compliant 
+products 
+Legal provisions 
+Perfluorononyl dimethicone 
+15111 
+REACH - Entry 68 
+POP - PFOA 
+Cyclopentasiloxane (D5) 
+111 
+REACH - Entry 70 
+Cyclomethicone (a blend of D4, D5 and D6) 
+12 
+REACH - Entry 70 
+Cyclotetrasiloxane (D4) 
+11 
+REACH - Entry 70 
+Perfluorooctylethyl triethoxysilane 
+5 
+REACH - Entry 68 
+POP - PFOA 
+Perfluorononylethyl carboxydecyl PEG-10 
+dimethicone 
+4 
+REACH - Entry 68 
+POP - PFOA 
+3.6. Infringements and enforcement measures 
+3.6.1. Infringements 
+Regarding the POPs/REACH restrictions checked in the scope of the pilot project, at least one 
+non-compliant substance was found in 285 of the 4478 inspected cosmetic products. This 
+results in a non-compliance rate of 6.4%. 
+All non-compliances and their relation to different provisions of the POPs/REACH Regulations in 
+the scope of this pilot project are presented in Table 5 (Note that double violations were 
+possible for the inspected cosmetic products). 
+Table 5. Non-compliances with POPs/REACH restrictions [%] or overall 
+Legislation 
+Provision 
+Number 
+% 
+REACH 
+PFCA 
+(Annex 
+XVII, Entry 
+68) 
+# products checked 
+4434 
+ 
+ 
+# non-compliances found 
+147 
+ 
+ 
+ 
+10 In one cosmetic product there might be more than one restricted substance. 
+11 Different limit values apply or REACH and POPs Regulations. Not all 151 cases were non-compliant with REACH.
+
+=== Page 11 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+11
+ 
+Legislation 
+Provision 
+Number 
+% 
+REACH 
+D4 and D5 
+(Annex 
+XVII, Entry 
+70) 
+# products checked 
+4434 
+ 
+# non-compliances found 
+134 
+POP 
+PFOS and 
+PFOA 
+(Annex I) 
+# products checked 
+3761 
+ 
+# non-compliances found 
+166 
+ 
+3.6.2. Enforcement measures and follow-up activities 
+During inspections a total of 285 non-compliant products were detected. For most of these 
+products enforcement measures were imposed by the enforcement authorities. It is important 
+to clarify that multiple measures per case could have been taken by the enforcement 
+authorities. The most applied enforcement measure was the issuance of written advice (in 80% 
+of the cases where breaches were noticed). This suggests an approach by authorities in 
+guiding duty holders to compliance without resorting to more severe punitive actions, or 
+voluntarily actions were taken by the companies themselves (i.e. effective enforcement). See 
+Table 6 below for an overview of the enforcement measures applied. 
+Enforcement authorities issued administrative orders in 6% of the non-compliant cases, 
+implying that more formal and legally binding actions were required to address non-
+compliance. Examples of other measures taken by the authorities were – examples given – 
+forwarding the case to the member state of the producer, conducting chemical analysis to 
+determine limit values or forwarding the case internally to another federal enforcement 
+agency. 
+ 
+Table 6. Overview of the enforcement measures taken by inspectors (per product). 
+Enforcement measures 
+Number of cases 
+Verbal advice 
+5 
+Written advice 
+228 
+Administrative order 
+18 
+Fine 
+0 
+Criminal complaint / handing over to public prosecutor’s office 
+15 
+Other: 
+19 
+No enforcement actions were initiated yet 
+30
+
+=== Page 12 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+12
+ 
+ 
+For 30 non-compliant products there were no enforcement actions initiated as yet since e.g.: 
+a) the company voluntarily initiated actions from their side and a withdrawal from the 
+market, 
+b) the investigation was still ongoing at the time of the reporting, 
+c) the restricted substance was found on the label, but no laboratories could be identified 
+which were able to perform the analysis for the restricted substance, which was a 
+requirement for further enforcement actions. 
+ 
+For a significant number of cases (137), on-going operations were reported at the time of filing 
+this report (48%). Roughly half of the cases had been closed by that time (148 cases, 52%).
+
+=== Page 13 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+13
+ 
+4. Discussion, conclusions and recommendations 
+Based on the analysis of the data received, the following conclusions and recommendations can 
+be drawn from the project. 
+4.1. Discussion and conclusions 
+The POPs and REACH restrictions on PFCAs that were checked in this project cover PFOA, C9-
+C14 PFCAs, their salts and related substances. The corresponding restriction entries define C9-
+C14 PFCA and PFOA related substances as substances that, based on their molecular structure, 
+are considered to have the potential to degrade or be transformed to C9-C14 PFCAs or PFOA. 
+Therefore, hundreds of chemicals are covered by the scope of the restrictions, and only non-
+exhaustive lists of the restricted substances are available (based on EC or CAS numbers). 
+ 
+The check of restricted groups of substances, which are based on their chemical structure, 
+imposes a high workload for both enforcement as well as the implementation of the obligations 
+by industry. 
+Enforcement issues for per- and polyfluorinated restricted substances identified in this pilot 
+project were: 
+- 
+Regarding borderline cases the proper assignment based on the INCI names originating 
+from Cosmetics Regulation to REACH related substance identifiers (CAS/EC numbers) 
+demonstrates a challenge. 
+- 
+The conversion of the substance name to its chemical structure requires detailed 
+information and chemical understanding in order to enforce the restrictions. These 
+resources may be limited within the NEAs. 
+- 
+In some cases it is not possible to know whether the substance is restricted only based 
+on the INCI name. 
+- 
+Some companies were not aware that the substances in their products were restricted. 
+- 
+Some of the related substances fall under both restrictions, which may complicate 
+understanding (e.g. different given limit values). 
+ 
+Enforcement issues for D4 and D5 restricted substances identified in this pilot project were: 
+- 
+In contrast to REACH restrictions D4 is prohibited under the Cosmetics Regulation, but 
+D5 is not, which may complicate understanding. 
+- 
+D4 and D5 are only restricted in wash-off cosmetic products, but there is not a clear 
+definition of wash-off (e.g. according to use description the same product can be 
+compliant or non-compliant). 
+ 
+Additionally, the definition of placing on the market differs between the regulations 
+(POPs/REACH and Cosmetics). In POPs and REACH Regulations the restriction applies at all 
+levels of the supply chain after the Regulation is implemented compared to the Cosmetics 
+Regulation where prohibited substances can be sold if the product was placed on the market 
+before the ban came into place. 
+ 
+The pilot project helped tackle these issues (e.g. the creation of an internal substance lists 
+based on the INCI names) with a dedicated group of experts helping the NEAs with the 
+preparatory work aiming at efficient and harmonised enforcement. 
+ 
+The non-compliance level of 6.4% is comparable with the REF-10 project results where the 
+non-compliance level for mixtures was 9%12. It is important to highlight that, in many cases, 
+ 
+ 
+ 
+12 REF-10 project report on integrated chemical compliance of products
+
+=== Page 14 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+14
+ 
+the selection of products in these projects was not random, but based on a risk-based 
+approach and the results regarding non-compliance do not therefore represent a general 
+overview of all products available on the market. This is important to bear in mind when 
+analysing the findings of this project. 
+4.2. Recommendations 
+Based on the findings of the project and the conclusions drawn, the following recommendations 
+are addressed to the different actors with certain levels of responsibility in the implementation 
+of the legislation related to this project (industry/duty holders, consumers, the European 
+Commission, the inspectors and the ECHA Forum). 
+4.2.1. Recommendations to industry/duty holders. 
+1. Industry, economic actors and responsible persons for cosmetic products should pay 
+attention and help raise the awareness of the members that import, manufacture or sell 
+cosmetic products that they have to follow not only the provisions of the Cosmetics 
+regulation but also those of POPs and REACH. Current regulatory developments 
+concerning substance classes (i.e. per- and polyfluorinated compounds and D4/D5/D6) 
+should be followed carefully. 
+2. Industry should use substance identifiers (e.g. CAS, EC) that reflect accurately the 
+composition of their manufactured substances. This is especially relevant for UVCBs. 
+3. Formulators of cosmetic products are advised to carefully check Section 15 of the SDS 
+regarding the presence of restricted substances. 
+4. Companies selling cosmetic products are recommended to use ECHA CHEM to help 
+them identifying whether their products contain restricted substances. 
+5. Industry should be aware that the definition of placing on the market differs between 
+the regulations (POPs/REACH and Cosmetics). 
+4.2.2. Recommendations to consumers 
+1. Publicly available databases may be a source to find products that contain the relevant 
+restricted substances. However, it is important that these databases are up-to-date. 
+2. Consumers are advised to check the list of ingredients on product labels. When checking 
+the ingredients list consumers should focus on checking for Perfluorononyl dimethicone 
+and Cyclopentasiloxane (D5) in wash-off cosmetic products (the highest non-compliance 
+rate was found for these two substances in this project). 
+3. Consumers should be aware that the restricted substances were found in different types 
+of cosmetic products, sellers and any price range. 
+4.2.3. Recommendations to the European Commission 
+1. Regarding structure-based group restrictions it will be necessary to provide further 
+assistance to enforcement as well as duty holders in terms of which substances are 
+covered by the restriction. This may be achieved by guidance, demonstrative substance 
+lists or similar supporting documents. 
+2. To enable efficient enforcement in all MSs it is recommended to establish sufficient testing 
+facilities within the European Union such as a European Testing Facility with the capability 
+of conducting analyses for restricted per- and polyfluorinated substances.
+
+=== Page 15 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+15
+ 
+4.2.4. Recommendations to the inspectors 
+1. Continue enforcing restricted substances in cosmetic products, especially when new 
+restrictions come into effect such as the restriction for D4/D5/D6. 
+2. Cooperate with other authorities responsible for the Cosmetics Regulation when 
+inspecting borderline products. 
+3. Regarding notes on compliance, it is important to point out, that this only refers to 
+POPs/REACH compliance. Other regulations may be applicable and the product can be 
+found non-compliant by other authorities. 
+4. The exchange of cases between MSs may be of high importance. The use of the ICSMS 
+system is highly recommended especially for non-compliant cases. 
+5. Regarding notes on non-compliance, it is important to point out that the POPs/REACH 
+restrictions apply on all levels on the supply chain from the time when the restriction 
+becomes mandatory (consequence: immediate withdrawal of the product). 
+6. Proper preparation of enforcement actions is highly recommended (e.g. the creation of 
+an internal substance list). 
+4.2.5. Recommendations to the ECHA Forum 
+1. Consider running a new project on cosmetic products checking per- and polyfluorinated 
+compounds and D4, D5 and D6 especially when new restrictions come into force. 
+2. Consider developing enforcement practices for structure-based restrictions and provide 
+training for inspectors of the MSs. 
+3. To exchange practices, substances lists and concerted actions may support local NEAs in 
+enforcing these kinds of restrictions.
+
+=== Page 16 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+16
+ 
+5. Annex 
+Annex I - Project questionnaires 
+There are 2 questionaries (A and B) to this project. 
+ 
+The reason for this is to not overburden the inspectors with reporting on quick checks of the 
+label of compliant products but at the same time getting the data needed to do analyses for the 
+project questionnaire report. 
+Questionnaire A is on reporting non-compliant products. Please fill in one questionnaire per 
+non-compliant product. 
+ 
+Questionnaire B is on reporting on the total number of checks done per company/store during 
+one inspection. 
+ 
+The questionnaires are intended only for use by enforcement authorities and shall not be 
+distributed to companies inspected. 
+ 
+The information requested in questions 0.2, 0.3, 0.4 and 4.2 and 4.3. (in Questionnaire A) and 
+in questions 0.2, 0.3, 0.4 and 0.5 (in Questionnaire B) is only for internal use in the NEA or MS 
+(e.g., in case you need to forward the questionnaire to other NEAs for assistance). In case this 
+information is not removed from the online version of the questionnaire (EU Survey tool) before 
+the electronic submission of the form, these data will be available to the ECHA Focal point in HET 
+and later on to the NC. Therefore, please verify in advance if you are authorised to send any 
+information requested in these questions and remove it from the questionnaire before sending 
+it to the ECHA Focal point if you do not want this information to be available to other parties. 
+ 
+Explanation regarding the symbols used in Annex 1. 
+* - means that the answer to the question in the EU Survey is mandatory 
+ ⃝ - means ‘Single choice’ option 
+ - means ‘Multiple choice’ option
+
+=== Page 17 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+17
+ 
+Forum Pilot project on enforcement of restrictions of PFCA 
+and related substances focusing on cosmetics 
+QUESTIONNAIRE A 
+ 
+One non-compliant product per questionnaire 
+ 
+Section 0: General information about the inspection 
+ * 0.1 Participating country: 
+ 
+ 
+* 0.2 Name of the authority: 
+This data is only for internal use. 
+* 0.3. E-mail address (inspector): 
+This data is only for internal use. 
+* 0.4 File reference 
+This data is only for internal use 
+NEA Internal reference number 
+e.g., inspector No., case No. etc 
+ 
+Section 1 – Product level questions 
+I. Product identifier 
+ 
+1.1 EAN / GTIN No./Barcode / Item number 
+1.2 URL address 
+* 1.3. Product name 
+EAN = European Article Number 
+GTIN = Global Trade Item Number 
+This data is only for internal use. 
+ * 1.4 The product is a: 
+ 
+ ⃝ Substance 
+ ⃝ Mixture 
+ ⃝ Article 
+ 
+* 1.5 Type of product 
+ ⃝ cosmetics 
+ ⃝ Other 
+ ⃝1.5.1 Please specify your answer - Other" 
+ 
+* 1.6 The product was checked (multiple responses are possible) (please choose 
+relevant): 
+ 
+ a) based on the information available on the label of the product 
+ b) based on the information available on the website for the product 
+ c) based on chemical analysis initiated by the authority (voluntary) 
+Note for 1.6.c) Also includes the option that the chemical analysis has been carried 
+out by a laboratory 
+1.6.c.1. Please indicate what method was used: 
+ d) based on the information available in database for cosmetics (CPNP) 
+ e) based on the information in the additional online databases or applications 
+ f) based on the information provided in Annexes 5-8 (e.g. decision tree) to this 
+manual 
+ g) other 
+1.6.g. Please specify: 
+Multiple choice 
+The cosmetic regulation defines 
+in Article 19 (g) how the list of 
+ingredients need to be reported 
+in cosmetic products. 
+https://ec.europa.eu/growth/tool
+s-databases/cosing/ 
+It is not a legal obligation to have 
+ingredients available on the 
+website but is common that the 
+information is available there. 
+ 
+II – Non-compliant substance 
+1. 
+Please indicate the non-compliant substance found: 
+ 
+INCI name 
+Chem/IUPAC Name / Description 
+ 
+C9-15 FLUOROALCOHOL PHOSPHATE 
+Perfluoro-C9-15-alkanol, esters with phosphoric acid 
+ 
+PERFLUORONONYL DIMETHICONE 
+Siloxanes and silicones, dimethyl, 3-
+(nonadecafluorononyl)propyl methyl 
+ 
+AMMONIUM C6-C16 PERFLUOROALKYLETHYL 
+PHOSPHATE 
+Phosphoric acid, esters with 2-(perfluoro-C6-16-alkyl)ethanol, 
+ammonium salt 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL PEG-
+10 DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, 3-hydropoly(oxyethylene)oxypropyl 
+methyl, dimethyl (10 mol EO average molar ratio 
+Prioritisation of 
+the substances 
+according to the 
+frequency of 
+occurrence in 
+cosmetic 
+products. 
+For more 
+information on 
+the substances 
+please check 
+Annex 4.
+
+=== Page 18 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+18
+ 
+ 
+AMMONIUM C9-10 
+PERFLUOROALKYLSULFONATE 
+C9-10 alkanes, perfluoro-, sulfonic acid, ammonium salts 
+ 
+PERFLUOROOCTYLETHYL TRIETHOXYSILANE 
+Silane, triethoxy(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-
+heptadecafluorodecyl)- 
+ 
+PERFLUOROOCTYLETHYL TRIMETHOXYSILANE 
+Silane, trimethoxy(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-
+heptadecafluorodecyl)- 
+ 
+PERFLUOROOCTYLETHYL TRISILOXANE 
+Trisiloxane, 2-(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-
+heptadecafluorodecyl)-1,1,1,3,5,5,5-heptamethyl- 
+ 
+AMP-C8-18 PERFLUOROALKYLETHYL 
+PHOSPHATE 
+AMP-C8-18 Perfluoroalkylethyl Phosphate is the 
+aminomethylpropanol salt of a complex mixture of esters of 
+phosphoric acid and a perfluoroalkylethyl alcohol containining 
+8 to 18 carbons in the alkyl chain. 
+ 
+C4-18 PERFLUOROALKYLETHYL 
+THIOHYDROXYPROPYLTRIMONIUM CHLORIDE 
+1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 3[(gamma-
+omega-perfluoro-C6-20-alkyl)thio] derivatives, chlorides 
+ 
+DEA-C8-18 PERFLUOROALKYLETHYL PHOSPHATE 
+Phosphoric acid, .gamma.-.omega.-perfluoro-C10-20-alkyl 
+esters, compounds with diethanolamine 
+ 
+PERFLUORONONYL OCTYLDODECYL GLYCOL 
+MEADOWFOAMATE 
+Fatty acids, meadowfoam, esters with 1-perfluorononyl-2-
+octyldodecyloxy-ethan-1,2-diol 
+ 
+PERFLUORONONYLETHYL CARBOXY PEG-7 
+DIMETHICONE PHOSPHATE 
+Perfluorononylethyl Carboxy PEG-7 Dimethicone Phosphate is 
+the partial ester of phosphoric acid and a carboxylated 
+derivative of perfluorononylethyl dimethicone containing an 
+average of 7 moles of ethylene oxide 
+ ACRYLATES/METHOXY PEG-23 
+METHACRYLATE/PERFLUOROOCTYL ETHYL 
+ACRYLATE COPOLYMER 
+Copolymer formed of methoxy PEG-23 methacrylate, 
+perfluorooctyl ethyl acrylate, and one or more monomers of 
+acrylic acid, methacrylic acid or one of their simple esters 
+ 
+BEHENYL 
+METHACRYLATE/PERFLUOROOCTYLETHYL 
+METHACRYLATE COPOLYMER 
+Behenyl Methacrylate/Perfluorooctylethyl Methacrylate 
+Copolymer is a copolymer of behenyl methacrylate and 
+Perfluorooctylethyl Methacrylate monomers 
+ 
+BUTYL ACRYLATE/C6-14 
+PERFLUOROALKYLETHYL 
+ACRYLATE/MERCAPTOPROPYL DIMETHICONE 
+COPOLYMER 
+Butyl Acrylate/C6-14 Perfluoroalkylethyl 
+Acrylate/Mercaptopropyl Dimethicone Copolymer is a 
+copolymer of 2-(perfluoro(C6-14 alkyl)) ethyl acrylate, n-butyl 
+acrylate and mercaptopropyl dimethicone monomers 
+ 
+C20-28 ALKYL PERFLUORODECYLETHOXY 
+DIMETHICONE 
+C20-28 alkyl perfluorodecylethoxy dimehticone 
+ 
+C4-14 PERFLUOROALKYLETHOXY DIMETHICONE 
+Siloxanes and Silicones, 3-(2-perfluoro-C4-14-
+alkylethoxy)propyl methyl, dimethyl 
+ 
+C6-12 PERFLUOROALKYLETHANOL 
+Perfluoro-C6-12-alkyl ethanol 
+ 
+C6-14 PERFLUOROALKYLETHYL ACRYLATE 
+C6-14 Perfluoroalkylethyl Acrylate is the ester of Acrylic Acid 
+and a mixture of fluorinated alcohols containing 6 to 14 
+carbons in the alkyl chain. 
+ 
+C6-14 PERFLUOROALKYLETHYL 
+ACRYLATE/HEMA COPOLYMER 
+C6-14 Perfluoroalkylethyl Acrylate/HEMA Copolymer is a 
+copolymer of 2-(perfluoro(C6-14 alkyl)) ethyl acrylate and 2-
+hydroxyethyl methacrylate monomers 
+ 
+ISODODECYL/PERFLUORONONYLETHYL DIMER 
+DILINOLEATE/CITRATE 
+Isododecyl/Perfluorononylethyl Dimer Dilinoleate/Citrate is a 
+mixture of esters formed by the reaction of Dilinoleic Acid and 
+Citric Acid with Isododecanol and perfluorononyl ethyl alcohol 
+ 
+PERFLUOROCAPRYLYL TRIETHOXYSILYLETHYL 
+METHICONE 
+Silicones and siloxanes, 3-(perfluorooctyl)propyl methyl, 3-
+(triethoxysilyl)propyl methyl, trimethylsilyl terminated 
+ 
+PERFLUORONONYL 
+DIMETHICONE/METHICONE/AMODIMETHICONE 
+CROSSPOLYMER 
+Perfluorononyl Dimethicone/Methicone/Amodimethicone 
+Crosspolymer is a crosslinked silicone polymer that is formed 
+by reacting a copolymer of Perfluorononyl Dimethicone and 
+Methicone with Methicone and Amodimethicone 
+ 
+PERFLUORONONYL OCTYLDODECYL GLYCOL 
+GRAPESEEDATE 
+ 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL 
+BEHENYL DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, docosyl methyl, dimethyl 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL 
+HEXACOSYL DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, hexacosyl methyl, dimethyl 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL 
+LAURYL DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, dodecyl methyl, dimethyl 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL 
+LAURYL/BEHENYL DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, docosyl methyl, dodecyl methyl, dimethyl 
+ 
+PERFLUORONONYLETHYL CARBOXYDECYL PEG-8 
+DIMETHICONE 
+Siloxanes and Silicones, 11-(2-(nonafluorononyl)ethoxy)-11-
+oxoundecyl methyl, 3-hydropoly(oxyethylene)oxypropyl 
+methyl, dimethyl (8 mol EO average molar ratio 
+ 
+PERFLUORONONYLETHYL 
+DIMETHICONE/METHICONE COPOLYMER 
+Siloxanes and Silicones, 2-(nonafluorononyl)ethyl methyl, 
+dimethyl. hydrogen methyl 
+Inspectors can 
+look for the 
+following 
+keywords when 
+checking the 
+list of 
+ingredients 
+reported in the 
+product label: 
+‘perfluorononyl’ 
+‘perfluorooctyl’ 
+‘perfluoroalkyl’ 
+to identify 
+whether the 
+product would 
+contain PFOA or 
+C9-C14 PFCA 
+related 
+substances. 
+The majority of 
+cosmetic 
+ingredients 
+included in 
+Annex 4 contain 
+these text 
+fragments in 
+the INCI name.
+
+=== Page 19 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+19
+ 
+ 
+PERFLUORONONYLETHYL PEG-8 DIMETHICONE 
+Siloxanes and Silicones, 2-(nonafluorononyl)ethyl methyl, 3-
+hydropoly(oxyethylene)oxypropyl methyl, dimethyl (8 mol EO 
+average molar ratio 
+ 
+PERFLUORONONYLETHYL PEG-8 
+PHENYLISOPROPYL DIMETHCONE 
+ 
+ 
+PERFLUORONONYLETHYL STEARYL 
+DIMETHICONE 
+Siloxanes and silicones, di-Me, Me perfluorononylethyl, Me 
+stearyl 
+ 
+CYCLOTETRASILOXANE (D4) 
+D4 Octamethylcyclotetrasiloxane 
+ 
+CYCLOPENTASILOXANE (D5) 
+D5 Decamethylcyclopentasiloxane 
+ 
+CYCLOMETHICONE (a blend of D4, D5 and D6) 
+Cyclomethicone is a generic name for a mixture of cyclic 
+dimethyl polysiloxane compounds that conform to the 
+formula, where n has a value between 4 and 6. 
+ 
+Other 
+ 
+ 
+* If other, please specify the substance (e.g. INCI name or other available identification number): 
+ 
+ 
+* 2.1 Please confirm that all relevant non-compliant substances were indicated under question 2. 
+ Yes 
+ 
+ 
+ 
+III. Summary/enforcement actions/enforcement measures taken 
+ 
+* 3.1 Please specify regarding which obligations the product was non-compliant: 
+ 
+ POPs restrictions 
+ REACH restrictions 
+This question relates only to checks 
+of POP Annex I restrictions and 
+REACH Annex XVII. 
+* 3.2 Which type of enforcement actions were initiated when non-compliance was 
+identified? (Please choose relevant.) 
+ 
+ No enforcement actions were initiated yet 
+ 
+ Verbal advice 
+ 
+ Written advice 
+ 
+ Administrative order 
+ 
+ Fine imposed 
+ 
+ Criminal complaint / handing over to public prosecutor’s office 
+ 
+ Other: 
+ 3.2.1.a Please specify your answer other 
+ 
+ Follow up activities still on-going 
+Multiple choice 
+ 
+Examples of public announcement 
+is that the result of the non-
+compliant product and company is 
+published in a report or in the 
+NEA´s decision (order)
+
+=== Page 20 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+20
+ 
+Section 2 - Company level questions 
+IV. Information of the identified company 
+ 
+* 4.1 The role of the inspected company? (Please choose relevant.) 
+ Importer 
+ Formulator 
+ Distributor (in EEA) 
+ Market place 
+ Not known 
+Multiple choice 
+ 
+If several companies are inspected 
+for the same product – report only 
+the highest in the supply chain 
+(within your MS) 
+ 
+Distributor includes retailer and 
+wholesaler. 
+ 
+Market place is a company that 
+supplies (not sells) other sellers’ 
+products, like Amazon, E-bay etc. 
+Note that some marketplaces have 
+multiple roles. They could also be 
+manufacturers, importers, or 
+distributors for different products. 
+* 4.2 Name of the inspected company 
+ 
+This data is only for internal use. 
+ 
+4.3 Name of the company with the highest priority in the supply chain: 
+ 
+This data is only for internal use. 
+ 
+Note that for same product many 
+companies can be involved (e.g., 
+distributor (retailer), supplier) – 
+report only the highest in the 
+supply chain. 
+ 
+V. Additional comments 
+5. Informal comments 
+Please fill this section if you would like to inform on obstacles overcome, lessons learned, need for clarification/ 
+harmonisation:
+
+=== Page 21 ===
+Report on the pilot project on enforcement of restrictions of 
+PFCAs and related substances focusing on cosmetics 
+21
+ 
+ 
+Forum Pilot project on enforcement of restrictions of PFCA 
+and related substances focusing on cosmetics 
+ 
+QUESTIONNAIRE B 
+ 
+Total number of checks done per company/store 
+ 
+Section 0: General information about the inspection 
+* 0.1 Participating country: 
+ 
+* 0.2 Name of the authority: 
+This data is only for internal use. 
+* 0.3 E-mail address (inspector): 
+This data is only for internal use. 
+* 0.4 File reference 
+This data is only for internal use. 
+NEA Internal reference number 
+e.g., inspector No., case No. etc. 
+* 0.5 Name of company/store: 
+This data is only for internal use. 
+ 
+Section 1: Total number of checks per company/store 
+ 
+* 1. This section to be filled in by the inspector to collect data from one inspection 
+Additional information. If you did not check the specific duty please insert 0. 
+ 
+Total checks per type 
+of product 
+Total checks per duty 
+POPs restrictions 
+REACH Restrictions 
+Cosmetics 
+ 
+ 
+ 
+Other 
+ 
+ 
+ 
+* 1.1 The products were checked (multiple responses are possible): 
+ 
+ a) based on the information available on the label of the product 
+ b) based on the information available on the website for the product 
+ c) based on chemical analysis initiated by the authority (voluntary) 
+Note for 1.1.c) Also includes the option that the chemical analysis has been 
+carried out by a laboratory 
+1.1.c.1. Please indicate what method was used: 
+ d) based on the information available in database for cosmetics (CPNP) 
+ e) based on the information in the additional online databases or 
+applications 
+ f) based on the information provided in Annexes 5-8 (e.g. decision tree) to 
+this manual 
+ g) other 
+1.1.g. Please specify: 
+Multiple choice 
+The cosmetic regulation defines in 
+Article 19 (g) how the list of 
+ingredients need to be reported in 
+cosmetic products. 
+https://ec.europa.eu/growth/tools-
+databases/cosing/ 
+It is not a legal obligation to have 
+ingredients available on the 
+website but is common that the 
+information is available there. 
+ 
+2. Additional comments - to be filled in, if needed, by the inspector 
+Please fill this section if you would like to inform on obstacles overcome, lessons learned, need for clarification/ 
+harmonisation:
+
+=== Page 22 ===
+EUROPEAN CHEMICALS AGENCY 
+P.O. BOX 400, FI-00121 HELSINKI, FINLAND 
+ECHA.EUROPA.EU
+

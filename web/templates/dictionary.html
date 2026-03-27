@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-head">
+  <div>
+    <h1 class="page-title">Data Dictionary</h1>
+    <p class="page-sub">Tables + colonnes + recherche (dd_* ou fallback schema).</p>
+  </div>
+</div>
+
+<section class="panel">
+  <div style="padding:14px;">
+    <label class="field">
+      <span class="field-label">Recherche dictionnaire</span>
+      <input id="dictSearch" class="input" placeholder="Ex: product, ingredient, chemical, brand..." />
+    </label>
+    <div class="muted" style="font-size:12px;margin-top:6px;">
+      API: <code>/api/dictionary/search</code> — mode <span id="modePill" class="pill">—</span>
+    </div>
+
+    <div id="dictError" class="muted" style="margin-top:10px; display:none;"></div>
+  </div>
+</section>
+
+<div class="layout-2" style="margin-top:12px;">
+  <section class="panel">
+    <div class="panel-head">
+      <div class="panel-title"><span class="dot dot-blue"></span>Tables</div>
+      <div class="panel-meta" id="tMeta">—</div>
+    </div>
+    <div id="tablesBox" style="padding:14px;"></div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div class="panel-title"><span class="dot dot-green"></span>Colonnes</div>
+      <div class="panel-meta" id="cMeta">—</div>
+    </div>
+    <div id="colsBox" style="padding:14px;"></div>
+  </section>
+</div>
+
+<script src="{{ url_for('static', filename='dictionary_pro.js') }}"></script>
+{% endblock %}

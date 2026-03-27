@@ -1,0 +1,846 @@
+=== Page 1 ===
+Journal of Fashion Business 
+Vol.22, No.3
+—
+ISSN 1229-3350(Print)
+ISSN 2288-1867(Online)
+—
+J. fash. bus. Vol. 22, 
+No. 3:30-38, July. 2018 
+https://doi.org/
+10.12940/jfb.2018.22.3.30
+Stability Determination of the Various Cosmetic 
+Formulations containing Glycolic Acid
+Hye-yeon Yeo* · Jeong-hee Kim†
+*Dept. of Cosmetics, Wonkwang Health Science University, Korea
+Dept. of Beauty Design, Wonkwang University, Korea
+Corresponding author 
+—
+Jeonghee Kim 
+Tel : +82-63-850-6898
+Fax : +82-63-850-7301
+E-mail: jh@wku.ac.kr
+Keywords
+Abstract
+glycolic acid, cosmetic, 
+formulation, stability, 
+viscosity
+-
+This work was supported by the 
+National Research Foundation of 
+Korea 
+Grant 
+funded 
+by 
+the 
+Korean Government (NRF-2017 
+S1A5B5A01026170)
+Glycolic acid(GA) is well known the most effective cosmetic ingredient on the
+epidermal remodeling, accelerated desquamation and inhibitory effect on
+melanin synthesis. The various cosmetic formulations containing GA have not
+been reported in terms of stability. This study was to investigate the stability of
+three formulations(gel, cream, and ointment). The stability of obtained
+formulations was tested chemical and physical characteristics including the
+composition stability, hot-cool cycling, the variation of pH and viscosity, and the
+observation of color and odor. The experimental results showed that the gel
+and cream containing 5% GA, both formulations have proper stability in the
+centrifugal test, hot-cool cycling test, viscosity, pH stability and the observation
+of color and odor. On the other hand, the 5% GA ointment did not have
+stability. We concluded that the formulations of gel and cream are more
+suitable than ointment to use GA ingredient for developing cosmetic in terms
+of stability.
+I. Introduction
+Glycolic acid (GA), chemical formula C2H4O3 is the 
+smallest compound of 
+-hydroxy acid (AHA). GA is 
+α
+used in the pharmaceutical industry as a skin care agent. 
+The skin-care cosmetics containing GA have been shown 
+an excellent capability to penetrate the skin, decrease 
+acne, 
+reduce 
+stretch 
+marks, 
+decrease 
+melanin 
+pigmentation, and increase the efficacy of antioxidants 
+(Couch & Howard 2002). Due to its wide range of 
+activities, 
+GA 
+is 
+one 
+of 
+the 
+important 
+cosmetic 
+ingredients. Recently, previous studies have shown that 
+widely conducted to learn more of the ingredient of 
+excellent effect and for the possibilities of its use in 
+pharmaceutical and cosmetic formulations (Dal’Belo, 
+Gaspar, 
+Berardo, 
+& 
+Campos, 
+2006), 
+(Kornhauser,
+
+=== Page 2 ===
+Hye-yeon Yeo · Jeong-hee Kim / Stability Determination of the Various Cosmetic Formulations containing Glycolic Acid 31
+Coelho, & Hearing, 2012), (Faria, Damasceno, & Ferrari, 
+2014). As an application of GA in the cosmetic 
+preparation, there is a major problem that associated 
+with essential consideration of the various formulation 
+types and GA concentrations. The cosmetics may be the 
+controlling factor in the release of the active ingredient 
+from the formulation. The GA is water soluble, and the 
+gel formulation is aqueous that contains no oils. Also, 
+creams and lotions of oil-in-water emulsions are usually 
+the 
+preferred 
+choice 
+(Compos, 
+Gaspar, 
+Goncalves, 
+Pereira, Semprini, & Lopes 2015). These group of 
+formulas is either alcohol or water-based. While the 
+ointment formulation is semi-solid, nearly water-free 
+that is a greasy, sticky, emollient, protective, occlusive. 
+This perspective, we consider which formulations can 
+challenge the most stable and effective for GA ingredient. 
+ The goal of this work was to investigate the stability 
+of three different formulations. The stability tests were 
+composed of measuring the chemical and physical 
+characteristics as centrifugation, cycling, viscosity, pH, 
+color, and odor at the triplicate temperature in a certain 
+period 
+of 
+time. 
+The 
+stability 
+determinations 
+were 
+analyzed on these cosmetic formulations in order to 
+evaluate their usefulness to support GA. More to the 
+immediate point, the stability of cosmetic formulation is 
+key parameters for good quality product. 
+II. Material and Method
+1. Material 
+The various formulations containing GA were prepared 
+using the follow ingredients: Glycolic acid (Chemours, 
+Wilmington, Delawere, U.S.), distilled water, glycerin, 
+butylene 
+glycol, 
+hydroxyethylcellulose, 
+methylparaben, 
+disodium 
+EDTA, 
+cetearyl 
+alcohol, 
+polysorbate 
+60, 
+isopropyl 
+myristate, 
+glyceryl 
+stearate, 
+stearic 
+acid, 
+phenoxyethanol, 
+carbomer, 
+triethanolamine, 
+propylene 
+glycol, mineral oil, petrolatum, sorbitan stearate and 
+phenoxyethanol. 
+2. Preparation of the gel, cream, and ointment 
+ containing GA
+The study was conducted on cosmetic formulations 
+constituted by a gel, cream, and ointment containing GA. 
+They were prepared in the laboratory according to the 
+composition summarized in Table 1.
+1) Preparation of a gel formulation containing GA 
+(Sample A)
+The gel base was made as follows; first, phase A was 
+prepared by dissolving 1.3 g hydroxyethylcellulose in 
+distilled water. This solution was heated at approximately 
+50°C and mixed using the Homomixer® (HM-U1.0, 
+JPL Co, Seoul, Korea). Phase A was added to the 
+mixture of 3 g glycerin, 3 g butylene glycol, 0.03 g 
+disodium EDTA and 0.2 g methylparaben. The mixture 
+was heated up until all of the ingredients melted at 
+50°C. Afterward, 5 g GA was added to the prepared 
+gel base and mixed respectively. Then, the sample A (gel 
+containing 5% GA) was stirred at room temperature 
+until the mixture congealed. 
+2) Preparation of a cream formulation containing GA 
+(Sample B)
+The creams base was made as follows; 0.2 g carbomer 
+was dispersed in distilled water (72.7 g). This solution 
+(phase A) was heated at approximately 70°C and mixed 
+using the magnetic stirrer (Hei-TORQUE recision 400, 
+heidolph, Schwabach, Germany). Phase B was prepared 
+by dissolving 2 g isopropyl myristate, 1.5 g stearic acid, 
+2 g glyceryl stearate, 3 g polysorbate 60 and 0.4 g 
+phenoxyethanol in 8 g cetearyl alcohol and mixed at 
+70°C. 0.2 g Triethanolamine was dispersed in 5 g 
+distilled water. These solutions (oil and aqueous phases) 
+were heated at 70°C. Afterward, 5 g GA was added to 
+the 
+prepared 
+cream 
+base 
+and 
+mixed 
+respectively. 
+Homogenization of the aqueous phases with oil phases 
+was achieved with the magnetic stirrer at an equal speed 
+of 2,000 rpm for an appropriate time.
+
+=== Page 3 ===
+32 Journal of Fashion Business Vol.22, No.3
+Table 1. The Chemical Composition of the Formulations (unit: g)
+Samples 
+Composition
+Quantity
+Sample A
+(Gel)
+Distilled water
+Hydroxyethylcellulose
+Glycerin
+Butylene Glycol
+Disodium EDTA
+Methylparaben
+87.47
+1.30
+3.00
+3.00
+0.03
+0.20
+Glycolic acid
+5.00
+Sample B
+(Cream)
+Distilled water
+Carbomer
+72.70
+0.20
+Isopropyl myristate
+Stearic acid
+Glyceryl stearate
+Polysorbate 60
+Cetearyl alcohol
+Phenoxyethanol
+2.00
+1.50
+2.00
+3.00
+8.00
+0.40
+Distilled water
+Triethanolamine
+5.00
+0.20
+Glycolic acid
+5.00
+Sample C
+(Ointment)
+Cetearyl alcohol
+Mineral oil
+Petrolatum
+sorbitan stearate
+12.50
+8.00
+5.50
+3.50
+Propylene glycol
+Glycolic acid
+Phenoxyethanol
+13.50
+5.00
+0.40
+Distilled water
+51.60
+3) Preparation of an ointment formulation containing GA 
+(Sample C)
+The ointment base was made as follows; phase A was 
+prepared by dissolving 8 g mineral oil, 5.5 g petrolatum, 
+and 3.5 g sorbitan stearate in 12.5 g cetearyl alcohol. 
+This solution was heated at 55°C and mixed using the 
+Agi-mixer 
+(Hei-TORQUE 
+100 
+value, 
+Schwabach, 
+Germany). The phase B was prepared to mix 13.5 g 
+propylene glycol, 5 g glycolic acid, and 0.4 g glyceryl 
+stearate using homo-mixer and heated at 55°C. Phase 
+A and B were mixed and then 51.6 g warmed distilled 
+water (45°C) added into the molten oil base (phase
+A+B) while stirring the whole mixture on a magnetic 
+stirrer at an equal speed of 2,000 rpm for an 
+appropriate time. The resulting ointment was carefully 
+triturated in a mortar to avoid air bubbles in the 
+formulation.
+ 
+3. Determination of stability 
+The chemical and physical characteristics, including the 
+centrifugation, hot-cool cycling, the variation of pH and 
+viscosity, observation of color and odor were determined. 
+We 
+referred 
+to 
+previous 
+study, 
+John 
+(1985)뺳
+
+=== Page 4 ===
+Hye-yeon Yeo · Jeong-hee Kim / Stability Determination of the Various Cosmetic Formulations containing Glycolic Acid 33
+Fundamentals of stability testing
+for construct the 
+뺴
+stability test manual. 
+1) Determination of stability using the centrifugal test 
+The composition stability of three formulations was 
+measured using a centrifugation method (HA-1000-3 
+benchtop centrifuge; Hanil Science Medical, Daejeon, 
+Korea). Test tubes were filled with 10 g samples in each 
+and centrifuged at 1238 G for 30 min. If the samples 
+remained homogeneous after 30 min, it was considered 
+to have proper stability. The separation degrees are 
+classified into 5 levels (level 5: No separation, Stable, 
+level 4: 1 
+separation, level 3: 2 
+separation, level 
+㎜ 
+㎜ 
+2: 3 
+separation, level 1: 4 
+and more separation).
+㎜ 
+㎜ 
+2) Determination of stability using the cycling test 
+The the cycling test was done by hot-cool cycling form 
+4 to 45
+, using a multi-room temperature humidity 
+℃
+incubator 
+(Multi-Room 
+Temp. 
+Humidity 
+Incubator 
+DS-114, Dawon Science, Korea). The samples were 
+stored to cycle 24 hourly at each temperature (4
+, 25
+, 
+℃
+℃
+and 45
+). Seven cycles were performed, and the 
+℃
+appearances of the samples were observed at the end of 
+each cycle. After cycling test, the stability of samples was 
+measured by the appearance, color, and separation.
+3) Viscosity measurement 
+The viscosities of the samples were measured under 
+2,400
+3,600 cPs with the LV spindle 100 rpm, s64, at 
+～
+2 mins. using a Brookfield viscometer (DV-E Viscometer, 
+Brookfield, 
+MA, 
+U.S.A). 
+The 
+temperatures 
+of 
+measurement were at 4
+, 25
+, and 45
+in triplicate 
+℃
+℃
+℃ 
+and performed at each temperature for 4 consecutive 
+weeks.
+4) pH measurement 
+The pH measurement of the 3 different formulations 
+containing GA was carried out with a pH-meter (Hanna 
+instruments, USA). The pH of samples was monitored at 
+4
+, 25
+, and 45
+℃
+℃
+℃ at each temperature for 4 
+consecutive weeks. The measurements were performed in 
+triplicate and the average value was determined.
+5) Observation of coloration and odor 
+We observed the discoloration, odor and characteristic 
+changes depending on the temperature (4
+, 25
+, and 
+℃
+℃
+45
+) for 28 days.
+℃
+4. Statistical analysis
+All statistical procedures were conducted using Spss ver. 
+24.0 software (SPSS Inc., Chicago, IL, USA). Date are 
+presented as means and standard deviations. To compare 
+the extent of stability, the paired t-test was used and 
+the significance level was set at P<.05. 
+III. Results and Discussion
+The samples were initially evaluated for physical stability 
+using a centrifugation method, it is as of Figure 1. The 
+sample A, B, and C have maintained homogeneity in 
+centrifugation. 
+ Cosmetic product in daily life may be exposed to 
+extreme temperatures which may alter their properties. 
+The investigation of the role of cool and hot cycling 
+may put into evidence therefore not only a very 
+important technological aspect but also an economic one: 
+the environmental implication during transport and 
+storage before selling of the product (Alina lliescu, 2005). 
+The sample A, B, and C have passed three cycles of 
+temperature testing from 4
+to 25
+and from 25
+to 
+℃ 
+℃ 
+℃ 
+45
+. The cycling test results of prepared formulations 
+℃
+were shown in Figure 2. All formulations, Sample A, B, 
+and C was stable in hot-cool cycling. 
+ The proper viscosity of cosmetics formulation improves 
+spreadability and plays an important role in cosmetic 
+product quality. As shown in Table 2, Sample B showed 
+the highest viscosity and Sample C showed the lowest 
+viscosity. The viscosity of sample A and B did not 
+change during storage, in the condition of 4 weeks at 
+4
+, 25
+, and 45
+. In the previous studies, Ju(2017), 
+℃
+℃
+℃
+the viscosity variation of the prepared gels have been 
+little change, data showed that range of change was 
+from 0.28% to 0.54% and it has presented that the 
+cosmetic formulation is stable as the viscosity change has
+
+=== Page 5 ===
+34 Journal of Fashion Business Vol.22, No.3
+Sample A : Gel containing glycolic acid 5%
+Sample B : Cream containing glycolic acid 5%
+Sample C : Ointment containing glycolic acid 5%
+Figure 1. Centrifugation Test Result of the Prepared Formulations
+Sample A : Gel containing glycolic acid 5%
+Sample B : Cream containing glycolic acid 5%
+Sample C : Ointment containing glycolic acid 5%
+Figure 2. Cycling Test Result of the Prepared Formulations
+little. In sample C, an increase of viscosity during storage 
+was observed at 4
+, 25
+, and 45
+. Apparent viscosity 
+℃
+℃
+℃
+value increased almost linearly from 1,600 cps to about 
+2,000 cps. The viscosity values were significantly higher 
+after every week (p<0.01 and <0.001, Figure 3).
+
+=== Page 6 ===
+Hye-yeon Yeo · Jeong-hee Kim / Stability Determination of the Various Cosmetic Formulations containing Glycolic Acid 35
+Table 2. Viscosity Variation of the Formulations (Unit : cps)
+Temp.
+Sample
+1 week
+2 weeks
+3weeks
+4weeks
+4℃
+Sample A
+2995.00±5.00
+(100%)
+2998.33±2.88
+(100.11%)
+2996.00±5.29
+(100.03%)
+2997.00±1.73
+(100.06%)
+Sample B
+23505.00±5.00
+(100%)
+23501.00±1.73
+(99.98%)
+23505.00±5.00
+(100%)
+23501.00±1.73
+(99.98%)
+Sample C
+1726.66±25.16
+(100%)
+1863.33±15.27
+(107.91%)
+1976.66±5.77
+(114.47%)
+2046.66±5.77
+(118.53%)
+25℃
+Sample A
+2958.66±1.15
+(100%)
+2959.33±1.15
+(100.02%)
+2961.00±1.73
+(100.07%)
+2959.00±1.00
+(100.01%)
+Sample B
+23323.33±23.09
+(100%)
+23330.00±20.00
+(100.02%)
+23306.66±5.77
+(99.92%)
+23311.66±2.88
+(99.94%)
+Sample C
+1623.33±25.16
+(100%)
+1820.00±10.00
+(112.11%)
+1943.33±11.54
+(119.71%)
+1990.00±10.00
+(122.58%)
+45℃
+Sample A
+2589.66±0.57
+(100%)
+2589.00±1.15
+(99.97%)
+2589.33±1.15(10(9
+9.98%)
+2589.33±0.57
+(99.98%)
+Sample B
+23001.66±2.88
+(100%)
+23006.66±2.88
+(100.02%)
+23001.00±1.73
+(99.99%)
+23001.66±2.88
+(100%)
+Sample C
+1613.33±11.54
+(100%)
+1780.00±10.00
+(110.33%)
+1903.33±5.77
+(117.97%)
+1940.00±10.00
+(120.24%)
+Measurement data were done in triplicate, data shows mean±standard deviation
+Sample A : Gel containing glycolic acid 5%
+Sample B : Cream containing glycolic acid 5%
+Sample C : Ointment containing glycolic acid 5%
+Measurement data were done in triplicate, data show mean±standard deviation.
+To compare the viscosity of sample C at 4 , 25 , and 45 , by paired t-test. 
+℃
+℃
+℃
+Statistical significance was found at * : P
+0.05, 
+＜
+** : P
+0.01, 
+＜
+*** : P
+0.001. 
+＜
+Figure 3. Viscosity Value Variation of Sample C (Ointment)
+
+=== Page 7 ===
+36 Journal of Fashion Business Vol.22, No.3
+Table 3. pH Variation of the Formulations
+Temp.
+sample
+1 week
+2 weeks
+3weeks
+4weeks
+4℃
+Sample A
+3.82±0.02
+3.86±0.01
+3.84±0.00
+3.81±0.01
+Sample B
+3.85±0.01
+3.87±0.02
+3.86±0.01
+3.85±0.02
+Sample C
+3.82±0.06
+3.81±0.05
+3.73±0.00
+3.74±0.00
+25℃
+Sample A
+3.86±0.01
+3.86±0.01
+3.86±0.01
+3.87±0.01
+Sample B
+3.88±0.00
+3.87±0.02
+3.89±0.01
+3.88±0.00
+Sample C
+3.83±0.05
+3.83±0.04
+3.77±0.00
+3.76±0.01
+45℃
+Sample A
+3.87±0.02
+3.89±0.01
+3.87±0.02
+3.89±0.00
+Sample B
+3.91±0.01
+3.92±0.02
+3.91±0.01
+3.91±0.01
+Sample C
+3.86±0.05
+3.84±0.04
+3.84±0.01
+3.86±0.01
+Measurement data were done in triplicate, data shows mean±standard deviation
+Sample A : Gel containing glycolic acid 5%
+Sample B : Cream containing glycolic acid 5%
+Sample C : Ointment containing glycolic acid 5%
+ 
+Table 4. Stability of Discoloration and Odor for 4 Weeks
+Duration
+Sample
+1 week
+2 weeks
+3 weeks
+4 weeks
+Sample A
+Odor
+stable
+stable
+stable
+stable
+Discoloration
+transparency 
+transparency
+transparency
+transparency
+Sample B
+Odor
+stable
+stable
+stable
+stable
+Discoloration
+transparency 
+transparency
+transparency
+transparency
+Sample C
+Odor
+stable
+stable
+stable
+stable
+Discoloration
+transparency 
+transparency
+transparency
+transparency
+Sample A : Gel containing glycolic acid 5%
+Sample B : Cream containing glycolic acid 5%
+Sample C : Ointment containing glycolic acid 5%
+ 
+ The pH of sample A, B, and C were determined at 
+4
+, 25
+, and 45
+in 4 weeks (Table 3). The samples 
+℃
+℃
+℃ 
+were analyzed in triplicate. The pH of sample A and B 
+were 3.8 on average at all temperature during storage. 
+The pH variation of the sample A and B have been little
+change, sample A and B which is gel and cream 
+formulation, respectively showed an excellent stability.
+ The average pH of sample C is 3.8 at 4
+, 25
+, 
+℃
+℃
+while the pH of sample C is 3.9 at 45
+. The pH of 
+℃
+ointment has been changed a little by high temperature.
+
+=== Page 8 ===
+Hye-yeon Yeo · Jeong-hee Kim / Stability Determination of the Various Cosmetic Formulations containing Glycolic Acid 37
+The CIR (Cosmetic Ingredient Review) panel of experts 
+has reported that it is safe to use products containing 
+GA above pH 3.5 based on previous studies (U.S FDA 
+/CFSAN 2005). In this study, the pH of three typical 
+formulations of a prepared cosmetic containing GA was 
+on the average above 3.5. 
+ There were no changes of coloration and odor in 
+sample A, B, and C at 4
+, 25
+, and 45
+in 4 weeks, 
+℃
+℃
+℃ 
+it was shown in Table 4. 
+IV. Conclusion
+The aim of this study is to analyze the stability of 
+cosmetic which is three typical cosmetic formulations 
+containing 
+GA. 
+The 
+gel 
+and 
+cream 
+formulations 
+containing GA have exhibited stable chemical and 
+physical characteristics, including composition (centrifugal 
+test), hot-cool cycling, viscosity, pH, coloration, and 
+odor. 
+ The gel and cream formulations are practically the 
+optimal choice to contain GA ingredient. GA is an acid 
+and water soluble. The gel formulation is aqueous and 
+creams (oil-in-water emulsion) is a higher water content 
+which has contained no oils as well. While the GA 
+ointment formulation has 13.5% oil contents. Although 
+the additional oil phase components such as vaseline 
+decreased the viscosity, The GA ointment formulation is 
+unstable to increase of viscosity during storage at 4
+, 2
+℃
+5
+, and 45
+.
+℃
+℃
+References 
+Alina lliescu C. (2005). Investigation on the thermal 
+stability 
+of 
+technical 
+and 
+cosmetic 
+emulsions. 
+(Unpublished Doctoral dissertation) RWTH Aachen 
+University, Achen, Germany
+Campos P., Gaspar L. R., Goncalves G., Pereira L., 
+Semprini M., Lopes R. A. (2015) Comparative Effects 
+of Retinoic Acid or Glycolic Acid Vehiculated in 
+Different 
+Topical 
+Formulations. 
+BioMed 
+Research 
+International, 2015, 1-6
+Couch L. H., Howard P. C. (2002). Quantification of 
+glycolic acid in cosmetic products using reversed phase 
+high performance liquid chromatography. Journal of 
+Cosmetic Science, 24, 89-95 
+Dal’Belo S. E., Gaspar L. R., Berardo P. M., Campos G. 
+M. 
+(2006). 
+Moisturizing 
+effect 
+of 
+cosmetic 
+formulations containing Aloe vera extract in different 
+concentrations 
+assessed 
+by 
+skin 
+bioengineering 
+techniques. Skin Research and Technology, 12(4), 
+241-6 
+Ditre CM. (1998). Building your practice with glycolic 
+acid peels. Skin Aging, 6, 48-53.
+Fartasch M, Teal J, Menon GK. (1997). Mode of action 
+of glycolic acid on human stratum corneum. Archives 
+of Dermatolgical Research, 289, 404-409.
+Faria W., Damasceno G., Ferrari M. (2014). Moisturizing 
+effect of a cosmetic formulation containing pequi oil 
+(Caryocar brasiliense) from the Brazilian cerrado 
+biome. Brazilian Journal of Pharmaceutical Sciences, 
+50(1), 131-136
+FDC legislation. (2011). Assurance of Cosmetics Among 
+Europe. USA and Republic of Korea, 6(1) 19-28
+John, S. (1985). Fundamentals of stability testing. 
+International Journal of Cosmetic Science, 7, 291-303.
+Ju 
+J. 
+(2017). 
+Effects 
+of 
+rhEGF 
+and 
+Palmitoyl 
+pentapeptide-4 for skin regeneratin after glycolic acid 
+peeling, (Unpublished Master‘s thesis). Wonkwang 
+university, Iksan, Korea. 
+Kornhauser A., Coelho S. G., Hearing W. J. (2012). 
+Effects 
+of 
+Cosmetic 
+Formulations 
+Containing 
+Hydroxyacids 
+on 
+Sun-Exposed 
+Skin: 
+Current 
+Applications and Future Developments. Dermatology 
+Research and Practice, 2012, 1-6 
+Mukherjee S., Habif S., Rick D. (1999). Stable cosmetic 
+conpositions with different pH emulsions. Partent No. 
+US 5935589 A
+Narayanan M., Sekar P., Pasupathi M., Mukhopadhyay 
+T. (2017). Self-preserving personal care products. 
+International Journal of Cosmetic Science, 39(3), 
+301-309
+Olejnik A., Goscianska J., Zielnska A., Nowak I. (2015). 
+Stability determination of the formulations containing 
+hyaluronic acid. International Journal of Cosmetic
+
+=== Page 9 ===
+38 Journal of Fashion Business Vol.22, No.3
+Science, 37(4), 401-407
+Ruiz M. A., Clares B., Morales M. E., Cazalla S., 
+Gallardo V. (2007). Preparation and stability of 
+cosmetic formulations with an anti-aging peptide. 
+Journal of Cosmetic Science, 58(2), 157-171
+U.S. Food & Drug Administration. Labeling for Topically 
+Applied Cosmetic products containing alpha hydroxy 
+acids as ingredients (2005). Guidance for industry 
+https://www.fda.gov/
+Received (May 19, 2018)
+Revised (July 6, 2018)
+Accepted (July 20, 2018)
+

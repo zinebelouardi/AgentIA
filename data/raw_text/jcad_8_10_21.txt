@@ -1,0 +1,524 @@
+=== Page 1 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+21
+21
+[ O R I G I N A L R E S E A R C H ]
+DISCLOSURE: Dr. Katz is a paid independent research consultant for US Cosmeceutechs, LLC. Joseph Lewis and Laura McHugh are employees of
+US Cosmeceutechs, LLC, owner of pending patents for technologies used in this study. Arthur Pellegrino and Lativia Popescu are employed by
+Elizabeth Arden, Inc., an investor in US CosmeceuTechs, LLC.
+ADDRESS CORRESPONDENCE TO: Bruce Katz, MD; E-mail: brukatz@gmail.com 
+The Tolerability and Efficacy of a 
+Three-product Anti-aging Treatment
+Regimen in Subjects with 
+Moderate-to-severe Photodamage
+aBRUCE E. KATZ, MD; bJOSEPH LEWIS, BS; bLAURA McHUGH, MS; 
+cARTHUR PELLEGRINO, BS; cLAVINIA POPESCU, MS, MBA
+aClinical Professor, Icahn School of Medicine at Mount Sinai, New York, New York; bUS Cosmeceutechs, LLC; cElizabeth Arden, Inc.
+P
+hotodamage is characterized by a variety of aspects
+that, as a whole, show themselves as accelerated
+aging of the skin. Fine lines and wrinkles, dyschromia,
+flakiness, leathery appearance, sallow complexion, and
+other changes in tone and texture of skin are common.1 At
+the cellular level, photodamage is characterized2 by irregular
+thickening of the stratum corneum, thinning epidermis,
+reduced levels of glycosaminoglycans (GAGs) resulting in
+decreased moisture retention in the epidermis and dermis,
+reduced and fragmented collagen and elastin, collapsed
+fibroblasts, and reduced basal cell division. The causes are
+theorized to be the result of extrinsic stress from ultraviolet
+(UV) radiation and other sources of environmentally
+induced reactive oxygen species (ROS, or free radicals, e.g.,
+infrared radiation, ozone, pollution)3–4 as compared to
+intrinsic oxidative stress causing normal aging of skin.
+Topical treatment is an ideal frontline therapeutic choice for
+many patients, especially those suffering from mild-to-
+moderate photodamage, because of the simplicity and
+relatively low associated cost, staving off the need for more
+powerful device-based options. More severe photodamage is
+resistant to treatment via topical formulation due to issues
+of tolerability when using actives at therapeutically relevant
+strengths. 
+ABSTRACT
+Retinoids and alpha hydroxy acids differ in mechanism of action for treatment of photodamage, but concurrent use may
+produce a synergistic effect by combining retinoid-induced normalization of cellular differentiation with alpha hydroxy acid-
+induced exfoliation (in hydrophilic areas) and enhanced dermal and epidermal hydration. A recent bioengineered molecule,
+ethyl lactyl retinoate (alpha hydroxy acid retinoid conjugate), is the first to deliver alpha hydroxy acids and retinoids
+together in a hydrolysis-based time-released fashion. This could improve efficacy while minimizing irritation commonly
+associated with retinoid use. An eight-week clinical study was conducted to examine the efficacy and tolerability of this
+formulation; 25 women aged 54.1±8.9 years (mean ± SD) with moderate-to-severe photodamage (as determined by
+physician investigators using the Glogau Wrinkle Scale) employed a twice-daily regimen of cleanser (7.8% l-lactic acid, 2%
+salicylic acid) and anti-aging serum (0.1% alpha hydroxy acids-retinoids, 6.5% l-lactic acid) with concurrent use of sun
+protection factor 50+ sunscreen as needed. Longitudinal analysis of study data revealed statistically significant
+improvement in photodamage, dryness/flaking, dyschromia, and global appearance at eight weeks. All study products were
+well-tolerated throughout. Investigators concluded that the alpha hydroxy acid retinoid conjugate is a safe and effective
+topical therapy for moderate-to-severe photodamage, warranting further study. (clinicaltrials.gov, NCT02422836,
+https://clinicaltrials.gov/ct2/show/NCT02422836?term=NCT02422836) (J Clin Aesthet Dermatol. 2015;8(10):21–26.)
+
+=== Page 2 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+22
+22
+22
+Although heavily studied, retinoids (RC; vitamin A and
+its derivatives) are not well-understood, seeming to have an
+inexplicably wide variety of biological effects, including
+immunomodulation, 
+increased 
+collagen 
+production,
+regulation of skin cell metabolism and cellular turnover,
+thickening of the epidermis, an increase in the height of rete
+ridges and the number of dermal papillae, normalization of
+melanocyte function, and an increase in dermal fibroblast
+production and activity.5–8 They have been vigorously
+investigated for the treatment of photodamage and though
+often harnessed for dermatologic use, associated skin
+irritation limits their utility as a topical somewhat, and a
+variety of strategies have been employed to mitigate
+irritation and maximize adherence.9
+Alpha hydroxy acids (AHA) are nontoxic fruit- or food-
+based organic acids (e.g., glycolic acid, lactic acid, malic
+acid, etc.); lactic acid is a natural component of human body
+tissue.10 Chemically, AHAs consist of a carboxylic acid
+functional group with a hydroxyl group (alcohol) on the
+adjacent (alpha) carbon atom. Used for skin moisturization
+and exfoliation of dead skin cells, AHAs have been applied
+for a variety of dermatologic indications involving abnormal
+keratinization, including dry skin, dandruff, wrinkles, and
+acne among others. Clinical research has demonstrated
+their mechanism of action primarily involving reduced
+corneocyte cohesion (exfoliation) and upregulation of
+dermal 
+and 
+epidermal 
+hyaluronan 
+production
+(moisturization) with subsequent visual improvements in
+skin texture, tone, and radiance without inflammation when
+properly formulated.10–16 These factors make AHA ideal for
+dermatologic applications.17
+Therapeutic doses of topically applied retinoids
+frequently cause skin irritations that interfere with
+treatment. Figure 1 shows the relationship between
+commonly used retinoids and retinoic acid and the general
+irritation level and the process by which they are converted
+from one form to another via oxidation or hydrolysis. Esters
+are molecules made by joining an organic carboxylic acid
+with an alcohol through a condensation reaction; these
+typically provide increased stability and reduced irritation
+versus the parent compounds. Attempts to reduce retinoid
+irritation by esterifying vitamin A with fatty acids or other
+common organic acids, such as palmitic acid or acetic acid
+to produce retinyl esters (e.g., retinyl palmitate and retinyl
+acetate) negatively impact efficacy and thus, therapeutic
+potential. Chemically, AHAs are both carboxylic acids and
+alcohols, but reactions where AHAs are reacted as
+“alcohols” are uncommon. Retinoate esters of vitamin A can
+be made by combining AHA (as the alcohol) with vitamin A
+acid. 
+A novel retinoid ester may provide a topical alternative
+for moderate-to-severe cases of photodamage. This
+bioengineered molecule, known as ethyl lactyl retinoate
+(AHA retinoid conjugate, or AHA-RC), is the first double
+conjugate retinoid to deliver both AHA and RC to skin on a
+hydrolysis-based time-released mechanism biologically
+designed to maximize efficiency and minimize potential
+irritation from the retinoid component. The molecular
+structure for AHA-RC is shown in Figure 2. Conjugation of
+AHA with the larger, more lipophilic retinoid and again with
+ethanol improves deliverability of the resulting compound.
+Theoretically, such a molecule would exhibit the beneficial
+properties of both AHA and RC while minimizing RC-
+associated irritation, thereby providing an effective, yet
+gentler, topical therapy for photodamage that may be
+effective for moderate-to-severe cases otherwise resistant
+to treatment with topical sera.
+The purpose of this eight-week, full-face clinical study
+was to evaluate efficacy and tolerability of a twice-daily,
+three product, skin care regimen using a bioengineered
+AHA retinoid conjugate ester in patients with moderate-to-
+severe photodamage.
+PATIENTS AND METHODS
+Subjects. Women (n=25) aged 54.1±8.9 years (mean ±
+SD, 
+age 
+range 
+36–65) 
+with 
+moderate-to-severe
+lines/wrinkles (grade 3 or higher on the Glogau Scale, as
+shown in Figure 3) were enrolled in the study. Exclusion
+criteria included hypersensitivity to constituents of any of
+the study products; concurrent use of any topical or oral
+medication or therapy deemed by the investigator as
+potentially interfering with the study; use of anti-aging
+skincare products (cosmetic and drug products with AHA,
+salicylic acid, vitamin A, retin-A, vitamin C, growth factors
+or peptides, antioxidants such as idebenone, coffeeberry
+extract, CE ferulic, or phloretin) within the previous three
+Figure 1. Vitamin A derivatives, method of conversion and irritation
+potential 
+Figure 2. Molecular diagram of AHA retinoid conjugate (AHA-RC).
+
+=== Page 3 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+23
+23
+months and during the course of the study; use of medical
+treatments for the skin for anti-aging (such as laser,
+chemical peels, microdermabrasion, or other therapies)
+within six months prior to or during the study period;
+pregnancy or breastfeeding during the study period; lack of
+willingness to avoid prolonged exposure to sunlight,
+sunlamps, or tanning beds; participation in another study
+concurrently or within 30 days of enrollment; and presence
+of any condition or disorder (dermatologic or otherwise),
+which the investigator decided may interfere with
+successful participation in the study or accurate evaluation
+of endpoints. The study was conducted under current Good
+Clinical Practices guidelines using an independent
+investigational review board-approved protocol.
+Procedure. The study was conducted at the JUVA Skin
+& Laser Center/MediSpa (New York, New York) between
+February 2013 and May 2013. After an initial screening visit
+(Days -10 to -7) during which informed consent, medical
+history, inclusion/exclusion criteria review, initial endpoint
+assessment, and other pre-screening activities were
+performed, enrolled subjects were instructed to discontinue
+use of any and all facial products except dry mineral
+foundation and eye makeup for 7 to 10 days prior to
+beginning the study (“washout” period). A baseline (Day 0)
+pre-screening was reviewed, baseline endpoint evaluations
+were performed, baseline digital photographs were taken,
+and product was dispensed with clear instructions as to
+study guidelines and product use protocol.
+The three-product regimen included cream skin cleanser
+(7.8% l-lactic acid, 2% salicylic acid), anti-aging serum
+(0.1% AHA-RC, 6.5% l-lactic acid), and sunscreen SPF 50+.
+Subjects were instructed to apply anti-aging serum after
+use of cream skin cleanser in the morning and evening.
+Sunscreen SPF 50+ was to be applied after morning
+application of anti-aging serum. For cleansing, study
+participants applied a small amount of product to be gently
+lathered and massaged over the face, followed by thorough
+water rinse and patting dry. Anti-aging serum was pumped
+(one or two pumps as needed) into the hands and
+thoroughly massaged into the face, neck, and décolletage.
+Liberal application of sunscreen SPF 50+ was expected 15
+minutes prior to sun exposure and to be reapplied as
+needed. Subject diaries were included to promote
+adherence and obtain subject commentary or observations.
+Subjects were also instructed to notify the investigator
+immediately in the case of intolerable irritation or other
+adverse events within 48 hours of discovery.
+At the Week 4 (Day 28) visit, subject diaries were
+collected (with new ones dispensed), digital photography
+and visual expert grading of endpoints were performed, and
+adverse events were recorded along with any concomitant
+medication information. At Week 8 (Day 56), subject diaries
+and remaining product were collected, digital photography
+and visual expert grading of endpoints was performed, and
+adverse events were recorded along with any concomitant
+medication information.
+Physician evaluation and photography. Digital
+photography and evaluation of clinical endpoints was
+implemented at baseline as well as Weeks 4 and 8 of the
+study period. Dryness/Flaking, Dyschromia, Stinging/
+Burning, and Erythema/Redness were evaluated by the
+investigator on a 0 to 5 scale (0=none, 1=minimal, 2=mild,
+3=moderate, 4=moderately severe, 5=severe). Improvement
+in dyschromia was measured at Week 8 only. Global
+improvement was measured on a 0 to 4 scale (0=no
+improvement, 1=minimal improvement, 2=mild improvement,
+3=moderate improvement, 4=marked improvement).
+Photographs were taken using the Canfield VISIA digital
+imaging system (Canfield Imaging Systems, Fairfield, New
+Jersey) with the camera mounted on a stereotactic head
+positioning device. Images were captured from three angles
+(full front at 0°, from left at 45°, and from right at -45°) at
+controlled distances under standard room lighting.
+Photographs were taken 20 minutes after onsite facial
+cleansing with no makeup or jewelry allowed.
+Data analysis. The primary clinical endpoint was the
+change between photodamage grade (using the Glogau
+Scale) at the Week 4 visit and Week 8 visit versus the grade
+evaluation at the baseline visit (Day 0). Similar comparison
+was made for other clinical endpoints (Dryness/Flaking,
+Dyschromia, Stinging/Burning, and Erythema/Redness) as
+well. Aggregate data were analyzed via Mann-Whitney test
+using the cutoff of p<0.05. Subject reports of tolerability
+Glogau Photodamage Scale
+TYPE I: No Wrinkles
+Minimal to no discoloraion or wrinkling
+No keratoses
+TYPE II: Wrinkles in Motion
+Wrinkling in skin with movement
+Slight lines near the mouth and eyes
+No keratoses 
+TYPE III: Wrinkles at Rest
+Visible wrinkles all the time
+Noticeable discolorations
+Visible keratoses
+TYPE IV: Only Wrinkles
+Wrinkles throughout (make-up appears to cake and crack when
+applied)
+Grey or yellow discoloration of the skin
+History of prior skin cancer
+Figure 3. Glogau Photodamage Scale
+
+=== Page 4 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+24
+24
+and efficacy were also recorded via post-study subject self-
+assessment questionnaire conducted at final Week 8 follow-
+up, with results tallied as percentages.
+RESULTS
+All subjects completed the study. No adverse events or
+tolerability issues were reported.
+Physician evaluation. The Mann-Whitney test was
+used to analyze aggregate data with a cutoff of p<0.05.
+Percentages of subjects demonstrating grades of
+improvement for clinical endpoints at Weeks 4 and 8 are
+shown in Tables 1 and 2, respectively. 
+Improvement in fine lines and wrinkles did not manifest
+significantly by Week 4, but advanced to statistically
+significant levels by Week 8. There were also apparent
+reductions in level of improvement between Weeks 4 and 8
+in dryness (55.8 vs. 46.51%, respectively) and erythema
+(84.21 vs. 52.63%, respectively). Stinging was improved
+slightly more at Week 8 than Week 4, but was highly
+improved on both cases. Before and after (baseline and
+Week 8, respectively) photographs of subject improvement
+are given in Figures 4 and 5.
+Percentage improvements at Week 8 with
+the endpoint showing the greatest improve-
+ment listed first are Stinging, Dyschromia,
+Erythema, Dryness, and Photodamage. Global
+improvement at Week 8 was 72.8 percent and
+was statistically significant (p<0.001). Some
+key results are graphically demonstrated in
+Figure 6.
+DISCUSSION
+While 
+photodamage 
+in 
+its 
+various
+manifestations can be more aggressively
+treated with device-based modalities including
+ablative and nonablative lasers (fractional or
+nonfractional), microdermabrasion, intense
+pulsed 
+light 
+(IPL) 
+with 
+or 
+without
+photodynamic therapy (PDT), and other
+energy-based methods, topical treatment is an
+excellent early intervention.1 Younger or less
+photodamaged patients may be averse to or
+simply not require aggressive therapy;
+treatment is relatively inexpensive and can be
+performed in the convenience of one’s home;
+risk is minimal with topical treatment in
+comparison to device-based modalities. Other
+advantages of topical therapy include lack of
+need for downtime or any type of recovery
+period and ease of use. Physicians can easily
+prescribe therapy rather than expend office
+time (theirs or that of ancillary staff)
+performing treatments. One major dis-
+advantage to topical remedies is the need for
+strict adhrence because they require daily use.
+Patients may become bored with therapy,
+impatient with slower onset of results, or—as
+happens with less tolerable therapies—
+become discouraged and discontinue regular use due to
+discomfort or other issues.
+Both AHA and RC have been applied as less aggressive
+topicals for treatment of photodamage, but individual utility
+is limited. The effect of AHA is limited to exfoliation and
+moisturization, and more aggressive concentrations of RC
+topicals cause irritation. By combining the two in a novel
+formulation, synergistic improvements in tolerability and
+efficacy are hypothesized. The novel bioengineered
+molecule is believed to facilitate delivery of the RC and
+mitigate potential irritation. Because the AHA component
+(lactic acid) of the molecule is limited in concentration due
+to the conjugated retinoid, additional AHA concentration is
+supplemented in the formulation to increase overall AHA to
+6.5%. Combining effective concentrations of AHA and RC is
+useful for photodamage and extends the utility of topical
+therapies, perhaps allowing users to avoid or temporarily
+offset the need for inconvenient and relatively costly
+device-based alternatives.
+The outcomes revealed in this clinical study do indeed
+demonstrate improvement in photodamage and tolerability
+TABLE 1. Percent change from baseline to Week 4
+PHOTODAMAGE‡
+DRYNESS
+STINGING
+ERYTHEMA
+Change (%)
+1.32
+55.80
+71.43
+84.21
+p value*†
+0.322
+<0.001
+0.002
+<0.001
+NS 
+S
+S
+S
+*Statistical significance was defined as p<0.05
+†NS=not statistically significant, S=statistically significant
+‡as measured using the Glogau Scale
+TABLE 2. Percent change from baseline to Week 8
+PHOTODAMAGE‡ DRYNESS DYSCHROMIA STINGING
+ERYTHEMA
+Change
+(%)
+17.11
+46.51
+56.52
+76.19
+52.63
+p value*†
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+S
+S
+S
+S
+S
+*Statistical significance was defined as p<0.05
+†NS=not statistically significant, S=statistically significant
+‡as measured using the Glogau Scale
+
+=== Page 5 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+25
+of the treatment regimen. While improvement in fine lines
+and wrinkles (measured by the Glogau Scale) was less
+dramatic, not significantly manifesting until after
+assessment at Week 4, there were obvious and significant
+improvements in all other criteria across the board at both
+Week 4 and 8 follow-up visits. This may encourage
+adherence by providing noticeable results to patients
+without discomfort that might inhibit enthusiasm. Stinging
+sensation 
+showed 
+the 
+strongest 
+improvement,
+strengthening any suggestion of tolerability. It is also
+notable that the subject population consisted of those
+presenting with moderate-to-severe photodamage; this is
+somewhat profound given the topical nature of the
+investigated therapy.
+To summarize, this study demonstrates the potential
+utility of this novel AHA-RC molecule when applied
+regularly as a treatment for photodamage. Study outcomes
+include significant improvement across all evaluated criteria
+and thus suggest that additional study, including vehicle
+controls, larger and more diverse study population, and
+extended study time period might more firmly delineate the
+Figure 4. Before (baseline, at left) and after (at week 8 follow-up, right) photographs showing improvement in wrinkling at the right periorbital
+region of a Caucasian, non-Hispanic woman (age 52 years).
+Figure 5. Before (baseline, at left) and after (at week 8 follow-up, right) photographs showing improvement in dyschromia at the upper face of
+a Caucasian, non-Hispanic woman (age 64 years).
+Figure 6. Photodamage treatment results; percent improvement in
+photodamage parameters
+
+=== Page 6 ===
+[ O c t o b e r 2 0 1 5 • V o l u m e 8 • N u m b e r 1 0 ]
+26
+actual duration of effect and ceiling of improvement.
+Specific focus of endpoint criteria designed for more
+thorough analysis may also be more revealing; further
+investigation would also provide additional proof of safety
+and tolerability.
+CONCLUSION
+The three product regimen used in this study was shown
+to be safe and effective for treatment of moderate-to-severe
+photodamage with statistically significant levels of
+correction exhibited for all clinical endpoints by Week 8
+follow-up (study conclusion). Additional controlled study
+with larger, more diverse populations would further reveal
+the utility of this novel retinoid ester.
+REFERENCES
+1. 
+Visscher MO, Pan BS, Kitzmiller WJ. Photodamage:
+treatments and topicals for facial skin. Facial Plast Surg
+Clin North Am. 2013;21(1):61–75.
+2.
+Rubin MG. Photoaged and photodamaged skin. In: Manual of
+Chemical Peels: Superficial and Medium Depth.
+Philadelphia, Pa: JB lippincott Co; 1995:1–2.
+3.
+Pinnell SR. Photodamage and oxidative stress and protection
+provided by topical antioxidants. J Am Acad Dermatol.
+2003;48(1):1–19.
+4.
+Lewis JA II, DiNardo JC, McDaniel DH. Oxidative stress, the
+damage-accumulation theory of skin aging, and the role of
+antioxidants in the future of topical skin protection. Cosmet
+Dermatol. 2009;22(11):576–582.
+5.
+Kligman AM, Grove GL, Hirose R, Leyden JJ. Topical tretinoin
+for photoaged skin. J Am Acad Dermatol. 1986;15(4 Pt
+2):836–859.
+6.
+Kang S. Photoaging and tretinoin. Clin Dermatol.
+1998;16(2):357–364.
+7.
+Kligman LH. Topical retinoic acid enhances repair of
+ultraviolet damaged dermal connective tissue. Connect
+Tissue Res. 1984;12(2):139–150.
+8.
+Zelickson AS, Mortaz JH, Weiss JS, et al. Topical tretinoin in
+photoaging: an ultrastructural study. J Cutan Aging Cosmet
+Dermatol. 1988;1:41–47.
+9.
+Rolewski SL. Clinical review: topical retinoids. Dermatol
+Nurs. 2003;15(5):447–450,459–465.
+10.
+Yu RJ, Van Scott E. Alpha-hydroxy acids: science and
+therapeutic use. Cosmet Dermatol. 1994;7(10S):12–20. 
+11.
+Berardesca E, Maibach H. AHA mechanism of action.
+Cosmetics and Toiletries Magazine. 1995;110:30–31.
+12.
+Neudecker BA, Stern R. Alpha hydroxy acids stimulate
+hyaluronan deposition: an in-vitro study using human dermal
+fibroblasts. J Drugs Dermatol. Pre-publication draft dated
+Nov 2014.
+13.
+Bernstein EF, Lee J, Brown DB, et al. Glycolic acid treatment
+increases type I collagen mRNA and hyaluronic acid content
+of human skin. Dermatol Surg. 2001;27(5):429–433.
+14.
+Johnson AW, Nole GE, Rozen MG, et al. Skin tolerance of
+AHAs: a comparison of lactic and glycolic acids and the role
+of pH. Cosmet Dermatol. 1997;10(2):38–45.
+15.
+Van Scott E, Yu RJ. Hyperkeratinization, corneocyte
+cohesion, and alpha hydroxyl acids. J Am Acad Dermatol.
+1984:11:867–879.
+16.
+DiNardo JC, Grove GL, Moy LS. Clinical and histological
+effects of glycolic acid at different concentrations and pH
+levels. Dermatol Surg. 1996;22(5):421–424.
+17.
+Van Scott E, Yu RJ. Alpha hydroxyacids: therapeutic
+potentials. Can J Dermatol. 1989,1(5):108–112.
+

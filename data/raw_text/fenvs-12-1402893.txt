@@ -1,0 +1,3573 @@
+=== Page 1 ===
+A review of environmental and
+health effects of synthetic
+cosmetics
+Yohannes Desalegn Wirtu*
+Department of Environmental Science, College of Natural Sciences, Madda Walabu University, Oromia,
+Ethiopia
+The use of cosmetic products is expanding globally, and with it, so is the range
+of chemical substances employed in their production. As a result, there is also
+a higher risk of intoxication, allergic reactions, prolonged chemical exposure,
+adverse effects, and indiscriminate use. Cosmetic products can contain more
+than 10,000 ingredients. Most users of synthetic cosmetics are unaware of the
+harmful effects if they even are. However, it is linked to many diseases like
+cancer, congenital disabilities, reproductive impairments, developmental
+systems, contact dermatitis, hair loss, lung damage, old age, skin diseases
+and reactions, allergies, and harm to human nails. Many beauty products also
+create a high demand for natural oils, leading to extensive and intensive
+cultivation,
+harming
+natural
+habitats
+through
+deforestation,
+and
+contaminating
+soil
+and
+water
+through
+pesticides
+and
+fertilizers.
+The
+adverse effects of hazardous substances in synthetic cosmetics extend
+beyond human health and inﬂuence ecosystems, air quality, and oceans.
+Thus, this review aims to assess the environmental and health impacts of
+cosmetics using published scientiﬁc articles. The study used a systematic
+review based on Scopus, Science Direct, Web databases, Scholar Google, and
+PubMed. The results of this review showed that the formulation of cosmetics
+until the disposal of their containers could adversely affect environmental and
+human health.
+KEYWORDS
+cosmetic pollution, cosmetic impact, cosmetics and human health, cosmetic products,
+environmental impact, health risks, synthetic cosmetics, waste management
+OPEN ACCESS
+EDITED BY
+Antonije Onjia,
+University of Belgrade, Serbia
+REVIEWED BY
+Slavica Ražić,
+University of Belgrade, Serbia
+Milica Lučić,
+University of Belgrade, Serbia
+Aleksandra Nastasović,
+University of Belgrade, Serbia
+*CORRESPONDENCE
+Yohannes Desalegn Wirtu,
+yohannisdesalegn@gmail.com
+RECEIVED 18 March 2024
+ACCEPTED 20 September 2024
+PUBLISHED 22 October 2024
+CITATION
+Wirtu YD (2024) A review of environmental and
+health effects of synthetic cosmetics.
+Front. Environ. Sci. 12:1402893.
+doi: 10.3389/fenvs.2024.1402893
+COPYRIGHT
+© 2024 Wirtu. This is an open-access article
+distributed under the terms of the Creative
+Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Frontiers in Environmental Science
+frontiersin.org
+01
+TYPE Review
+PUBLISHED 22 October 2024
+DOI 10.3389/fenvs.2024.1402893
+
+=== Page 2 ===
+GRAPHICAL ABSTRACT
+1 Introduction
+The market size of the beauty sector, which is estimated to be
+$48.8 billion and is still expanding, is enormous. People frequently
+use makeup to express who they are; individuality and self-
+expression are signiﬁcant facets of who we are. However, the
+effects of the cosmetics business and its products on the
+environment are signiﬁcant and cannot be disregarded. The
+beauty sector has substantial environmental consequences, from
+excessive packaging waste to the utilization of natural resources like
+palm and soy. Beauty packaging generates 120 billion garbage units
+annually, including plastic, paper, glass, and metals that are
+inadequately
+recycled
+and
+ultimately
+wind
+up
+in
+landﬁlls,
+according to the social justice platform It should be emphasized
+that the Traceability and Veriﬁcation System is the UNICEF Supply
+Division. The demand for natural oils from several cosmetic goods
+also increases, which encourages vast and intense farming, damages
+natural ecosystems through deforestation, and contaminates soil
+and water with pesticides and fertilizers (Gutierrez, 2023).
+Any substance that is poured, sprinkled, sprayed, inserted into,
+or otherwise applied to the human body is a cosmetic (Attard and
+Abstract,
+2022)
+and
+is
+used
+to
+clean,
+beautify,
+promote
+attractiveness, or alter the appearance without disrupting the
+body’s physiological
+functions
+(John Kanayochukwu
+Nduka,
+2019). The body’s physiological processes should not be changed
+during this process by cosmetics. Cosmetics must be efﬁcient,
+durable, stable, and safe for human use. They are mixes of
+certain surfactants, oils, and other substances. It is challenging to
+monitor the safety of every product, with so many being introduced
+to the market each season, and certain items can contain
+carcinogenic chemicals (Alam et al., 2019).
+According to published research, cosmetic products like lipstick,
+lip gloss, eye shadow, and henna hair color contain high levels of
+hazardous
+lead
+(Kaličanin
+and
+Velimirović,
+2016;
+Łodyga-
+ChruŘcińska et al., 2018). Triclosan is a common antibiotic likely
+present in consumer goods and personal care items utilized by 75%
+of the U.S. population. Following a risk evaluation by the U.S. Food
+and Drug Administration, Triclosan (TCS) was eliminated from
+soap products in September 2016 (FDA). Triclosan is still present,
+but, in high proportions, in various personal care items such as
+surgical
+soaps,
+mouthwash,
+hand
+sanitizer,
+and
+toothpaste
+(Weatherly and Gosse, 2017).
+Heavy metals are a common constituent in cosmetic goods
+(Alam et al., 2019). According to Velly et al., lead levels in toothpaste
+were higher than permitted by U.S. and E.U. guidelines (Vella and
+Attard, 2019). Polyethylene glycol (PEGs) (favorably used as
+penetration enhancers), according to Panico et al., may still
+contain
+contaminants,
+including
+lead,
+iron,
+cobalt,
+nickel,
+cadmium,
+and
+arsenic
+(Łodyga-ChruŘcińska
+et
+al.,
+2018)
+described how lead and nickel were present in lipsticks and
+Frontiers in Environmental Science
+frontiersin.org
+02
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 3 ===
+powders on the Polish market at levels prohibited by European
+regulations (Łodyga-ChruŘcińska et al., 2018).
+Most
+chemicals
+are
+included
+in
+cosmetic
+products
+as
+preservatives, surfactants, perfumes, stains, etc. These compounds
+also improve the items’ quality, properties, and shelf lives while
+improving user appeal (Pereira and Pereira, 2018). However, many
+of these chemicals also have adverse side effects (Figure 1). Clinical
+symptoms most frequently reported include conjunctivitis, cosmetic
+acne,
+photoallergic/toxic,
+contact
+dermatitis,
+hypo/
+hyperpigmentation, itching, and corrosive scalp injury. These
+reactions may occur immediately after application or after
+repeated use (Mestawet et al., 2018).
+Documents show that natural material extracts were employed
+previously, but synthetic substances are now frequently found in
+cosmetic items. Some of these artiﬁcial additions may endanger the
+health of consumers. The underarm and breast area’s estrogenic
+cosmetics are being looked into as a potential source of breast cancer
+(Amasa et al., 2012; Rootid et al., 2022). There have also been
+reports
+of
+birth
+abnormalities,
+reproductive
+issues,
+and
+developmental
+issues
+(Okereke
+et
+al.,
+2015;
+Kaličanin
+and
+Velimirović, 2016).
+Environmental concerns are another issue with cosmetics. The
+environmental effect of about $400 billion and the expanding
+worldwide cosmetics and beauty business ranges from the
+procurement of raw materials to production, distribution, and
+trash produced by end-users (Chouhan and Himanshu Vig,
+2021). Cosmetics impact the oceans, the air quality, and the
+ecosystems that have sustained ﬂora and fauna for thousands of
+years, in addition to the local landﬁlls ﬁlled with mountains of
+single-use plastics (Young, 2022). Species are vanishing so that
+makeup and skincare palettes can be made. In addition to how
+the items’ production and disposal affect wildlife, they also suffer
+directly from 80 percent of the world’s population’s continued use of
+animal testing (European Parliament, 2018).
+In contrast to pharmaceutical medications, personal care, and
+cosmetic items can only be used externally. Due to human activity,
+such as washing, taking a shower, or taking a bath, they are more
+likely to enter the environment in large quantities and contribute to
+more ecological systems. Shampoos, soaps, toothpaste, and shower
+gels are examples of personal care products that often fall under
+sanitary practices and should be rinsed off immediately. However,
+some personal care items, like sanitizers and sunscreen lotion, are
+leave-on products. Typically, cosmetics are applied to items and left
+on the skin for at least a few hours (Borowska and Brzóska, 2015).
+When cosmetics are removed, washed, or used in the shower, they
+enter sewage treatment facilities, which are ineffective at eliminating
+all contaminants from substances in personal care and cosmetic
+goods (Ray et al., 2020). As a result, these chemicals gather with
+sewage sludge, which is subsequently applied to crops as fertilizer,
+opening up a route for their entry into the food chain (Juliano and
+Magrini, 2017).
+The most prevalent types of personal care and cosmetic
+pollutants
+are
+organic
+chemicals
+(bisphenol-A,
+p-chloro-m-
+xylenol, triclosan, grease, fat, and surfactants), which not only
+harm the aquatic environment but also have an equivalent
+impact on the plants and human health (Ray et al., 2020). With
+the increasing popularity of cosmetics, along with reports of toxicity
+in products sold globally and their adverse effects on both human
+health and the environment, it is justiﬁable to closely examine
+these issues.
+However, cosmetics in developing nations like Ethiopia do not
+require marketing authorization, unlike medicinal products. In the
+Western world, most countries have laws and regulations on
+cosmetic safety and labeling (Bilal et al., 2017). As is the case in
+many other nations, the drug regulatory system does not devote
+much or any effort to safeguarding the general public and the
+environment from the negative impacts that these products may
+have. The companies are in charge of ensuring the safety of the
+cosmetic products; however, due to various factors, these businesses
+are business-oriented and pay little to no attention to the cosmetic
+products’ safety. Some of them include the need to alter test
+procedures, formulas, packaging, and advertising which could
+increase sector costs (Amasa et al., 2012).
+Additionally, some customers choose not to read the labels of
+cosmetic items to determine the ingredients and other essential
+details before using them (Bilal et al., 2017). Therefore, the high rate
+of illiteracy and lax enforcement of laws leave a gap if faulty goods
+are put onto the market and cause harm to the environment and
+people. The purpose of this review was to get insight into the effects
+of harmful substances in synthetic cosmetics on both human health
+and the environment.
+2 Approach
+This review has selected 215 studies published between 1995 and
+2024. An adequate literature analysis has been conducted to examine
+the most recent data on the chemical components of cosmetics,
+including epidemiological research addressing risk factors for
+various diseases. This narrative review considered pertinent
+studies on synthetic cosmetics, environmental and human health
+effects, and management issues. The narrative literature review was
+according to Pereira and Pereira (2018). In this review, we used
+literature published in English (Wan et al., 2024), and there were no
+constraints on the year of publication or type of study setting. We
+also considered some grey literature, including databases and the
+most recent reports that were released. Case studies, analytical cross-
+sectional studies, policy review papers, systematic reviews, and other
+pertinent studies were also considered. Databases including Scopus,
+Science
+Direct,
+Web
+databases,
+Scholar
+Google,
+PubMed,
+Environmental
+Science
+and
+Technology,
+Government
+and
+Environmental Organizations, and Regulatory Agencies were
+employed
+to
+access
+published
+scientiﬁc
+publications.
+Grey
+literature and reference lists for the studies under evaluation were
+found using Google.
+The inclusion criteria for scholarly papers were as follows:
+Papers
+should
+be
+published
+in
+peer-reviewed
+journals
+or
+reputable academic sources, written in English, and provide
+relevant empirical data, analysis, or theoretical insights on the
+effects of toxic ingredients in synthetic cosmetics on humans and
+the environment. They must contain the terms “cosmetic pollution,”
+“cosmetic toxicity,” “cosmetic impact,” “cosmetic intoxication,”
+“cosmetic risk,” “cosmetic danger,” “cosmetic and human health,”
+or “cosmetic side effects.” Scientiﬁc papers that discussed cosmetic
+surgery, and cosmetic impact written in a non-English language or
+had no connection to cosmetic impact items were omitted, as per the
+Frontiers in Environmental Science
+frontiersin.org
+03
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 4 ===
+exclusion criteria. Reviews and original publications with a
+toxicological and clinical perspective were among the scientiﬁc
+literature chosen. The primary hazardous chemicals found in
+cosmetic items are linked to potential health issues in the
+scientiﬁc literature using this technique. The clinical-toxicological
+connection is made a useful tool to explain and comprehend the
+adverse effects of using cosmetics through this integrative study,
+bringing attention to the underutilized use of these items and
+emphasizing the accompanying health hazards.
+The impact of synthetic cosmetics on the environment and
+health, associated issues, and potential solutions were the focus of
+this review, which focused on speciﬁc studies on the subject. The
+evidence was compiled and given section by section to make it
+simple to summarize the results by subject area. Accordingly,
+the aspects of common toxic chemical compounds that harm
+human and environmental health are the subject of this article
+(Siti Zulaikha et al., 2015). This review consists of ﬁve sections
+as follows:
+1. Common Hazardous Chemicals in Synthetic Cosmetics
+- Identiﬁcation and discussion of chemicals posing risks to
+health and the environment.
+2. Consequences
+of
+Cosmetics
+on
+Environment
+and
+Human Health
+- Analysis of the impacts of cosmetic use on ecosystems,
+wildlife, and human wellbeing.
+3. Difﬁculties in Controlling Substances in Cosmetics
+- Examination
+of
+challenges
+related
+to
+regulation,
+enforcement, and monitoring of cosmetic ingredients.
+4. Management Strategy
+- Proposal of strategies and approaches to mitigate risks
+associated with cosmetic chemicals.
+5. Conclusion
+- Summary and key ﬁndings from the study.
+3 Result and discussion
+Chart 1 Show trends in publications and citations on Human
+Health and ecological effects of synthetic cosmetics (2000–2023).
+The data for “Chart 1” were obtained from multiple reputable
+scientiﬁc databases, including PubMed, Web of Science, Scopus,
+and Google Scholar. These databases were chosen due to their
+comprehensive
+coverage
+of
+scientiﬁc
+literature
+and
+their
+reliability in providing peer-reviewed literature on synthetic
+cosmetic and their effect.
+To gather relevant data, we used speciﬁc search strings tailored to
+identify studies on health and ecological risks associated with cosmetic
+ingredients. The search strings used are keywords in Figure 2. The
+search results were ﬁltered to include peer-reviewed articles and
+reviews published within the last decade. Data were extracted from
+the selected studies and categorized into health and ecological risks.
+Synthesizing this data to provide a comprehensive overview of the
+trends, which were then visualized in “Chart 1.”
+The Chart titled “Trend in publication and citations on human
+health and ecological effects of synthetic cosmetics (2000–2023)”
+illustrates the academic interest and impact of research in this ﬁeld
+over 23 years. Publications addressing human health effects are
+depicted with a blue line, while those addressing environmental
+effects are shown with a grey line. The trends illustrate the growing
+academic interest and impact in these ﬁelds over the past two
+decades. The data is divided into four categories: Human health
+risk publications, Human health risk citations, Ecological risk
+publications, and Ecological risk citations.
+3.1 Human health risk publications (blue line)
+The blue line represents the number of publications focused on
+human health risks associated with synthetic cosmetics. Over the years,
+this number has remained relatively stable, with minor ﬂuctuations.
+The number of publications typically stays below 100 per year,
+indicating a constant but modest level of research activity in this
+area. This suggests that while there is ongoing interest, the volume
+of new research published annually has not seen signiﬁcant growth.
+3.2 Human health risk citations (red line)
+The red line shows the number of citations for publications on
+human health risks. Unlike the steady trend in publications,
+citations exhibit signiﬁcant ﬂuctuations. Notable peaks occur
+around
+2008
+and
+2018,
+indicating
+periods
+of
+heightened
+academic or public interest in these studies. These spikes may be
+linked to regulatory changes, high-proﬁle studies, or increased
+public awareness. However, there is a sharp decline in citations
+after 2020, suggesting a decrease in the impact or relevancy of earlier
+studies in recent years.
+FIGURE 1
+Graphic abstract of environmental and health effects of
+synthetic cosmetics.
+Frontiers in Environmental Science
+frontiersin.org
+04
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 5 ===
+3.3 Ecological risk publications (gray line)
+The grey line represents publications on the ecological risks of
+synthetic cosmetics. These publications are consistently fewer in
+number compared to those on human health risks, remaining below
+50 per year. The trend is relatively ﬂat, showing little variation over
+the years. This indicates that ecological concerns have not
+signiﬁcantly driven an increase in research output, possibly
+reﬂecting either a lower priority or fewer resources allocated to
+this area compared to human health.
+3.4 Ecological risk citation (yellow line)
+The yellow line tracks citations of ecological risk publications.
+Citation in this category also shows high peaks, particularly around
+2008 and 2018, similar to the pattern observed for human health risk
+citation but with a much higher magnitude. This suggests that
+during these peak years, studies on ecological risks had a
+signiﬁcant academic or public impact. Following these peaks,
+there, is a notable decline in citations after 2020, which may
+indicate a shift in the research focuses or a decrease in the
+perceived relevance of previous studies.
+The overall trend depicted in the chart reveals that while the
+number of publications on human health and ecological risks od
+synthetic cosmetics has been stable and relatively low, the impact of
+these publications, as measured by citations, has experienced
+signiﬁcant
+ﬂuctuations.
+Picks
+in
+citation
+numbers
+around
+2008 and 2018 highlight periods of increased attention, possibly
+due to emerging evidence, regulatory changes, or heightened
+public concern. However, the decline in citations post-2020
+suggests shifting interest or a saturation point in the ﬁeld, where
+newer
+studies
+may
+be
+needed
+to
+reignite
+academic
+and
+public interest.
+3.5 Databases and sources for health
+risk trends
+1. PubMed: A comprehensive database of biomedical literature,
+PubMed contains numerous studies on the health effects of
+cosmetic ingredients such as parabens, UV ﬁlters, and
+fragrances.
+Researchers
+and
+healthcare
+professionals
+frequently use this database to access peer-reviewed articles
+on
+allergic
+reactions,
+endocrine
+disruption,
+and
+other
+health impacts.
+2. Scopus: Scopus offers extensive coverage of scientiﬁc, technical,
+medical, and social science research. It includes articles on the
+long-term health effects of various cosmetic ingredients,
+regulatory updates, and emerging trends in toxicology and
+public health.
+3. Web of Science: This multidisciplinary database provides
+access to research articles, conference proceedings, and
+reviews. It is useful for tracking the latest studies on the
+health risks of cosmetic ingredients and understanding the
+evolving landscape of regulatory science.
+4. Regulatory Agencies: Regulatory bodies such as the U.S. Food
+and Drug Administration (FDA), European Chemicals Agency
+(ECHA), and Health Canada publish guidelines, safety
+assessments, and updates on restricted or banned substances
+in cosmetics. These sources provide authoritative information
+on regulatory trends and health risk assessments.
+3.6 Databases and sources for ecological
+risk trends
+1. Environmental
+Science
+Databases:
+Databases
+like
+Environmental Science and Technology (ES&T) and the
+Journal of Environmental Management publish research on
+CHART 1
+Treand in publications and citations on human health and ecological effects of synthetic cosmetics (2000–2023).
+Frontiers in Environmental Science
+frontiersin.org
+05
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 6 ===
+the environmental impacts of cosmetic ingredients, including
+their persistence, bioaccumulation, and toxicity to aquatic life.
+2. Google Scholar: A freely accessible web search engine that
+indexes scholarly articles across various disciplines. It provides
+access to studies on the ecological effects of ingredients like
+triclosan, microplastics, and UV ﬁlters.
+3. ScienceDirect: An extensive database offering access to a large
+collection of scientiﬁc and technical research articles. It covers
+studies on the environmental behavior and risks of cosmetic
+ingredients.
+4. Government and Environmental Organizations: Reports and
+publications
+from
+organizations
+such
+as
+the
+U.S.
+Environmental Protection Agency (EPA), the European
+Environment
+Agency
+(EEA),
+and
+the
+United
+Nations
+Environment
+Programme
+(UNEP)
+provide
+data
+and
+analyses on the ecological risks of cosmetic ingredients.
+FIGURE 2
+Systematic protocol for retrieving the datasets.
+Frontiers in Environmental Science
+frontiersin.org
+06
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 7 ===
+3.7 How the trends are based
+3.7.1 Health risks
+The trends in health risks are based on a synthesis of ﬁndings
+from
+clinical
+studies,
+toxicological
+research,
+and
+regulatory
+assessments.
+These
+include
+experimental
+data
+on
+allergic
+reactions, long-term exposure effects, and endocrine disruption,
+as well as updates from regulatory bodies on banned or restricted
+substances.
+3.7.2 Ecological risks
+The trends in ecological risks are derived from environmental
+monitoring studies, ecotoxicological research, and reports on the
+persistence
+and bioaccumulation
+of cosmetic
+ingredients in
+ecosystems.
+These
+studies
+provide
+insights
+into
+how
+these
+substances affect aquatic life, microbial communities, and overall
+ecosystem health.
+3.8 Health and ecological risks of cosmetic
+ingredients
+3.8.1 Health risks of cosmetic ingredients
+Cosmetic ingredients, while enhancing appearance and personal
+hygiene, can pose signiﬁcant health risks to consumers. These risks
+range from immediate allergic reactions to long-term health
+concerns, including hormonal disruptions and chronic illnesses.
+Understanding these risks is crucial for making informed choices
+about cosmetic products.
+3.8.1.1 Increase in allergic reactions due to parabens and
+fragrances
+Parabens, commonly used as preservatives in cosmetics, have
+been linked to an increase in allergic reactions. These compounds
+can cause skin irritation, rashes, and other dermatological issues,
+especially in individuals with sensitive skin (Rastogi et al., 1995;
+Zareba et al., 2007). Fragrances, another prevalent ingredient in
+cosmetics, are also major allergens. Studies have shown that
+fragrances can cause contact dermatitis and exacerbate conditions
+like eczema and asthma.
+3.8.1.2 Long-term health effects of UV ﬁlters and endocrine
+disruptors
+UV ﬁlters, such as oxybenzone and octinoxate, are essential in
+protecting skin from harmful UV radiation. However, these
+chemicals are also known as endocrine disruptors, capable of
+interfering with hormone function. Long-term exposure to UV
+ﬁlters
+has
+been
+associated
+with
+reproductive
+issues,
+developmental problems, and an increased risk of certain cancers.
+Endocrine disruptors in cosmetics, including phthalates and
+bisphenol
+A
+(BPA),
+similarly
+pose
+risks,
+affecting
+thyroid
+function and metabolic processes over time (Li et al., 2017; Liu
+et al., 2021).
+3.8.1.3 Regulatory updates on banned or restricted
+substances
+Regulatory bodies worldwide are continually updating lists of
+banned or restricted substances in cosmetics to protect public health.
+For instance, the European Union’s Scientiﬁc Committee on
+Consumer Safety (SCCS) regularly reviews and restricts the use
+of harmful chemicals like certain parabens, formaldehyde-releasing
+preservatives, and speciﬁc UV ﬁlters (Scientiﬁc Committee on
+Consumer
+Safety,
+2021).
+These
+regulatory
+changes
+aim
+to
+mitigate the risks posed by toxic cosmetic ingredients and
+promote safer alternatives.
+3.8.2 Ecological risks of cosmetic ingredients
+Cosmetic ingredients not only affect human health but also pose
+signiﬁcant ecological risks. These substances can accumulate in the
+environment,
+disrupting
+ecosystems
+and
+harming
+wildlife.
+Understanding these risks is essential for developing sustainable
+cosmetic products.
+3.8.2.1 Bioaccumulation and persistence of parabens and
+UV ﬁlters in aquatic environments
+Parabens and UV ﬁlters once washed off the skin, enter aquatic
+environments through wastewater. Studies have shown that these
+chemicals persist in water bodies, bioaccumulate in aquatic
+organisms, and disrupt endocrine functions in ﬁsh and other
+wildlife (Brausch and Rand, 2011). The long-term environmental
+persistence of these substances raises concerns about their
+cumulative impact on aquatic ecosystems (Ullah et al., 2017).
+3.8.2.2 Impact of triclosan and other antimicrobials on
+microbial communities and aquatic life
+Triclosan, an antimicrobial agent used in many personal care
+products, has been found to adversely affect microbial communities
+in aquatic environments. This disruption can lead to antibiotic
+resistance and negatively impact the health of aquatic life.
+Research indicates that triclosan can impair reproduction and
+development in ﬁsh, amphibians, and invertebrates (Liu and
+Wong, 2013).
+3.8.2.3 Studies on the effects of microplastics from
+exfoliants on marine ecosystems
+Microplastics, often used in exfoliating products, pose a
+signiﬁcant
+threat
+to
+marine
+ecosystems.
+These
+tiny
+plastic
+particles are ingested by marine organisms, leading to physical
+harm,
+chemical
+contamination,
+and
+disruption
+of
+feeding
+behaviors. Studies have documented the presence of microplastics
+in various marine species, indicating widespread ecological impact
+and highlighting the need for biodegradable alternatives (Gago
+et al., 2018).
+3.9 Toxic ingredients in cosmetics
+A signiﬁcant issue in the cosmetics industry is the general lack of
+consumer awareness about the various chemicals that these products
+contain. Many individuals are unaware that cosmetics often include
+a multitude of chemicals, each with its speciﬁc purpose. Some of
+these chemicals can pose risks to our health and the environment.
+Although not every chemical in cosmetics is harmful, it is crucial to
+understand the ingredients in the products we use. Opting for
+products with natural or organic ingredients when possible is a
+good practice. By educating ourselves about the common chemicals
+Frontiers in Environmental Science
+frontiersin.org
+07
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 8 ===
+in cosmetics, we can make more informed decisions and take
+proactive
+measures
+to
+protect
+both
+our
+health
+and
+the
+environment
+(National
+Institute
+of
+Environmental
+Health
+Sciences, 2007; Scientiﬁc Committee on Consumer Safety, 2021).
+The usage of substances with preservative action, surfactants,
+perfumes, stains, etc., has expanded today due to innovation,
+research, and the development of new cosmetic goods (Park,
+2023). These ingredients improve the caliber, functionality, and
+shelf life of cosmetic formulations, but many of them also pose a risk
+to human health due to frequent, prolonged, and indiscriminate
+exposure (Whitacre, 2015). Several organizations on a global scale
+govern the manufacture, quality control, and safety of cosmetic
+items (European Union, 2009; UNI EN ISO 22716, 2014; Boyer et al.,
+2017; Sherrow, 2018). These organizations are in charge of
+modifying
+the
+standards
+and
+recommendations
+for
+the
+population’s safe and healthy use of these products while
+reducing health hazards (Scientiﬁc Committee on Consumer
+Safety, 2021).
+Various organizations, including government agencies (GAO,
+2009; Raymond and Krupnick, 2016; Practices et al., 2021),
+environmental groups (Asfaw et al., 2017), research institutions
+(Ananthapavan et al., 2021), and industry associations (Ricardo,
+2021), may conduct cost-beneﬁt analyses (CBAs) or control CBAs
+related to toxic ingredients and their impacts on human health and
+the environment (Arct and Mieloch, 2020). These analyses aim to
+assess the economic costs and beneﬁts associated with the use of
+toxic ingredients in products and their potential adverse effects on
+human health. For example, they may assess the costs and beneﬁts of
+implementing
+stricter
+regulations
+or
+bans
+on
+certain
+toxic
+substances to protect public health.
+Cost-beneﬁt analysis plays a crucial role in decision-making
+processes related to toxic ingredients and their impacts on human
+health and the environment. By quantifying the economic costs and
+beneﬁts of different policy options or management strategies, CBAs
+help
+stakeholders
+make
+informed
+decisions
+that
+balance
+environmental
+protection,
+public
+health,
+and
+economic
+considerations (Ricardo, 2021).
+However, no single organization controls the cost-beneﬁt
+analysis and ensures user safety when harmful compounds are
+added to cosmetic items (Barthe et al., 2021).
+In the creation of numerous cosmetic goods around the world,
+several compounds have the potential to be hazardous to both
+human health and the environment. We also looked at potential
+health issues associated with cosmetic use and its harmful
+ingredients.
+Cosmetic
+products
+like
+creams,
+lotions,
+soaps,
+lipsticks,
+mascaras, eye shadows, nail polishes, shampoos, hair dyes,
+sprays, gels, deodorants, and fragrances may contain ingredients
+such as triclosan, parabens, phthalates, sodium lauryl sulfate or
+sodium laureth sulfate (SLS or SLES), mineral oil, formaldehyde, and
+butylated compounds like butylated hydroxyanisole (BHA) or
+butylated hydroxytoluene (BHT) (Ad and Mn, 2019; Barabasz
+et
+al.,
+2019;
+Scott
+Faber,
+2020).
+About
+12,500
+industrial
+chemicals,
+including
+carcinogens,
+insecticides,
+reproductive
+poisons,
+endocrine
+disruptors,
+plasticizers,
+degreasers,
+and
+surfactants, were identiﬁed by U.S. researchers as being used as
+cosmetic additives (Naveed, 2014; Sheikh AG, 2018; Lauren, 2019).
+According to the Cosmetic Ingredient Review (CIR), an estimated
+12,500 chemicals are used in cosmetics in the U.S. Only 11 of these
+chemicals are prohibited in the U.S. Still, more than 1,300 are
+banned or restricted in the E.U. (Milman, 2019) Several types of
+cosmetics have been identiﬁed to contain aluminum, a lightweight
+metal, in addition to heavy metals like lead, mercury, cadmium,
+arsenic, and nickel. These metals are commonly found in color
+cosmetics, face and body care products, hair cosmetics, herbal
+cosmetics, and similar items (Kader Mohiuddin, 2019). For a
+variety of reasons, heavy metals are also added to cosmetics. It is
+commonly known that heavy metals are harmful (Siti Zulaikha
+et al., 2015).
+3.10 Environmental and health effects
+of cosmetics
+3.10.1 Health effects of cosmetics
+Cosmetic
+compounds
+are
+emerging
+environmental
+contaminants that are hazardous to human health (Juliano and
+Magrini, 2017).
+People encounter toxic metals through multiple exposure
+pathways. Many consumers use these products daily and thereby
+expose themselves to the risk of these toxic metals. Numerous
+studies have shown that cosmetics components may harm the
+environment
+(Juliano
+and
+Magrini,
+2017;
+Issac
+and
+Kandasubramanian,
+2021; Young, 2022) and human health
+(Okereke et al., 2015; Nduka and Kelle, 2018; Ad and Mn, 2019).
+It has been documented that the use of cosmetics can cause cancer,
+mutation, reproductive damage, and endocrine disruption (Amasa
+et al., 2012). Some chemicals used in personal care products can
+negatively affect the hormone system, even at low concentrations
+(Vandenberg
+et
+al.,
+2012;
+NYS
+Health
+Foundation,
+2013).
+Endocrine-disrupting substances like parabens and phthalates
+may
+be
+most
+dangerous
+during
+fetal
+and
+early
+postnatal
+development when organ and neurological systems are forming
+(Francisco et al., 2012; Nassan et al., 2017; Bouyssi-Kobar et al.,
+2019; Adegoke et al., 2021). Endocrine disorders and several types of
+cancer have been related to exposure to these substances. For
+instance, endocrine disruptors have been associated with breast
+cancer since it is known that they alter how women’s bodies use
+estrogen. Endocrine disruptors have also been linked to immune
+system damage, which increases susceptibility to health problems
+(Adegoke et al., 2021). Many cosmetics have also been connected to
+severe hazards like infections and burns (Biskanaki et al., 2023). Hair
+loss, blisters, nosebleeds, bleeding gums, and a loss of taste and smell
+have all been connected to formaldehyde-based on “keratin
+treatments,” which are used to straighten hair (Scott Fabber,
+2020). Plenty of proof exists indicating that personal care items
+are tainted with heavy metals, as reported by Siti Zulaikha and co-
+authors in 2015, along with supporting visual data (Siti Zulaikha
+et al., 2015).
+More than 10,000 chemicals can be found in cosmetic products
+(Kaličanin and Velimirović, 2016). The European Union has stricter
+rules, and its precautionary approach recognizes that substances
+linked to cancer and birth abnormalities are not allowed to be added
+to cosmetics. A total of 1,328 substances known or suspected of
+causing cancer, genetic mutation, reproductive damage, or birth
+defects are prohibited from cosmetics under E.U. regulation.
+Frontiers in Environmental Science
+frontiersin.org
+08
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 9 ===
+Comparatively, the U.S. FDA has only forbidden or limited the use
+of 11 substances in cosmetics. European Union legislation, in
+contrast
+to
+American
+law,
+mandates
+pre-market
+safety
+evaluations of cosmetics, mandatory registration of cosmetic
+products, government approval for the use of nanomaterials, and
+outlaws the use of animals in cosmetic testing (European Union,
+2009; FDA, 2022; Onel et al., 2019; Gautam et al., 2022).
+Heavy metals such as lead, arsenic, mercury, aluminum, zinc,
+chromium, and iron are found in various personal care products like
+lipstick, whitening toothpaste, eyeliner, and nail polish (Siti Zulaikha
+et al., 2015). While some metals are added deliberately as
+ingredients, others appear as contaminants. These metals pose
+signiﬁcant risks to human health and the environment.
+Lead: Lead exposure from cosmetics has been linked to various
+health
+issues,
+including
+developmental
+delays
+in
+children,
+reproductive problems (Environmental, 2019), and neurological
+damage. Chronic exposure to lead can lead to kidney damage,
+hypertension, and impaired cognitive function.
+Mercury: Mercury is a potent neurotoxin that can accumulate in
+the body over time, leading to neurological disorders, kidney
+damage, and skin rashes. Prolonged mercury exposure can also
+impair cognitive function and affect fetal development in pregnant
+women (EPA, 2001).
+Cadmium: Cadmium exposure from cosmetics has been
+associated with lung damage, kidney dysfunction, and bone
+disorders. Long-term exposure to cadmium may increase the risk
+of cancer and disrupt hormonal balance in the body (Ramelli et al.,
+2012; Genchi et al., 2020; Charkiewicz et al., 2023).
+Arsenic: Arsenic is a carcinogen that can cause skin lesions,
+respiratory issues, and cardiovascular problems. Chronic exposure
+to arsenic has been linked to various types of cancer, including skin,
+lung, bladder, and liver cancer (Palma-Lara et al., 2020; Speer
+et al., 2023).
+The presence of these toxic metals in synthetic cosmetics
+highlights the importance of rigorous testing and regulation to
+ensure product safety and protect consumer health. Consumers
+should be aware of the potential risks associated with certain
+ingredients and prioritize products that are certiﬁed to meet
+safety standards (Canada, 2007).
+3.10.2 Safety assessment of ingredients
+in cosmetics
+Impurities such as heavy metals are frequently found in cosmetic
+and personal care products. This explains why the concentration of
+heavy metals found in the products was so low. Their presence in
+cosmetics
+does
+not
+necessitate
+their
+labeling
+as
+product
+contaminants. Even if the harmful metals were only present in
+trace amounts, they are known to accumulate and cause poisoning.
+If permitted to build up over time, the gradual release of these metals
+into the human body could be detrimental to the biological system.
+Because of these metals’ lengthy half-lives, they may build up in the
+body’s
+organs.
+The
+uncertainty
+factor
+is
+applied
+to
+risk
+characterization in the last stage of the safety assessment of
+cosmetic compounds. The MoS is the name given to this
+uncertainty factor.
+The World Health Organization (WHO) generally considers a
+margin MoS value of 100 as a benchmark for determining the safe
+use of a substance (Siti Zulaikha et al., 2015).
+3.11 Carcinogenic and non-carcinogenic risk
+analysis of different harmful substances
+found in various types of cosmetics
+3.11.1 Non-carcinogenic analysis
+Health risks associated with heavy metals are assessed by
+estimating
+risk
+levels
+and
+categorizing
+them
+as
+either
+carcinogenic or non-carcinogenic hazards. So, the hazard index
+(HI), Systemic Exposure Dosage (SED), and MoS were used to
+estimate the non-cancer health risks of different harmful substances
+found in various types of cosmetics.
+To assess non-carcinogenic risk, especially from exposure to
+chemicals, two primary metrics are used: the Hazard Quotient (HQ)
+and HI. These are commonly applied in human health risk
+assessments (Nduka et al., 2016; Eticha et al., 2018b; Arshad
+et al., 2020). The HQ value < 1 is considered to be safe while
+that greater than 1 is unsafe for human health. The HQ level was
+calculated using Equation 1.
+Hazard Quotient (HQ): is used to estimate the risk of non-
+carcinogenic effects from a single substance.
+HQ  SED
+RfD
+(1)
+The SED value was calculated by an expression:
+SED
+mg
+kg
+d
+
+  Cs × AA × SSA × F × RF × BF
+BW
+× 10−3
+(2)
+where, Reference Dose (RfD): is the maximum acceptable oral dose
+of toxic substance, established by a regulatory agency like EPA. It
+represents a daily exposure level that is assumed to be without
+signiﬁcant risk of adverse effects on life. SED is the systematic
+exposure dose, Cs indicates metal concentration in the sample
+(mg/kg), SSA is the surface area of skin onto which the product
+is applied (cm2), AA shows the quantity applied (g/cm2), RF is the
+retention factor, F indicates the application frequency of a product/
+day, BF is the bioaccessibility factor, 10−3 (mg/kg) is used as unit
+conversion factor, BW is the average body weight (70 kg) (Eticha
+et al., 2018b; Arshad et al., 2020).
+HI: is used to estimate the risk of non-carcinogenic effects from
+exposure to multiple chemical substances (Equation 3) (Eticha et al.,
+2018b; Arshad et al., 2020). It is the sum of the Hazard Quotient for
+all chemicals considered.
+HI   HQi
+(3)
+HQi: The Hazard Quotient for each chemical.
+The HI value in sample hydroalcoholic gel samples tested in the
+study is less than 1. The HI levels were much less than 1, meaning
+that the samples were safe for human health (Arshad et al., 2020).
+The study conducted on Health Risk Assessment of some Cosmetic
+Products sold in KefﬁMarkets, Nasarawa State Nigeria revealed that
+HI, pressed powder, dental powder, eye shadow, and eyeliner, 9.61 ×
+03, 6.0 × 104, 7.2 × 106, and 1.0 × 109 respectively. Results are in
+agreement with those reported by Health Canada (2016). HI levels
+for the lotion and sunblock were greater than 1 at both 50% and
+100% bio-accessibility, which demonstrated that excessive use of
+these products may cause health risks to consumers. In the case of
+hair dye, foundation, whitening cream, and lipstick, HI values
+Frontiers in Environmental Science
+frontiersin.org
+09
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 10 ===
+reported by Abed Elaziz et al. (2016) were also less than 1 for
+different facial cosmetics.
+3.11.2 Carcinogenic analysis
+The carcinogenic analysis is realized by the evaluation of the
+probable cancer risks due to exposure to heavy metals. The ILCR is
+the incremental probability of a person developing any type of
+cancer over a lifetime as a result of 24 h per day exposure to a given
+daily amount of a carcinogenic element for 70 years. The permissible
+limits of ILCR for one or more heavy metals are 10−6 < ILCR <10−4
+and computed as reported previously (Equation 4) (Arshad
+et al., 2020).
+LCR  SED × SF
+(4)
+where SF represents the carcinogenicity slope factor (mg/kg/d)/-
+1 and it approximates the cancer risk per unit intake dose of an agent
+to cause cancer over an average lifetime.
+The study conducted (Gnonsoro et al., 2022) on Health Risk
+Assessment of Heavy Metals (Pb, Cd, Hg) in Hydroalcoholic Gels of
+Abidjan, Côte d’Ivoire depicted that the mean values of ILCR for
+lead and cadmium are 2.59 × 10−8 ± 1.15 × 10−8 and 4.78 × 10−9 ±
+1.56 × 10−9 respectively. For a single heavy metal, an ILCR below 1 ×
+10−6 poses an insigniﬁcant cancer risk and can be disregarded,
+whereas an ILCR exciding 1 × 10−4 signals a signiﬁcant health
+concern due to the heightened risk of cancer. Therefore, the
+hydroalcoholic gel samples tested in the study did not pose
+a
+carcinogenic
+risk
+through
+dermal
+sensitivity
+for
+lead
+and cadmium.
+In the context of cosmetic products, assessing carcinogenic risk
+involves analyzing exposure through ingestion, inhalation, and
+dermal contact.
+Ingestion of cosmetic products generally occurs through
+incidental ingestion of lip products or accidental ingestion by
+children. This pathway necessitates careful calculation of doses
+based on product usage and the concentration of harmful
+substances, coupled with regulatory measures to limit such
+substances in lip and oral care products (FDA, 2022; Salles
+et al., 2023).
+Inhalation exposure is signiﬁcant for aerosolized products like
+sprays, powders, and perfumes. Here, risk factors include the
+concentration of airborne particles, the frequency of use, and
+environmental
+ventilation.
+Proper
+risk
+assessment
+involves
+estimating
+inhalation
+rates
+and
+using
+inhalation-speciﬁc
+toxicological data, with mitigation strategies such as regulating
+volatile organic compounds (VOCs) and promoting safe usage
+practices (Oh and Kim, 2020; SCCS, 2023).
+Dermal contact is the primary exposure pathway for most
+cosmetics, which are applied directly to the skin. This involves
+considering skin permeability, product formulation, and application
+frequency. The risk is assessed by evaluating the product’s
+concentration, the surface area exposed, and absorption rates,
+with regulatory measures ensuring the exclusion of known
+carcinogens and comprehensive safety testing of ingredients
+(Chedik et al., 2024).
+Integrating
+these
+pathways
+into
+a
+comprehensive
+risk
+assessment allows for a complete understanding of carcinogenic
+risks associated with cosmetics, ensuring products meet safety
+standards
+and
+maintain
+consumer
+safety
+and
+conﬁdence
+(Canavez et al., 2021; Canada, 2007).
+Maximum Allowed Limit: Regulatory limits for hazardous
+metals in various cosmetic products as speciﬁed by different
+health agencies.
+Lead (Pb) and Cadmium (Cd) are common hazardous metals
+found in synthetic cosmetics. Table 1 provides examples of these
+metals
+in
+various
+cosmetic
+products
+and
+their
+associated
+carcinogenic risk assessments.
+Including speciﬁc examples of carcinogenic risk assessments for
+hazardous metals in synthetic cosmetics enhances the study’s
+relevance. It provides a clear, detailed understanding of the
+potential carcinogenic risks and regulatory standards, helping to
+inform both consumers and regulatory bodies about the safety of
+cosmetic products.
+Table
+2
+also
+suggests
+that
+certain
+cosmetics,
+especially
+eyeshadow, and lipstick, have relatively high HI values for certain
+metals, indicating a potential risk of adverse health effects from
+exposure to these metals through cosmetics. This suggests the need
+for
+further
+assessment
+and
+possibly
+regulation
+to
+ensure
+consumer safety.
+The SED predicts the number of chemicals that enter the human
+body by various exposure means and is computed as Equation 2
+(Arshad et al., 2020).
+According to the study conducted by Eticha et al. (2018a), on the
+determination of levels and exposure risks of metals in lipsticks, the
+result revealed that the calculated SED (μg/kg bw/day) and MoS of
+heavy metals from the lipstick products. The SED of cadmium and
+zinc from the samples ranged from 7.98 × 10−8 to 1.61 × 10−6, and
+4.02 × 10–5 to 8.04 × 10−5 μg/kg bw/day for 50% and 100%
+bioaccessibility scenarios (Eticha et al., 2018a).
+The study done in Nigeria on Concentrations and exposure risks
+of some metals in facial cosmetics indicates the SED of cadmium,
+lead, and chromium in lipstick samples in the range of 1.96 × 10−5 to
+3.92 × 10−5, 6.61 × 10–5 to 1.13 × 10–4, and 5.43 × 10–5 to 1.09 × 10–4
+μg/kg bw/day respectively at both 50% and 100% bioaccessibility
+(Iwegbue et al., 2016).
+At 50% and 100% bioaccessibility, the MoS for cadmium and
+zinc chromium in lipsticks are 5.10 × 106 to 2.55 × 106, 3.72 × 108 to
+1.86 × 108, and 5.53 × 106 to 2.76 × 106, respectively (Iwegbue et al.,
+2016). The MoS for zinc and cadmium in lipsticks at 50% and 100%
+bioaccessibility, respectively, is 2.49 × 106 to 1.24 × 106 and 1.25 × 109
+to 6.27 × 108, according to (Eticha et al., 2018a). Nonetheless, the
+World Health Organization (WHO) states that a product’s MoS
+value is safe to use if it is greater than 100 and that a value up to 100 is
+acceptable (Iwegbue et al., 2016; Eticha et al., 2018a; Arshad
+et al., 2020).
+Another study suggests that in the samples of hair dye,
+foundation, whitening cream, and lipstick MoS was greater than
+100, which revealed that the evaluated samples were safe for use.
+However, in lotions and sun-blocks- blocks the MoS values for Cd,
+Cr, and Pb were below 100, which indicated that these products are
+not safe for use, particularly concerning Heavy metal contamination.
+In different cosmetic products analyzed (Usman et al., 2021) levels of
+MoS were found to be higher than 100 while MoS for lipsticks was
+almost similar to the previous study as reported by Arshad et al.
+(2020) (Equation 5).
+Frontiers in Environmental Science
+frontiersin.org
+10
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 11 ===
+MOS  NOAEL
+SED
+(5)
+Nevertheless, if the amount of metal in the samples is above the
+WHO’s recommended threshold of 100, which indicates that a
+material is acceptable for use, continued use of the products may
+cause these metals to accumulate to dangerously high levels in the
+human body. It is advised that regular monitoring systems and the
+establishment of maximum allowable levels for heavy metals in
+cosmetic products be put in place to mitigate any potential dangers
+to human health linked with the use of cosmetics.
+The analysis suggests that while these harmful substances are
+present
+in cosmetics,
+the risks
+associated
+with their non-
+carcinogenic and carcinogenic exposure are relatively low when
+used as directed. However, it’s essential to consider cumulative
+exposure from multiple sources and potential synergistic effects
+when evaluating overall risk. Additionally, continuous monitoring
+and regulatory oversight are crucial to ensuring the safety of
+cosmetic products.
+The values in Table 2 depend on various factors such as
+cosmetics brand (Arshad et al., 2020), frequency of use, exposure
+pathways, and individual factors such as age and health status.
+3.11.3 Environmental effects of cosmetics
+Cosmetic ingredients can enter the environment through
+various pathways, including but not limited to, direct discharge
+(Paulsen, 2015; Tsiouli and Fytianos, 2023) from manufacturing
+facilities (Juliano and Magrini, 2017) into water bodies, runoff
+(Oluwole et al., 2020). from urban areas during rainfall events.,
+leaching from landﬁlls (Ejeromedoghene et al., 2021; Tsiouli and
+Fytianos, 2023) where cosmetic products are disposed of Yadav.
+(2023), and via personal use and disposal practices such as washing
+off products in sinks and showers (Tsiouli and Fytianos, 2023).
+Additionally, microplastics and other solid particles from cosmetic
+formulations can accumulate in soil and water bodies through
+wastewater
+treatment
+efﬂuent
+or
+direct
+release,
+further
+contributing
+to
+environmental
+contamination
+(Juliano
+and
+Magrini, 2017; Pereira and Pereira, 2018; David and Niculescu,
+2021; Young, 2022).
+The most signiﬁcant pathway for cosmetic ingredients to enter
+the environment is through wastewater discharge (Khalid and
+Abdollahi,
+2021).
+This
+is
+particularly
+concerning
+because
+wastewater treatment plants may not effectively remove all
+cosmetic
+ingredients,
+leading
+to
+their
+release
+into
+aquatic
+environments (Juliano and Magrini, 2017). Once in aquatic
+systems,
+these
+compounds
+can
+persist,
+bioaccumulate,
+and
+biomagnify through the food chain (Li et al., 2023). They can
+also transform more harmful substances through processes like
+photolysis and oxidation. Ultimately, many of these compounds
+end up in water bodies such as rivers, lakes, and oceans, where they
+can have adverse effects on aquatic ecosystems and potentially enter
+the human food chain through seafood consumption (Ghosh et al.,
+2023; Osman et al., 2023).
+They discharge into the atmosphere, water, and soil throughout
+the production process, posing major environmental dangers.
+According to a US Government Accountability Ofﬁce review,
+nanoparticles
+with
+antibacterial
+capabilities
+that
+are
+never
+provided in large enough numbers may interfere with the
+beneﬁcial activity of microorganisms in water treatment facilities
+and render the suggested water for reuse ineffective. Titanium
+dioxide nanoparticles used for disinfection and to break down
+contaminants
+may
+also
+be
+able
+to
+drive
+other
+organic
+transformations
+and
+have
+an
+impact
+on
+atmospheric
+photochemical
+processes.
+Similarly,
+a
+study
+done
+by
+the
+University of Toledo discovered that nano-TiO2, a substance that
+is thought to be near home, lowered the organic processes of
+microorganisms after an hour of exposure. As a result, it has
+been proposed that these particles, which wind up at civic sewage
+treatment plants, might damage creatures that are essential to
+maintaining the ecosystem (Gupta et al., 2022).
+The efﬂuents from wastewater treatment plants and sewage
+sludge, which are frequently used as a fertilizer, are probably the
+most signiﬁcant sources of pollution. Ultraviolet ﬁlters (UVFs),
+often used in the production of cosmetics, can directly enter
+water bodies when washed off the skin during recreational
+activities such as swimming, or bathing, as well as indirectly
+through wastewater from the use of personal care products,
+washing
+clothes,
+and
+industrial
+discharges
+(Juliano
+and
+Magrini, 2017).
+Ultraviolet ﬁlters (UVFs) are chemicals used in sunscreens and
+other cosmetics to protect the skin from harmful ultraviolet
+radiation. Common UV ﬁlters include oxybenzone, octinoxate,
+and avobenzone.
+Ecological risk assessment (ERA) of UV ﬁlters, such as
+oxybenzone, octinoxate, and avobenzone, is a critical area of
+study due to their widespread use in sunscreens and personal
+care products. These chemicals are designed to absorb or reﬂect
+UV radiation, protecting human skin from harmful effects.
+However, their release into the environment through activities
+such as swimming, bathing, and wastewater discharge raises
+signiﬁcant ecological concerns.
+Ultraviolet ﬁlters can be highly toxic to various aquatic
+organisms. For example, oxybenzone has been shown to cause
+coral bleaching by promoting viral infections in coral cells,
+disrupting their symbiotic relationship with algae. This can lead
+to the loss of coral reefs, which are crucial for marine biodiversity
+(Wood, 2018; Miller et al., 2021; Mozas-Blanco et al., 2023).
+Similarly, octinoxate has been found to cause developmental
+issues in ﬁsh and invertebrates, impacting reproduction and
+population dynamics (Schlumpf et al., 2008).
+Many UV ﬁlters are lipophilic, meaning they can accumulate in
+the fatty tissues of aquatic organisms. This bioaccumulation can lead
+to biomagniﬁcation up the food chain, posing risks to predators,
+including birds and mammals that consume contaminated ﬁsh and
+invertebrates. Persistent UV ﬁlters can remain in the environment
+for extended periods, further exacerbating their ecological impact
+(Peng et al., 2017).
+Several UV ﬁlters have been identiﬁed as endocrine disruptors
+(Table 3). They can interfere with the hormonal systems of aquatic
+organisms, leading to altered reproductive behaviors, growth
+patterns, and developmental processes. For instance, studies have
+shown that UV ﬁlters like 4-MBC (4-methylbenzylidene camphor)
+can affect the endocrine system of ﬁsh, leading to decreased fertility
+and altered sex ratios (Wang et al., 2016; He et al., 2021).
+Parabens, commonly used as preservatives in cosmetics to
+inhibit microbial growth, include methylparaben, ethylparaben,
+Frontiers in Environmental Science
+frontiersin.org
+11
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 12 ===
+and butylparaben. These substances can enter aquatic systems via
+wastewater, where they pose toxic risks to various forms of aquatic
+life such as algae, crustaceans, and ﬁsh. The endocrine systems of
+these organisms can be disrupted by parabens, causing reproductive
+and developmental issues (Mozas-Blanco et al., 2023). Despite being
+biodegradable, the pervasive use and continual release of parabens
+result in their accumulation in the environment, creating long-term
+ecological risks (Mozas-Blanco et al., 2023).
+Triclosan, an antimicrobial agent found in numerous personal
+care products like soaps, toothpaste, and deodorants, poses
+environmental
+risks
+(Table
+3).
+It
+can
+persist
+in
+aquatic
+environments, where its presence is toxic, leading to signiﬁcant
+water contamination issues (Al et al., 2016).
+3.11.3.1 Air pollution
+Volatile organic compounds (VOCs) are air pollutants
+found in various cosmetics, including fragrances, deodorants,
+hair sprays, hair mousses, hair styling gels, nail paint removers,
+shaving creams, and antiperspirants (Lisa and Benson, 2017;
+USEPA, 2021). According to a recent study, these goods
+considerably
+contribute
+to
+carbon
+dioxide
+emissions
+(McDonald et al., 2018). The study found that half of the
+VOCs released in 33 major cities come from household and
+cosmetic goods. One study discovered that, in some situations,
+the VOC from deodorants, hairsprays, and fragrances emit the
+same quantity of chemical vapors as autos. However, it was
+noted that the balanced ratio was more a result of decreased
+pollution from automobiles than increased pollution from
+cosmetics (McDonald et al., 2018). Let’s not overlook the
+environmental
+impact
+of
+the
+numerous
+components
+produced from fossil fuels that are used in packaging and
+beauty products. Carbon pollution is a signiﬁcant concern
+even when natural ingredients are extracted and processed in
+non-sustainable methods.
+TABLE 1 Health risk assessment of hazardous metals in synthetic cosmetics.
+Hazardous
+metal
+Example
+product
+Maximum allowed limit
+Incremental lifetime cancer
+risk (ILCR)
+References
+Lead (Pb)
+Lip Products
+10 ppm
+2.59 × 10−8 ± 1.15 × 10−8
+Gnonsoro et al.
+(2022)
+Lead (Pb)
+Eye Pencil, Lipstick,
+Tattoo
+10 ppm in lip products; 3 μg/g for eye pencil,
+lipstick, and tattoo
+2.59 × 10−8 ± 1.15 × 10−8
+Health Canada
+(2007)
+Cadmium (Cd)
+Eye Pencil, Lipstick,
+Tattoo
+3 μg/g
+4.78 × 10−9 ± 1.56 × 10−9
+Gnonsoro et al.
+(2022)
+Lead (Pb)
+Various Cosmetics
+Not speciﬁed
+2.59 × 10−8 ± 1.15 × 10−8
+Gnonsoro et al.
+(2022)
+Cadmium (Cd)
+Various Cosmetics
+Not speciﬁed
+4.78 × 10−9 ± 1.56 × 10−9
+Gnonsoro et al.
+(2022)
+TABLE 2 MoS, SED, and HQ value of some toxic metal ingredients present in cosmetics products.
+Toxic metal ingredients
+Type of cosmetic
+MoS
+SED
+HQ
+References
+Cd
+Lipstick
+2.55 × 106
+3.92 × 10−5
+3.5
+Iwegbue et al. (2016), Tunde (2024)
+Eyeshadow (mg/kg/d)
+2.37 × 107
+2.11 × 10−10
+1.6
+Guerranti et al. (2022), Albugami et al. (2024)
+Lotion (mg/kg/d)
+1.13 × 101
+4.41 × 10−2
+0.59
+Arshad et al. (2020)
+Pb
+Lipstick
+3.02 × 106
+1.32 × 10−4
+5
+Tunde, 2024; Li et al. (2021)
+Dental powder (μg kg-1dw day-1)
+2.41
+0.1658
+Ibrahim et al. (2019)
+Eyeshadow (mg/kg/d)
+5.39 × 108
+1.48 × 10−8
+3.2
+Guerranti et al. (2022), Albugami et al. (2024)
+Lotion (mg/kg/d)
+8.71 × 101
+4.82 × 10−1
+1.30
+Arshad et al. (2020)
+Cr
+Lipstick
+2.76 × 106
+1.09 × 10−4
+4
+Iwegbue et al. (2016), Tunde et al. (2024)
+Dental powder (μg kg-1dw day-1)
+6.59
+0.0455
+Ibrahim et al. (2019)
+Eyeshadow (mg/kg/d)
+1.05 × 104
+2.38 × 10−4
+7.93 × 10−2
+Guerranti et al. (2022)
+Lotion (mg/kg/d)
+3.09 × 101
+4.86 × 10−2
+0.28
+Arshad et al. (2020)
+Ni
+Lipstick
+9.29 × 106
+2.15 × 10−4
+5
+Iwegbue et al. (2016), Tunde et al. (2024)
+Eyeshadow (mg/kg/d)
+2.65 × 106
+8.29 × 10−7
+4.14 × 10−5
+Guerranti et al. (2022)
+Lotion (mg/kg/d)
+1.21 × 103
+4.45 × 10−1
+0.90
+Arshad et al. (2020)
+Frontiers in Environmental Science
+frontiersin.org
+12
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 13 ===
+TABLE 3 Cosmetic ingredients and their health effect.
+Toxin
+Personal care products
+containing toxin
+Health effect
+References
+Triclosan
+Deodorants, mouthwash, hand sanitizer,
+shaving cream, soaps, fragrances, and
+toothpaste
+Liver ﬁbrosis, triclosan-resistant bacteria,
+immune system impairment, endocrine
+disruptor, thyroid function, thyroid
+homeostasis, and immunological response
+impairment
+There may be a negative impact on the
+human immune system because high urine
+triclosan levels are associated with a higher
+prevalence of allergies and hay fever in
+youngsters. Cancer-causing factors
+NYS Health Foundation (2013), Yueh
+and Tukey (2016), Weatherly and Gosse
+(2017), Ray et al. (2020); Scott (2020)
+Parabens and their compound
+(methylparaben, ethylparaben,
+propylparaben, butylparaben,
+isopropylparaben, isobutylparaben)
+Creams, lotions, lipsticks, other wet
+cosmetics, powders, antiperspirants, and
+perfumes
+Parabens can potentially be endocrine
+disruptors and may have immunological or
+allergic consequences. Human breast
+cancer cells are shown to become more
+migratory and aggressive when exposed to
+parabens in vitro. High urine paraben
+concentrations have also been linked
+statistically to sperm DNA damage and
+promote cancerogenic and reduced
+amounts of reproductive hormones in men
+Prusakiewicz et al. (2007), NYS Health
+Foundation (2013), Barabasz et al.
+(2019), Ray et al. (2020)
+Formaldehyde
+Nail polish, nail glue, eyelash glue, hair
+gel, hair-smoothing products, baby
+shampoo, body soap, body wash, and
+color cosmetics
+The National Toxicology Program has
+designated formaldehyde as a substance
+known to cause cancer in humans.
+Nasopharyngeal, sinonasal, and
+lymphohematopoietic cancers, particularly
+myeloid leukemia, have all been related to
+occupational exposure, mainly through
+respiratory pathways. Causes allergic
+reactions and eye and respiratory system
+irritation. Exposure to formaldehyde has
+been linked to cancer-causing effects and
+reproductive impacts such as spontaneous
+abortions, congenital abnormalities, low
+birth weights, and endometriosis
+Department of Health and Human
+Services (2016), Sheikh AG (2018), Scott
+Faber (2020)
+Toluene
+Toluene is a solvent used in nail polish,
+nail treatment, hair dyes
+High amounts can cause upper respiratory
+tract irritation, central nervous system
+depression, and neurobehavioral
+impairment in humans. Massive exposure
+may result in ﬂuid buildup in the lungs and
+respiratory arrest. Toluene affects the
+developing fetus and is hazardous to the
+brain and neurological system
+NYS Health Foundation (2013), Scott
+Faber (2020)
+Phenol
+Soap, cleaning lotions
+Skin corrosive, impact tumor promoter,
+local tissue irritation, irregular heartbeat,
+vomiting, darker urine, liver damage,
+damage to blood-forming organs, collapse,
+cause mutagenic and cancerogenic
+Ray et al. (2020)
+UV ﬁlters and Benzophenone-4
+Sunscreens, soap, shampoos,
+antiperspirants and hair sprays
+The harmful impact on reproduction and
+development, hormonal disorders, and
+endocrine disruption
+Sharifan and Morse. (2016), Ray et al.
+(2020)
+Phthalates/its compounds (dibutyl
+phthalate (DBP), Di-2-ethyl hexyl
+phthalate (DEHP), Diethyl
+phthalate (DEP))
+Color cosmetics, fragranced lotions, body
+washes, hair care products, nail polish
+Disrupt the endocrine system in the human
+reproductive system, adult men’s sperm
+DNA damage from exposure to some
+phthalates has also been connected
+NYS Health Foundation (2013),
+Mesquita et al. (2021)
+Butylated compounds (BHA (butylated
+hydroxylanisole), BHT (butylated
+hydroxyl toluene))
+Lip products, hair products, makeup,
+sunscreen, antiperspirant/deodorant,
+fragrance, creams
+Cancer, irritability, toxicology of the
+reproductive and developmental systems,
+and disruption of the endocrine system.
+The National Toxicology Program
+classiﬁes BHA as “reasonably presumed to
+be a human carcinogen.”
+Department of Health and Human
+Services (2016), Ad and Mn (2019),
+Made Safe (2022)
+(Continued on following page)
+Frontiers in Environmental Science
+frontiersin.org
+13
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 14 ===
+TABLE 3 (Continued) Cosmetic ingredients and their health effect.
+Toxin
+Personal care products
+containing toxin
+Health effect
+References
+1,4-dioxane
+shampoo, liquid soap, bubble bath), hair
+relaxers
+The EPA has classiﬁed 1,4-Dioxane, which
+is produced as a byproduct during
+production, as a “probable human
+carcinogen.” Also noted were organ
+toxicity and inﬂammation
+Group (2007), NYS Health Foundation
+(2013)
+Carbon black
+A pigment used in eyeliner, mascara, nail
+polish, eye shadow, brush-on-brow,
+lipstick, blushers, rouge, makeup, and
+foundation
+Increases the likelihood of developing lung
+illness, the prevalence of cardiovascular
+disease, and induces cancerous growth
+Scott (2020)
+19 20, 21
+per- and poly-ﬂuoroalkyl substances
+sunscreen, foundation, concealer,
+eyeliner, shaving cream, and hairspray
+Injure the unborn child, raise the chance of
+cancer, compromise the immune system,
+and mess with hormones
+Scott Faber (2020)
+Polyethylene Glycols (PEGs)
+used in creams
+Genotoxicity and systemic toxicity are
+possible side effects when used on damaged
+skin
+Ad and Mn (2019)
+Petrolatum
+used in hair care products to make
+they shine
+Petrolatum may contain polycyclic
+aromatic hydrocarbons (PAHs), which
+could be linked to cancer, allergies, and
+skin irritability
+Ad and Mn (2019)
+Sodium Lauryl Sulfate (SLS)
+toothpaste, shampoos, and lotions
+Patients with some types of ulcers may
+experience longer and more discomfort
+due to human exposure to 1,4-Dioxane
+contamination. It is regarded as a lung,
+skin, and eye irritant, and liver cells, heart
+muscles, and brain cells are all damaged. It
+messes with the immune system, affects the
+eye muscle, and triggers allergic skin
+reactions. When combined with other
+chemicals, it is highly reactive and
+produces molecules that cause cancer
+NYS Health Foundation (2013), Sheikh
+AG (2018)
+Siloxanes
+Deodorant creams
+As an endocrine disruptor that interferes
+with the action of human hormones and a
+potential reproductive toxin,
+cyclotetrasiloxane may reduce human
+fertility
+Okereke et al. (2015)
+Lead and related compounds
+Lipstick, eye shadow, blush, powders,
+shampoos, and lotions
+It may also impact the reproductive system
+because it is hepatotoxic, neurotoxic, and
+nephrotoxic. The system is a potential
+human carcinogen that affects circulatory
+and heart health and fetal development
+through the placenta
+Scott Faber (2020), Attard and Abstract
+(2022)
+Mercury and related compounds
+Skin-lightening creams and soaps
+Symptoms of kidney damage include skin
+rashes, discoloration, scarring, decreased
+skin resistance to bacterial and fungal
+infections, anxiety, sadness, and psychosis.
+Peripheral neuropathy is another side
+effect, and the developing fetus is
+particularly affected. When pregnant
+women eat seafood that contains
+methylmercury, the mercury can pass from
+the mother to her infant through breast
+milk, potentially causing
+neurodevelopmental impairments to the
+child
+Zero Mercury Working Group (2010),
+WHO, (2011); Scott Faber (2020)
+(Continued on following page)
+Frontiers in Environmental Science
+frontiersin.org
+14
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 15 ===
+3.11.3.2 Water pollution
+Toxic chemicals in beauty products leach from our bodies
+into the oceans, from our bathrooms to spending hot summer
+days at the beach. Sometimes dangerous compounds are found in
+shampoos, sunscreens, creams, and lotions that end up in the
+environment and endanger wildlife. Every year, 14,000 tons of
+sunscreen end up in the water and on coral reefs. The immense
+devastation of coral reefs in the world’s oceans is caused in
+part by oxybenzone. It has been discovered that chemical
+additives, such as butylated hydroxytoluene (BHT), sodium
+lauryl sulfate, and butylated hydroxy anisole (BHA), can
+signiﬁcantly alter the biochemistry of aquatic life. These
+poisonous compounds sometimes kill ﬁsh, in addition to
+reducing the animal plankton population. Some of these
+pollutants remain in the water supply even after sewage
+treatment (Barabasz et al., 2019).
+3.11.3.3 Microbeads
+The presence of microplastics in the marine environment is a
+problem that is receiving more attention and is now acknowledged
+as one of the growing concerns since it could harm animals and
+pose hazards to the health of marine ecosystems. Additionally,
+early research has shown that microplastics are widely distributed
+in much inland water, with a higher concentration than in the
+coastal environment (Wu et al., 2018). Microplastics have become
+prevalent environmental contaminants in both freshwater and
+marine ecosystems (Limonta et al., 2019). Plastic packaging is
+only one component of the plastic pollution brought on by beauty
+products. Plastic microbeads are used as exfoliants in body scrubs
+and other beauty treatments, and they are little plastic ﬂecks no
+larger
+than
+5
+mm
+(Issac
+and
+Kandasubramanian,
+2021).
+Innumerable
+microplastics
+ﬂush
+into
+water
+bodies
+when
+products
+that
+contain
+microbeads
+are
+used.
+They
+draw
+pollutants in when ﬁsh ingest them and ﬁnally by people.
+Microbeads exacerbate the
+already severe plastic pollution
+problems in the world’s oceans. Although the U.S. and the U.K.
+have outlawed microbead production, they still come across them
+in some products. Nothing prevents cosmetic ﬁrms operating in
+nations without microbead regulations from utilizing hazardous
+plastic (Young, 2022).
+3.11.3.4 Unsustainable resource consumption
+Cosmetics products seriously deplete natural resources. For
+instance, palm oil, a plant-based ingredient, can be found in
+more than 2,300 cosmetic products (under 20 various names)
+(Young, 2022). Only tropical regions within 10 degrees of the
+equator support the growth of palm oil. Between 2015 and 2018,
+vendors in Southeast Asia alone cleared 500 square miles of
+rainforest due to rising demand for the commodity (Final
+Countdown, 2018). Deforestation frequently occurs using ﬁre,
+which releases tons of carbon dioxide, much more than the trees
+sequester. Moreover, primates are undoubtedly the direct victims of
+the widespread degradation of rainforests caused by palm oil.
+According
+to
+Orangutan
+Foundation
+International,
+between
+1,000 and 5,000 orangutans are murdered annually in palm oil
+concessions (Orangutan Foundation International, 2015). The mica
+mining sector is rife with deforestation as well. The mineral is
+frequently used to give cosmetics a shine for 4,249 of the goods
+evaluated by the Environmental Working Group (EWG), including
+lipsticks and eye shadows (Singh, 2019). Furthermore, two of the
+world’s most disadvantaged and underpaid individuals work in both
+industries, palm oil, and mica extraction from the ground. The
+processes used in mining, harvesting, and manufacturing require a
+lot of labor and are frequently done in hazardous environments.
+3.11.3.5 Transport/logistics of beauty products
+The logistics and distribution of cosmetics are environmentally
+detrimental as well. Many cosmetic items are manufactured abroad,
+and when they are sent to international markets, a signiﬁcant carbon
+footprint is left behind.
+915 million tons of carbon dioxide were created by the aviation
+sector in 2019 alone, accounting for roughly 2% of total CO2
+emissions caused by human activity annually (Jarošová and
+Pajdlhauser, 2022) These carbon emissions hasten the effects of
+global warming, which causes several more environmental issues.
+Customers are urged to buy their cosmetics from local vendors
+or even make their own to stop this practice (Sadie, 2020).
+For instance, short supply chains and transit routes can help
+minimize emissions (Cherraﬁet al., 2022). Cosmetic enterprises
+have to pay attention to the spread of possible invasive species
+through logistical procedures and product movements (Ashdaq
+TABLE 3 (Continued) Cosmetic ingredients and their health effect.
+Toxin
+Personal care products
+containing toxin
+Health effect
+References
+Cadmium
+Lipsticks, eye shadow, eye makeup,
+eyebrow pencil
+In human tissues, irritant dermatitis builds
+up before being gradually discharged into
+the bloodstream. But often, it attaches to
+keratin. The skeletal, reproductive,
+metabolic, respiratory, and renal systems
+are affected systemically. It may induce
+oxidative stress, which can lead to human
+cancer and has been linked to osteoporosis,
+diabetes, lung cancer, and kidney damage.
+It also accelerates the aging process of the
+skin
+IARC (1987), Okereke et al. (2015),
+Attard and Abstract (2022)
+Nickel
+Eye shadow
+The respiratory system is impacted by
+allergens and dermatitis, increasing lung
+and nose cancer risk. A human carcinogen
+was also reported
+Ahlström et al. (2019), Attard and
+Abstract (2022)
+Frontiers in Environmental Science
+frontiersin.org
+15
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 16 ===
+TABLE 4 Different parts of plants used as cosmetic ingredients.
+Part of
+plant
+Speciﬁc
+plant
+species
+Compound to be
+extracted
+Cosmetic application
+Impact on plant
+species
+References
+Bark
+Cinnamomum
+verum
+Cinnamaldehyde, Eugenol,
+Cinnamic Acid, Coumarin,
+Polyphenols, Tannins,
+Volatile Oils
+antimicrobial protection,
+antioxidant support, anti-
+inﬂammatory effects, and skin
+brightening
+The loss of bark from a plant
+can expose the inner tissues to
+environmental stressors,
+pathogens, and physical
+damage. This can disrupt the
+plant’s vascular system, leading
+to decreased nutrient and water
+transport, and ultimately
+affecting its overall health and
+survival
+Hwang et al. (2014), Nestby (2020),
+Kowalczyk et al. (2024)
+Flowers
+Dendrobium
+Pelargonidin, sinapic, ferulic
+acids
+Skin ﬁrming and whitening
+Flowers are crucial for plant
+reproduction through
+pollination. The loss of ﬂowers
+can prevent the plant from
+producing seeds and fruits,
+impacting its ability to
+reproduce and potentially
+reducing genetic diversity
+within the population.
+Additionally, ﬂowers often
+attract pollinators essential for
+the reproduction of other plant
+species in the ecosystem
+Wang et al. (2019); Faccio (2020)
+Fruit
+Castanea sativa
+Ellagic acid/polyphenolic
+Anti-aging formulations, Skin
+brightening products, Anti-
+inﬂammatory creams,
+Moisturizers and emollients,
+Sun care products, and Hair
+care products
+Fruits contain seeds, which are
+essential for the propagation
+and dispersal of many plant
+species. The loss of fruits can
+hinder the plant’s ability to
+reproduce and spread its
+genetic material to new areas. It
+can also impact the plant’s
+interactions with seed-
+dispersing animals, potentially
+affecting the plant’s survival
+and distribution
+Pinto et al., (2017), Pinto et al.
+(2021)
+Leaves
+Azadirachta indica
+Nimbidin, Nimbin,
+Quercetin, Nimbolinin,
+Nimbinin
+Anti-inﬂammatory, Anti-
+bacterial, Skin-soothing,
+Antioxidant, Antifungal
+Leaves are crucial for
+photosynthesis, the process by
+which plants convert sunlight
+into energy. The loss of leaves
+can signiﬁcantly reduce a
+plant’s ability to produce food
+and energy, leading to stunted
+growth, weakened defenses
+against pests and diseases, and,
+in severe cases, plant death
+Vanderplanck et al. (2020), Haji
+et al. (2023), Rodrigues et al. (2023)
+Nuts
+Butyrospermum
+parkii
+Triglycerides, Oleic Acid,
+Stearic Acid, Linoleic Acid,
+Tocopherols (Vitamin E),
+Phytosterols, Allantoin
+Moisturizers, body butters, lip
+balms, hair conditioners, and
+massage creams, to provide
+hydration, nourishment, and
+protection to the skin and hair
+Nuts are seeds enclosed in a
+hard shell, often dispersed by
+animals. The loss of nuts can
+prevent the plant from
+reproducing and spreading its
+seeds to new locations.
+Additionally, nuts may serve as
+a food source for wildlife, and
+their loss can disrupt ecological
+relationships within the
+ecosystem
+Esposito et al. (2017), Helmstetter
+et al. (2020)
+Pollen
+Carthamus
+tinctorius
+Linoleic acid
+Antioxidants
+Pollen is essential for plant
+reproduction through
+pollination. The loss of pollen
+can prevent fertilization and
+seed production, ultimately
+impacting the plant’s ability to
+reproduce and maintain its
+population size
+Chamer et al. (2015), Bergman and
+Kandel (2017), Faccio (2020)
+(Continued on following page)
+Frontiers in Environmental Science
+frontiersin.org
+16
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 17 ===
+et al., 2023). Organisms that are brought into an environment where
+they do not normally reside are referred to as invasive species
+(Scanes, 2017). Highly aggressive species that have no natural
+rivals or predators may proliferate and endanger native species
+by becoming invasive (Nikolovska, 2016). The composition and
+operation of ecosystems may occasionally be disturbed by these
+biological invasions, which can also have signiﬁcant ﬁnancial
+consequences.
+Particularly cosmetic businesses that use imported fresh and raw
+plant-based materials may be vulnerable to this (Cooney, 2004). To
+prevent the spread of potentially invasive alien species, businesses
+should take action. You should take the precautionary principle into
+account (CBD, 2002). Arriving items with biological raw materials
+and fresh ingredients should always be thoroughly inspected visually
+for potential stowaways (such as insects). If “contamination” is seen,
+the offending organism has to be eliminated. The possible measures
+are the identiﬁcation of possible gateways for potentially invasive
+species in the company (i.e., goods entrance), process description
+and procedure for “contaminated” material, and development of
+protocols for documentation of material contamination (Gisp and
+Jackson, 2007).
+3.12 Risks to the biodiversity/ﬂora and fauna
+of ecosystems
+Loss of biodiversity is the term used to describe the reduction in
+diversity within a species, an ecosystem, a region, or the planet itself
+(David Elisha and Jebbin Felix, 2020). Because it undermines
+ecosystems’ ability to operate and puts them in danger of
+disturbance, biodiversity loss is a concern because it negatively
+affects both individual animals and ecosystems as a whole
+(Chandellier and Malacain, 2021). As a result, life on Earth is left
+with fewer resources and is less able to satisfy its requirements.
+Many cosmetic products are made using organic, plant- and
+animal-derived
+components
+(Abattoir,
+2015).
+These
+include
+biologically derived ingredients having beneﬁcial qualities for
+cosmetic applications, such as essential oils, pigments, and
+surfactants. Biodiversity is becoming a key concern for the
+cosmetics sector due to rising customer demand for natural
+components
+and
+sustainable
+cosmetic
+products
+(European
+Business and Biodiversity Campaign, 2010).
+The production or collection of biological raw materials often
+has the greatest direct and indirect detrimental consequences on
+biodiversity. The primary environmental effects include the
+(indirect) use of land for resource extraction, the exploitation of
+ecosystems and habitats, pesticide and fertilizer contamination, and
+agricultural practices that encourage erosion (Wassie, 2020). A
+conspicuous illustration of this is the continued destruction of
+signiﬁcant portions of primary rainforest for the increasingly
+widespread cultivation of palm oil (Murphy et al., 2021). In the
+case of wild collection, the ecological sustainability of the resource
+collection is reliant on the good conservation status of the employed
+species and its population (Leaman, 2008). Improper harvesting
+techniques or other factors might have a detrimental impact on
+preservation. Factors inﬂuencing the preservation negatively are
+improper harvesting methods or harvesting times as a harvesting
+rate above the regeneration capacity of the species. The Candeia tree
+(Eremanthus erythropappus), which produces the anti-inﬂammatory
+alpha-bisabolol, which is used in several skin creams and is native to
+the Amazonian rainforest, is a good example of this (Queiroz and
+Cajaiba, 2016).
+There is a possibility of harmful consequences on biodiversity
+even at the very end of the value chains for cosmetics. For instance,
+many of the cosmetics’ active components wind up in sewage water
+and are incapable of being ﬁltered in typical sewage treatment
+facilities (European Business and Biodiversity Campaign, 2010).
+Such “Xenobiotic” (bio-incompatible) substances wind up in
+TABLE 4 (Continued) Different parts of plants used as cosmetic ingredients.
+Part of
+plant
+Speciﬁc
+plant
+species
+Compound to be
+extracted
+Cosmetic application
+Impact on plant
+species
+References
+Roots
+Glycyrrhiza glabra
+Glycyrrhizin or licorice
+anti-inﬂammatory, antioxidant,
+and skin-soothing
+Roots anchor the plant in the
+soil and absorb water and
+nutrients from the
+environment. The loss of roots
+can destabilize the plant,
+making it more susceptible to
+wind, water erosion, and
+physical damage. It can also
+compromise the plant’s ability
+to access essential resources,
+leading to decreased growth
+and survival
+Weryszko-Chmielewska et al.
+(2012), Cerulli et al. (2022)
+Seeds
+Simmondsia
+chinensis
+jojoba oil (wax esters),
+vitamin E, phytosterols,
+omega-9 fatty acids, and
+polyphenols
+skin and hair care
+Seeds are crucial for the
+propagation and dispersal of
+many plant species. The loss of
+seeds can prevent the plant
+from reproducing and
+establishing new individuals in
+suitable habitats, ultimately
+affecting its population
+dynamics and long-term
+survival
+Sandha and Swami (2009),
+Weryszko-Chmielewska et al.
+(2012), Inoti. (2017); Faccio (2020),
+Gad et al. (2021)
+Frontiers in Environmental Science
+frontiersin.org
+17
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 18 ===
+rivers and streams, where they are likely to accumulate in aquatic
+creatures
+and,
+for
+example,
+impair
+reproduction
+(Ravindra
+et al., 2019).
+Since the use of materials from protected or endangered species,
+as well as biological raw materials and ingredients from areas with
+high biodiversity can be extremely important to the success of
+cosmetic companies, corporate management should modify its
+environmental policy to support the objectives of the UN
+Biodiversity Convention (Lojeng, 2022).
+Environment and Sustainability Managers as well as auditors
+should assess to what extent the strategic importance of biodiversity
+is known as well as anchored in the company (Burby, 2013). To
+accomplish this, it is recommended to analyze the corporate mission
+and environmental policy.
+Without appropriate action, the loss of biodiversity will keep
+accelerating, with unexpected impacts on the economy and society
+(David Elisha and Jebbin Felix, 2020). The following elements are
+the main causes of biodiversity loss on a global scale: habitat
+degradation and ecological devastation, excessive use of natural
+resources (Hens and Boon, 2003; Gebretsadik, 2016; Bar et al., 2023).
+3.12.1 Risks to the ﬂora
+Synthetic cosmetics pose several risks to ﬂora, which refers to the
+plant life within a particular ecosystem (Elisha and Terry, 2021;
+Faccio, 2020). These risks primarily stem from the production, usage
+(Nduka and Kelle, 2018), and disposal of synthetic cosmetics, as well
+as the ingredients contained within them (Juliano and Magrini,
+2017; Lafforgue and Lafforgue, 2021).
+Chemical Pollution: Synthetic cosmetics often contain various
+chemicals, such as parabens, phthalates, sulfates, and synthetic
+fragrances (Washington State Department of Ecology (Ecology),
+2023). When these products are washed off during bathing or
+disposed of improperly, these chemicals can ﬁnd their way into
+water bodies through sewage systems (Juliano and Magrini, 2017).
+Once in the water, they can negatively impact aquatic ﬂora by
+disrupting
+their
+growth,
+reproduction,
+and
+overall
+health
+(Gonsioroski et al., 2020; Issac and Kandasubramanian, 2021).
+Soil Contamination: Improper disposal of synthetic cosmetics,
+such as dumping unused products or washing them off directly onto
+soil, can lead to soil contamination (Bowen, 1975). Chemicals from
+these cosmetics can leach into the soil, affecting the microbial
+communities essential for nutrient cycling and plant growth
+(Yadav,
+2023).
+Contaminated
+soil
+may
+also
+hinder
+the
+germination of seeds and the growth of plant roots (Paulsen,
+2015; Yu et al., 2022).
+Habitat Destruction: The production of synthetic cosmetics
+often involves the extraction of natural resources, such as
+minerals
+and
+petroleum
+(Martins
+and
+Marto,
+2023).
+This
+extraction process can lead to habitat destruction, particularly in
+biodiverse areas rich in ﬂora. Deforestation, soil erosion, and habitat
+fragmentation are some of the consequences that can directly harm
+plant species and disrupt ecosystems (European Business and
+Biodiversity Campaign, 2010).
+Invasive
+Species
+Introduction:
+Some
+synthetic
+cosmetic
+ingredients,
+especially
+microplastics
+and
+non-biodegradable
+substances, can inadvertently introduce invasive species into
+natural habitats (Lauren, 2019; Osman et al., 2023; Ziani et al.,
+2023). For example, microbeads used in exfoliating scrubs can enter
+water bodies and act as vectors for the spread of invasive plant
+species, disrupting native ﬂora and outcompeting indigenous plants.
+Air Pollution: The production and transportation of synthetic
+cosmetics contribute to air pollution through the release of
+greenhouse
+gases
+and
+other
+pollutants.
+Air
+pollution
+can
+negatively impact plant health by interfering with photosynthesis,
+damaging leaf surfaces, and altering soil pH levels through acid rain
+deposition, ultimately affecting the composition and distribution of
+ﬂora within ecosystems (Florentina and Io, 2011; Acwin Dwijendra
+et al., 2023).
+Different parts of the plant (Table 4) can provide ingredients for
+cosmetic and personal care products (Faccio, 2020).
+It has been documented that components taken from plant parts
+such as bark, ﬂowers, fruit, leaves, nuts, petals, pollen, seeds, roots,
+sprouts, stems, and other types of plant parts are used to create
+cosmetic products (Gupta and Prakash, 2013). This may result in
+plant species disappearing from the environment. As a result, plant
+biodiversity declines. This contributes to additional global warming
+through deforestation, which once more has a detrimental impact on
+human
+welfare
+(Sagbo,
+2021;
+Nadeeshani
+Dilhara
+Gamage
+et al., 2022).
+The loss of different plant parts used as ingredients in cosmetic
+formulations can have signiﬁcant ecological and physiological
+consequences for the plant species involved, potentially affecting
+their growth, reproduction, and survival in their natural habitats.
+3.12.2 Risk on fauna
+Without appropriate action, the loss of biodiversity will keep
+accelerating, with unexpected impacts on the economy and society
+(Spangenberg et al., 2012). The following elements are the main
+causes of biodiversity loss on a global scale: habitat degradation and
+ecological
+devastation,
+excessive
+use
+of
+natural
+resources
+(Spangenberg et al., 2012; David Elisha, 2021; Hatipoglu, 2023).
+Most often, factory farms serve as the primary locations where
+pigs are slaughtered for their meat, and where portions of their
+bodies are processed to produce the cosmetic ingredient “glycerine”
+(Abattoir, 2015; National Pork Board, 2009). For instance, factory
+farms seriously harm the ecology (Anomaly, 2015). Due to the high
+concentration of phosphorus and nitrogen in factory-farmed pigs’
+feces, when it contaminates areas outside the farm, it may cause a
+great deal of harm (Chemiczne and Wody, 2012; Fiut and
+Urbaniak, 2016).
+Water gets excessively enriched in minerals and nutrients due to
+eutrophication, which is caused by run-off pollution from waste pits
+at factory farms. As a result, there is an excessive development of
+algae, which frequently causes the water’s oxygen levels to drop. Fish
+and other aquatic plant and animal life are subsequently killed as
+a result. ‘Dead zones’ are places where this happens (Yang
+et al., 2008).
+In addition to being exploited and slaughtered for their meat,
+skin, and milk, cattle are also used to produce tallow and other
+cosmetic elements from their carcasses. Because so many cattle are
+produced for these purposes and because cattle emit such large
+amounts of greenhouse gases, these businesses are always bad for the
+environment (Durrans, 2013).
+Every year, many millions of ﬁsh are murdered for food, oils, and
+substances like guanine. The effects on the ecology and, naturally,
+the ﬁsh, who suffer and perish, are very harmful (Kibria, 2024).
+Frontiers in Environmental Science
+frontiersin.org
+18
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 19 ===
+Oceans encompass 70% of the planet (Wang, 2021). The entire
+ocean ecology may collapse if we do end up with ﬁshless or almost
+ﬁshless oceans in the future, as is anticipated (Durrans, 2013).
+Species that depend on ﬁsh for sustenance would become extinct
+if humans wiped them off. Algae, kelp, plankton, krill, and worms
+would all suffer greatly without the symbiosis that all these species
+form in nature. The effects on the environment are mind-boggling
+(Bert, 2016).
+4 Challenges in managing cosmetic
+ingredients
+Managing cosmetic ingredients poses several challenges (Raj
+and Chandrul, 2016), including:
+1. Regulatory Complexity: The regulation of cosmetic ingredients
+varies greatly between regions and countries, making it
+challenging
+for
+companies
+to
+comply
+with
+different
+standards and requirements (Mohd Riyaz Beg, 2016; Raj
+and Chandrul, 2016; Singh et al., 2018; Ferreira et al., 2022;
+Abed et al., 2024). Harmonizing regulations globally can be
+difﬁcult due to differing priorities, cultural attitudes, and
+scientiﬁc interpretations.
+2. Ingredient Transparency: Lack of transparency regarding the
+ingredients used in cosmetic products can make it difﬁcult for
+consumers to make informed choices (Bibby, 2018; Standard,
+2020; Santoro, 2022). Some ingredients may be listed under
+generic terms or trade names, obscuring their true nature and
+potential risks (Lafforgue and Lafforgue, 2021).
+3. Data Gaps in Safety Information: Many cosmetic ingredients
+lack comprehensive safety data, especially concerning long-
+term exposure and potential interactions with other chemicals
+(Amasa et al., 2012; Steiling, 2016; Panico et al., 2019; Scientiﬁc
+Committee on Consumer Safety, 2021). This makes it
+challenging
+to
+assess
+their
+environmental
+and
+health
+impacts accurately.
+4. Emerging
+Contaminants:
+New cosmetic
+ingredients
+are
+continually being developed, and their environmental fate
+and toxicity may not be fully understood (Juliano and
+Magrini, 2017). These emerging contaminants can pose
+challenges for monitoring and management efforts.
+5. Microplastics
+and
+Nanoparticles:
+Microplastics
+and
+nanoparticles are commonly used in cosmetics for various
+purposes, such as exfoliation and UV protection (Leslie, 2014;
+Gupta et al., 2022; Ziani et al., 2023). However, their small size
+makes them difﬁcult to remove during wastewater treatment,
+leading to their accumulation in the environment and potential
+ecological harm.
+6. Sustainable Sourcing: Many cosmetic ingredients are derived
+from natural resources, such as plants and minerals (McMullen
+and Dell’Acqua, 2023). Unsustainable sourcing practices can
+lead
+to
+deforestation,
+habitat
+destruction,
+and
+loss
+of
+biodiversity,
+posing
+challenges
+for
+both
+environmental
+conservation
+and
+the
+long-term
+availability
+of
+these
+ingredients.
+7. Consumer Behavior
+and Awareness:
+Despite increasing
+interest
+in
+sustainability
+and
+environmental
+issues,
+consumer
+behavior
+and
+awareness
+regarding
+the
+environmental impacts of cosmetics may still be limited
+(Rocca et al., 2022; Martins and Marto, 2023). Educating
+consumers and encouraging them to make more sustainable
+choices can be challenging.
+Addressing these challenges requires collaboration among
+governments,
+industry
+stakeholders,
+scientiﬁc
+experts,
+and
+consumers to develop robust regulatory frameworks, improve
+ingredient
+transparency,
+enhance
+safety
+assessment
+methodologies, promote sustainable sourcing practices, and raise
+awareness about the environmental impacts of cosmetics (Iswahyudi
+et al., 2024).
+5 Certiﬁcations
+Certiﬁcation in the cosmetic industry serves several purposes,
+primarily to assure consumers that products meet certain standards
+of safety, quality, and environmental responsibility. However, the
+necessity and effectiveness of certiﬁcation in this industry are
+subjects
+of
+ongoing
+debate,
+particularly
+in
+light
+of
+the
+“greenwashing” phenomenon.
+Greenwashing refers to the practice of companies making
+exaggerated or misleading claims about the environmental or
+ethical beneﬁts of their products or practices (Aparna and
+Murugan, 2024). In the cosmetics industry, this often manifests
+as brands labeling their products as “natural,” “organic,” or “eco-
+friendly” without sufﬁcient evidence to support these claims.
+Greenwashing can mislead consumers who are seeking genuinely
+sustainable or environmentally friendly options, leading them to
+choose products that may not align with their values (Lopes
+et al., 2023).
+Several factors contribute to the prevalence of greenwashing in
+the cosmetics industry:
+1. Lack of Regulation: The cosmetics industry is not as heavily
+regulated as other sectors, such as pharmaceuticals or food.
+This
+lack
+of
+oversight
+allows
+companies
+to
+make
+unsubstantiated
+claims
+without
+facing
+signiﬁcant
+consequences (Alexa, 2021).
+2. Complexity of Ingredients: Consumers may have difﬁculty
+understanding
+ingredient
+lists
+and
+deciphering
+which
+products are truly environmentally friendly or sustainable
+(Komis,
+2022).
+This
+confusion
+can
+make
+them
+more
+susceptible to greenwashing tactics.
+3. Market Demand: There is growing consumer demand for
+natural and eco-friendly products (Baviskar et al., 2024),
+leading companies to capitalize on this trend by marketing
+their products as such,
+even if their
+claims are not
+entirely accurate.
+4. Competitive Pressure: Companies may feel pressured to engage
+in greenwashing to remain competitive in the market,
+especially if they perceive that consumers are increasingly
+prioritizing sustainability (Lopes et al., 2023; Quicanga, 2023).
+To combat greenwashing and provide consumers with more
+reliable information, various certiﬁcation schemes have been
+Frontiers in Environmental Science
+frontiersin.org
+19
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 20 ===
+developed in the cosmetics industry. These certiﬁcations typically
+involve rigorous testing and evaluation of products to ensure they
+meet speciﬁc standards for ingredients, manufacturing processes,
+and environmental impact (U.S. FDA, 2021). Some of the most
+widely recognized certiﬁcations include:
+1. USDA Organic: This certiﬁcation veriﬁes that products meet
+the United States Department of Agriculture’s standards for
+organic production, including the use of organic ingredients
+and environmentally friendly practices (U.S. Department of
+Agriculture, 2011).
+2. Ecocert: Ecocert is an independent certiﬁcation body that
+veriﬁes the natural and organic content of cosmetics and
+ensures
+they
+meet
+certain
+environmental
+and
+ethical
+standards (ECOCERT Greenlife, 2022).
+3. COSMOS:
+COSMOS
+(Cosmetic
+Organic
+and
+Natural
+Standard) is a Europe-wide standard for organic and natural
+cosmetics. It sets criteria for ingredients, manufacturing
+processes,
+packaging,
+and
+labeling
+to
+ensure
+products
+are
+environmentally
+friendly
+and
+sustainable
+(COSMOS, 2023).
+4. Leaping Bunny: The Leaping Bunny certiﬁcation is awarded to
+companies that have demonstrated their products are cruelty-
+free, meaning they were not tested on animals at any stage of
+development (Guide, 2020).
+These
+certiﬁcations
+were
+chosen
+for
+their
+widespread
+recognition and credibility within the cosmetics industry. While
+there are other certiﬁcations available, these four are among the
+most well-established and trusted by consumers seeking genuinely
+sustainable and ethically produced cosmetics. However, consumers
+need to remain vigilant and critically evaluate the claims made by
+brands, as greenwashing tactics continue to evolve and adapt.
+Additionally, efforts to improve regulation and transparency in
+the industry can help reduce the prevalence of greenwashing and
+ensure consumers can make informed choices about the products
+they purchase.
+6 Conclusion
+Cosmetic items have a big impact on the environment and
+human health. Because some items contain chemical substances,
+there is a chance that they will cause health problems like allergies,
+sensitivities, and skin irritation. Certain ingredients in cosmetics,
+such as phthalates and parabens, have been connected to hormone
+disruption, which may affect the development and health of the
+reproductive system. Furthermore, several chemicals, including coal
+tar compounds and formaldehyde, have been identiﬁed as
+carcinogenic, which raises questions about potential long-term
+health effects, such as an elevated risk of cancer.
+Regarding
+the
+environment,
+throughout
+their
+existence,
+cosmetic products have contributed to several types of pollution.
+The manufacturing process has the potential to emit contaminants
+into the air and water during production, which could worsen the
+local community’s public health issues and cause environmental
+damage. In addition, the discarding of cosmetics especially those
+that include microplastics may contaminate ecosystems and
+waterways. Because microplastics can be consumed and cause
+harm at different stages of the food chain, the buildup of tiny
+particles in the environment is a concern to marine life and wildlife.
+Furthermore, the production, packing, and shipping of cosmetics all
+have a carbon footprint that contributes to climate change and
+exacerbates
+environmental
+problems
+worldwide.
+All
+things
+considered, tackling the effects of cosmetics on the environment
+and human health requires extensive initiatives meant to advance
+safer
+ingredients,
+environmentally
+friendly
+manufacturing
+processes, and conscientious consumer behavior.
+Author contributions
+YW:
+Conceptualization,
+Data
+curation,
+Formal
+Analysis,
+Investigation,
+Methodology,
+Software,
+Supervision,
+Writing–original draft, Writing–review and editing.
+Funding
+The author(s) declare that no ﬁnancial support was received for
+the research, authorship, and/or publication of this article.
+Conﬂict of interest
+The author declares that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and
+do
+not
+necessarily
+represent
+those
+of
+their
+afﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Abattoir (2015). Abattoir by-product utilization for sustainable meat industry: a
+review. J. Animal Prod. Adv. 5 (6), 681. doi:10.5455/japa.20150626043918
+Abed Elaziz, M. M., Khalifa, M. A., and Ghariani, R. H. (2016). Chemical and physical
+investigations of Arabian Eye Kohl Brands as cosmetic in Libya. Journal of the
+Turkish Chemical Society, Section A: Chemistry 4 (1), 463–463. doi:10.18596/jotcsa.
+287343
+Abed, M. S., Moosa, A. A., and Alzuhairi, M. A. (2024). Heavy metals in cosmetics and
+tattoos: a review of historical background, health impact, and regulatory limits.
+J. Hazard. Mater. Adv. 13 (December), 100390. doi:10.1016/j.hazadv.2023.100390
+Acwin Dwijendra, N. K., Mohammadi, M. J., Aravindhan, S., Jalil, T. K., Taherian, M.,
+Iswanto, A. H., et al. (2018). Investigating the effects of air pollution on plant species
+resistance in Urban areas. Health Scope 12 (1), 1–10. doi:10.5812/jhealthscope-129786
+Frontiers in Environmental Science
+frontiersin.org
+20
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 21 ===
+Ad, K., and Mn, A. (2019). Cosmotics and their associated adverse effects. A Rev.
+(April). doi:10.31069/japsr.v2i1.1
+Adegoke, E. O., Rahman, M. S., Park, Y. J., Kim, Y. J., and Pang, M. G. (2021).
+Endocrine-disrupting chemicals and infectious diseases: from endocrine disruption to
+immunosuppression. Int. J. Mol. Sci. 22 (8), 3939. doi:10.3390/ijms22083939
+Ahlström, M. G., Thyssen, J. P., Wennervaldt, M., Menné, T., and Johansen, J. D.
+(2019). Nickel allergy and allergic contact dermatitis: a clinical review of immunology,
+epidemiology, exposure, and treatment. Contact Dermat. 81 (4), 227–241. doi:10.1111/
+cod.13327
+Al, R., etMei-F, Y., and Brain, S. K. (2016). Triclosan: a widespread environmental
+toxicant with many biological effects. Physiology and Behav. 176 (5), 139–148. doi:10.
+4049/jimmunol.1801473
+Alam, M. F., Akhter, M., Mazumder, B., Ferdous, A., Hossain, M. D., Dafader, N. C.,
+et al. (2019). Assessment of some heavy metals in selected cosmetics commonly used in
+Bangladesh and human health risk’, Journal of Analytical Science and Technology.
+J. Anal. Sci. Technol. 10 (1), 2. doi:10.1186/s40543-018-0162-0
+Albugami, M. M., Buzaid, A., Shah, F., and Ahmed, A. Y. (2024). Assessment of the
+color effect on cadmium and lead contents in the most popular cosmetics in the Saudi
+market. Res. Square, 1–23. Available at:. doi:10.21203/rs.3.rs-4119052/v1
+Alexa, R. (2021). The lack of regulation in preventing greenwashing of cosmetics in
+the U.S. J. legislation 47 (1), 133. Available at: https://scholarship.law.nd.edu/jleg/vol47/
+iss1/5/.
+Amasa, W., Santiago, D., Mekonen, S., and Ambelu, A. (2012). ‘Are cosmetics used in
+developing countries safe ? Use and dermal irritation of body care products in jimma
+town, southwestern Ethiopia’, J. Toxicol. 204830. doi:10.1155/2012/204830
+Ananthapavan, J., et al. (2021). A cost–beneﬁt analysis framework for preventive
+health interventions to aid decision-making in Australian governments’, Health
+Research Policy and Systems. Biomed. Cent. 19 (1), 1–23. doi:10.1186/s12961-021-
+00796-w
+Anomaly, J. (2015). What’s wrong with factory farming? Public Health Ethics 8 (3),
+246–254. doi:10.1093/phe/phu001
+Aparna, P., and Murugan, K. S. (2024). Green washing: a deceptive marketing practice
+and its implications. Atlantis Press Int. BV, 122–132. doi:10.2991/978-94-6463-374-
+0_12
+Arct, J., and Mieloch, M. (2020). β-carotene in skin care, Academy of Cosmetics and
+Health Care, Warsaw, Poland. Pol. J. Cosmetol 2016 19 (3), 206–213. (20 December).
+Arshad, H., Mehmood, M. Z., Shah, M. H., and Abbasi, A. M. (2020). Evaluation of
+heavy metals in cosmetic products and their health risk assessment. Saudi Pharm. J. 28
+(7), 779–790. doi:10.1016/j.jsps.2020.05.006
+Asfaw, T. S., Botes, V., and Mengesha, L. G. (2017). The role of NGOs in corporate
+environmental responsibility practice: evidence from Ethiopia. Int. J. Corp. Soc.
+Responsib. 2 (1), 2–9. doi:10.1186/s40991-017-0013-0
+Ashdaq, M., Alam, S., Aris, V., and Mandasari, N. F. (2023). The impact of marketing
+through social media on brand attitudes: a study of cosmetics products in female
+generation Z. J. Econ. Finance Manag. Stud. 06 (08), 3702–3709. doi:10.47191/jefms/v6-
+i8-19
+Attard, T. A., and Abstract, E. (2022) ‘Heavy metals in cosmetics. In Intech, 13. doi:10.
+5772/intechopen.102406
+Bar, S., Dhara, S., Madhu, N. R., Mandal, B., Sarkar, B., and Ghorai, S. K. (2023). Root
+causes of biodiversity loss with special reference to India. A Basic Overv. Environ.
+Sustain. Dev., 1–34. [Volume: 2]. doi:10.52756/boesd.2023.e02.001
+Barabasz, W., Pikulicka, A., Wzorek, Z., and Nowak, A. K. (2019). Ecotoxicological
+aspects of the use of parabens in the production of cosmetics. Czas. Tech. (12), 99–124.
+doi:10.4467/2353737xct.19.126.11451
+Barthe, M., Bavoux, C., Finot, F., Mouche, I., Cuceu-Petrenci, C., Forreryd, A., et al.
+(2021). Safety testing of cosmetic products: overview of established methods and new
+approach methodologies (nams). Cosmetics 8 (2), 50–18. doi:10.3390/cosmetics8020050
+Baviskar, D., Chattaraj, A., and Patil, A. (2024). Consumer behaviour and sustainable
+product choices: insights from visual trends. E3S Web Conf. 472, 02002–02014. doi:10.
+1051/e3sconf/202447202002
+Bergman, J., and Kandel, H. (2017). Safﬂower production. Gaborone, Botswana: The
+Botswana University of Agriculture and Natural Resources, NDSU Extension Service.
+Bert, D. G. (2016). Determining the spatial scale of species ’ determining the spatial
+scale of species. Response Habitat’ 3568 (August). doi:10.1641/0006-3568(2004)054
+Bibby, J. (2018). Transitioning to transparency. The Aldrich Press: England.
+Bilal, A. I., Tilahun, Z., Osman, E. D., Mulugeta, A., Shekabdulahi, M., and Berhe, D.
+F. (2017). Cosmetics use-related adverse events and determinants among jigjiga town
+residents, eastern Ethiopia’, Dermatology and therapy. Springer Healthc. 7 (1), 143–153.
+doi:10.1007/s13555-016-0157-y
+Biskanaki, F., Kaloﬁri, P., Tertipi, N., Sfyri, E., Andreou, E., Kefala, V., et al. (2023).
+Carotenoids and dermoaesthetic beneﬁts: public health implications. Cosmetics 10 (5),
+120. doi:10.3390/cosmetics10050120
+Borowska, S., and Brzóska, M. M. (2015). Metals in cosmetics: implications for human
+health. J. Appl. Toxicol. 35 (January), 551–572. doi:10.1002/jat.3129
+Bouyssi-Kobar, M., et al. (2019). Personal care product use as a predictor of urinary
+concentrations of certain phthalates, parabens, and phenols in the HERMOSA study.
+J. Pediatr. 29 (1), 13–22. doi:10.1038/s41370-017-0003-z.Personal
+Bowen, H. J. M. (1975). Soil pollution. Educ. Chem. doi:10.5124/jkma.1998.41.10.1032
+Boyer, I. J., Bergfeld, W. F., Heldreth, B., Fiume, M. M., and Gill, L. J. (2017). The
+cosmetic ingredient review program - expert safety assessments of cosmetic ingredients
+in
+an
+open
+forum.
+Int.
+J.
+Toxicol.
+36
+(5_Suppl.
+2),
+5S–13S.
+doi:10.1177/
+1091581817717646
+Brausch, J. M., and Rand, G. M. (2011). A review of personal care products in the
+aquatic environment: environmental concentrations and toxicity. Chemosphere 82 (11),
+1518–1532. doi:10.1016/j.chemosphere.2010.11.018
+Burby, R. (2013). Environmental management and governance. Environ. Manag. Gov.
+doi:10.4324/9780203439876
+Canada, H. (2007). Concentrations and exposure risks of some metals in facial
+cosmetics in Nigeria. Toxicol. Rep. 3, 464–472. Elsevier Ireland Ltd,. doi:10.1016/j.
+toxrep.2016.04.004
+Canavez, A. D. P. M., de Oliveira Prado Corrêa, G., Isaac, V. L. B., Schuck, D. C., and
+Lorencini, M. (2021). Integrated approaches to testing and assessment as a tool for the
+hazard assessment and risk characterization of cosmetic preservatives. J. Appl. Toxicol.
+41 (10), 1687–1699. doi:10.1002/jat.4156
+CBD (2002). CBD (convention on biological diversity). UNEP/CBD/COP/6/
+20 Page 249’. Secretariat of the Convention on Biological Diversity: Montreal,
+Canada, 249–261.
+Cerulli, A., glabra, G., uralensis, G., inﬂata, G., et al. (2022). Licorice (Glycyrrhiza
+glabra, G. Uralensis, and G. Inﬂata) and their constituents as active cosmeceutical
+ingredients. Cosmetics 9 (1), 7. doi:10.3390/cosmetics9010007
+Chamer, A. M., Medan, D., Mantese, A., and Bartoloni, N. (2015). Impact of
+pollination on sunﬂower yield: is pollen amount or pollen quality what matters?
+Field Crops Res. 176, 61–70. doi:10.1016/j.fcr.2015.02.001
+Chandellier, J., and Malacain, M. (2021). ‘Biodiversity and Re/insurance: an
+ecosystem at risk biodiversity and re/insurance: technical report’, (April).
+Charkiewicz, A. E., Omeljaniuk, W. J., Nowak, K., Garley, M., and Nikliński, J. (2023).
+Cadmium toxicity and health effects—a brief summary. Molecules 28 (18), 6620–6716.
+doi:10.3390/molecules28186620
+Chedik, L., Baybekov, S., Cosnier, F., Marcou, G., Varnek, A., and Champmartin, C.
+(2024). An update of skin permeability data based on a systematic review of recent
+research. Sci. Data 11 (1), 224–314. doi:10.1038/s41597-024-03026-4
+Chemiczne, Z., and Wody, G. I. (2012). ‘Chemical polluting of soil and water on pig
+-breading farm’, Ecol. Chem. Eng. A. 19 (1-2), 25–33. doi:10.2428/ecea.2012.19(01)002
+Cherraﬁ, A., Chiarini, A., Belhadi, A., El Baz, J., and Chaouni Benabdellah, A. (2022).
+Digital technologies and circular economy practices: vital enablers to support
+sustainable and resilient supply chain management in the post-COVID-19 era.
+TQM J. 34 (7), 179–202. doi:10.1108/TQM-12-2021-0374
+Chouhan, N., and Himanshu Vig, R. D. (2021). Cosmetics market by category (skin
+and sun care products, hair care products, deodorants & fragrances, and makeup &
+color cosmetics), gender (men, women, and unisex), and distribution channel
+hypermarkets/supermarkets, specialty stores, pharmacies, onli’, Allied Mark. Res.
+Available at: https://www.alliedmarketresearch.com/cosmetics-market.
+Cooney, R. (2004). “Precaution and invasive alien species: challenges at the interface
+of the trade and environment regimes,” in Biodiversity loss and species extinctions:
+managing risk in a changing world. Available at: https://www.researchgate.net/
+publication/237626762.
+COSMOS (2023). COSMOS STANDARD criteria. Brussels, Belgium: COSMOS
+Standard AISBL, 0–52. Available at: https://www.cosmos-standard.orgww.
+David, E., and Niculescu, V. C. (2021). Volatile organic compounds (Vocs) as
+environmental pollutants: occurrence and mitigation using nanomaterials. Int.
+J. Environ. Res. Public Health 18 (24), 13147. doi:10.3390/ijerph182413147
+David Elisha, O., and Jebbin Felix, M. (2020). The loss of biodiversity and ecosystems:
+a threat to the functioning of our planet, economy and human society. Int. J. Econ.
+Environ. Dev. Soc. 1 (1), 30–44. Available at: www.ijeeds.com.
+David Elisha, O. (2021). Destruction of costal ecosystems and the vicious cycle odf
+poverty in Niger delta region. Available at: https://www.researchgate.net/publication/
+353741948.
+Durrans, B. (2013). The future of the other: changing cultures on display in
+ethnographic museums. Mus. Time-Machine, 144–169. doi:10.4324/9780203358825_
+chapter_7
+Department of Health and Human Services (2016). Report on carcinogens.
+Fourteenth Edition. Available at: https://ntp.niehs.nih.gov/pubhealth/roc/index-1.html’
+ECOCERT Greenlife (2022). ECOCERT standard natural detergents and natural
+detergents made with organic. Available at: www.ecocert.
+Ejeromedoghene, O., Nwosisi, M., Tesi, G., Noragbon, E., and Akinyeye, R. (2021).
+Impact of pharmaceutical waste generation and handling on environmental health in
+developing countries: COVID – 19 pandemic in perspective. J. Appl. Sci. Environ.
+Manag. 25 (3), 385–396. doi:10.4314/jasem.v25i3.12
+Frontiers in Environmental Science
+frontiersin.org
+21
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 22 ===
+Elisha, O. D., and Terry, D. (2021). Destruction of costal ecosystems and the vicious
+cycle odf poverty in Niger delta region. Available at: https://www.researchgate.net/
+publication/353741948.
+Environmental, N. (2019). ‘Reproductive and developmental hazards: a guide for
+occupational’, (April).
+EPA (2001). Integrated risk information system (IRIS) chemical assessment
+summary: methylmercury (MeHg). CASRN 22967-92-6’, 1–43.
+Esposito, T., Sansone, F., Franceschelli, S., Del Gaudio, P., Picerno, P., Aquino, R.,
+et al. (2017). Hazelnut (Corylus avellana l.) shells extract: phenolic composition,
+antioxidant effect and cytotoxic activity on human cancer cell lines. Int. J. Mol. Sci.
+18 (2), 392. doi:10.3390/ijms18020392
+Eticha, T., et al. (2018a). Levels and exposure risks of metals in lipsticks in mekelle,
+Ethiopia. Int. J. Reserach Pharm. Chem. 8 (1), 1–5.
+Eticha, T., Getachew, H., Kahsay, G., and Gebretsadik, H. (2018b). Metals
+contamination in face powders and their associated health risks to the users in
+mekelle, Ethiopia. J. Environ. & Anal. Toxicol. 08 (01). doi:10.4172/2161-0525.1000547
+European Business and Biodiversity Campaign (EBBC) (2010). Fact sheet:
+biodiversity in the cosmetics sector. Available at: https://www.business-biodiversity.
+eu/en/knowledge-pool/wild-harvesting.
+European Parliament (2018). Testing cosmetics on animals: MEPs call for worldwide ban |
+News | European Parliament. Available at: http://www.europarl.europa.eu/news/en/press-
+room/20180426IPR02613/testing-cosmetics-on-animals-meps-call-for-worldwide-ban.
+European Union, E. (2009). Regulation no 1223/2009 on cosmetic products. Nouv.
+Dermatol. 29 (5 PART 1).
+Faccio, G. (2020). Plant complexity and cosmetic innovation. iScience 23 (8), 101358.
+doi:10.1016/j.isci.2020.101358
+FDA (2022). FDA regulation of cosmetics and personal care products. Available at:
+https://crsreports.congress.gov.
+Ferreira, M., Matos, A., Couras, A., Marto, J., and Ribeiro, H. (2022). Overview of
+cosmetic regulatory frameworks around the world. Cosmetics 9 (4), 72–15. doi:10.3390/
+cosmetics9040072
+Final Countdown (2018). Now or never to reform the palm oil industry Greenpeace.
+Available at: https://www.greenpeace.org/international/publication/18455/the-ﬁnal-
+countdown-forests-indonesia-palm-oil/.196
+Fiut, I. S., and Urbaniak, M. (2016). Factory farming versus environment and society.
+The analysis of selected problems przemysłowa hodowla zwierząt a środowisko i
+społeczeństwo. Analiza wybranych problemów. Probl. Ekorozwoju 12 (1), 143–156.
+Available at: www.nonhumanrightsproject.org/.
+Florentina, I., and Io, B. (2011). The Effects of Air Pollutants on Vegetation and the
+Role of Vegetation in Reducing Atmospheric Pollution, in The Impact of Air Pollution
+on Health, Economy, Environment and Agricultural Sources. doi:10.5772/17660
+Francisco, M., Peinado, L. M. I.-D., and Olga Ocón-Hernández, N. O. (2012).
+Endocrine disrupting chemicals in cosmetics and personal care products and risk of
+endometriosis. Intech, 13. Available at: doi:10.1039/C7RA00172J%0A
+Gad, H. A., Roberts, A., Hamzi, S. H., Touiss, I., Altyar, A. E., et al. (2021). Jojoba oil:
+an updated comprehensive review on chemistry, pharmaceutical uses, and toxicity.
+Polymers 13 (11), 1711–1722. doi:10.3390/polym13111711
+Gago, J., Carretero, O., Filgueiras, A., and Viñas, L. (2018). Synthetic microﬁbers in
+the marine environment: a review on their occurrence in seawater and sediments. Mar.
+Pollut. Bull. 127 (July 2017), 365–376. doi:10.1016/j.marpolbul.2017.11.070
+Gao, U. S. G. A. O. (2009). Options for enhancing the effectiveness of the toxic substances
+control act Highlights. GAO-09-428T Toxic Substances Control Reforms’, in Control.
+Gautam, P., Ganghas, D., Mittal, P., Gupta, V., and Dhiman, K. (2022). Regulatory
+framework of cosmetic in the European Union. Toxicol. Commun. 4 (3), 13. doi:10.
+53388/20220202013
+Gebretsadik, T. (2016). Causes for biodiversity loss in Ethiopia: a review from
+conservation perspective. J. Nat. Sci. Res. 6 (11), 32–40. doi:10.4172/2376-0354.1000171
+Genchi, G., Sinicropi, M. S., Lauria, G., Carocci, A., and Catalano, A. (2020). The
+effects of cadmium toxicity. Int. J. Environ. Res. Public Health 17 (11), 3782–3824.
+doi:10.3390/ijerph17113782
+Ghosh, S., Sinha, J. K., Vashisth, K., Han, S., and Bhaskar, R. (2023). Microplastics as
+an emerging threat to the global environment and human health. Sustain. Switz. 15 (14),
+10821. doi:10.3390/su151410821
+Gisp, N., and Jackson, D. L. (2007). The global invasive species Programme.
+Gnonsoro, U. P., Ake Assi, Y. E. D., Sangare, N. S., Kouakou, Y. U., and Trokourey, A.
+(2022). Health risk assessment of heavy metals (Pb, Cd, Hg) in hydroalcoholic gels of
+abidjan, Côte d’Ivoire’, biological trace element research. Springer U. S. 200 (5),
+2510–2518. doi:10.1007/s12011-021-02822-y
+Gonsioroski, A., Mourikes, V. E., and Flaws, J. A. (2020). Endocrine disruptors in
+water and their effects on the reproductive system. Int. J. Mol. Sci. 21 (6). doi:10.3390/
+ijms21061929
+Group, E. W. (2007). 1,4-dioxane. Available at: http://www.ainfo.inia.uy/digital/
+bitstream/item/7130/1/LUZARDO-BUIATRIA-2017.pdf.
+Guerranti, C., Andreuccetti, C., Cenni, I., Santini, S., Martellini, T., Cincinelli, A., et al.
+(2022). Cosmetics trace elemental content: analytical methodology and toxicity
+evaluation of products in the Italian market. Anal. Lett. 56 (7), 1115–1127. doi:10.
+1080/00032719.2022.2121405
+Guide, C. M. R. U. (2020). User guide user guide. Computer, 169–232. doi:10.21945/
+IVM-476
+Gupta, C., and Prakash, D. (2013). Herbal plants used in cosmetics and
+cosmeceuticals and their advantages over the synthetic counterparts. Med. Aromatic
+Plants World. doi:10.1016/j.scitotenv.2013.01.020
+Gupta, V., et al. (2022). Nanotechnology in cosmetics and cosmeceuticals — a review.
+Gels 2022, 1–31. doi:10.3390/gels8030173
+Gutierrez, L. (2023). Beauty at what cost ? The environmental impact of cosmetic
+ingredients and Materials;Sustainable LivingSustainable manufacturing. Available at:
+https://sustainable-earth.org/cosmeticingredients/#:~:text=Some%20common%
+20makeup%20ingredients%2C%20such,and%20pollution%20.
+Haji, A. S., Maurya, S. R., and Shah, N. (2023). Azadirachta indica A. Juss.:
+ethnobotanical knowledge, phytochemical studies, pharmacological aspects future
+prospects. Plant Environ. 5 (1), 1–15. doi:10.22271/2582-3744.2023.mar.1
+Hatipoglu, İ. H. (2023). The importance of rose and rosehip species in past, present,
+and tomorrow. Int. Conf. Appl. Eng. Nat. Sci. 1 (1), 268–273. doi:10.59287/icaens.1004
+He, K., Hain, E., Timm, A., and Blaney, L. (2021). Bioaccumulation of estrogenic
+hormones and UV-ﬁlters in red swamp crayﬁsh (Procambarus clarkii). Sci. Total
+Environ. 764, 142871. doi:10.1016/j.scitotenv.2020.142871
+Health Canada (2007). Evidence for quality of ﬁnished natural health products.
+Health Canada (2016). Guidelines for Canadian drinking water quality - chromium.
+Available at: www.canada.ca/en/health-canada/services/environmental-workplace-
+health/reports-publications/water-quality.html.
+Helmstetter, A. J., Oztolan-Erol, N., Lucas, S. J., and Buggs, R. J. A. (2020). Genetic
+diversity and domestication of hazelnut (Corylus avellana L.) in Turkey. Plants People
+Planet 2 (4), 326–339. doi:10.1002/ppp3.10078
+Hens, L., and Boon, E. K. (2003). Causes of biodiversity loss: a human ecological
+analysis. MultiCiencia (August), 1–29. doi:10.1016/j.jhazmat.2003.10.003
+Hwang, D., Kim, H., Shin, H., Jeong, H., Kim, J., and Kim, D. (2014). Cosmetic effects
+of Prunus padus bark extract. Korean J. Chem. Eng. 31 (12), 2280–2285. doi:10.1007/
+s11814-014-0146-8
+IARC (1987). International Agency for Research on Cancer. Overall evaluations of
+carcinogenicity: an updating of IARC monographs volumes 1–42. IARC Monogr. Eval.
+Carcinog. Risks Humans 1987, 230–232. doi:10.1016/0300-483X(87)90138-0
+Ibrahim, U., Yusuf, S. D., and Ubana, M. A. (2019). Health risk assessment of some
+cosmetic products sold in Kefﬁmarkets. Nasarawa State Nigeria’ 5 (2), 82–90. doi:10.
+1186/s12881-019-0803-3
+Inoti, S. K. (2017). ‘Genetic diversity in jojoba (simmondsia chinensis L.) using simple
+sequence repeats in semi-arid areas of Kenya’, 3(4).
+Issac, M. N., and Kandasubramanian, B. (2021). Effect of microplastics in water and
+aquatic systems’, Environmental Science and Pollution Research. Environ. Sci. Pollut.
+Res. 28 (16), 19544–19562. doi:10.1007/s11356-021-13184-2
+Iswahyudi, I., Sutanto, A., Widodo, W., Warkoyo, W., Garfansa, W. P., and Ariﬁn, S.
+(2024). The effect of microplastic contaminated compost on the growth of rice
+seedlings. J. Saudi Soc. Agri. Sci. King Saud University & Saudi Society of
+Agricultural Sciences, 1–8. doi:10.1016/j.jssas.2024.07.001
+Iwegbue, C. M. A., Bassey, F. I., Obi, G., Tesi, G. O., and Martincigh, B. S. (2016).
+Concentrations and exposure risks of some metals in facial cosmetics in Nigeria.
+Toxicol. Rep. 3, 464–472. doi:10.1016/j.toxrep.2016.04.004
+Jarošová, M., and Pajdlhauser, M. (2022). Aviation and climate change. Transp. Res.
+Procedia 65 (C), 216–221. doi:10.1016/j.trpro.2022.11.025
+John Kanayochukwu Nduka, H. I. K. (2019) ‘Review of Health hazards and
+toxicological effects of constituents of cosmetics doi:10.5772/intechopen.845901–18.
+Juliano, C., and Magrini, G. A. (2017). Cosmetic ingredients as emerging pollutants of
+environmental and health concern. A mini-review. A Mini-Review 4, 11. doi:10.3390/
+cosmetics4020011
+Kader Mohiuddin, A. (2019). Heavy metals in cosmetics: the notorious daredevils and
+burning health issues. Am. J. Biomed. Sci. & Res. 4 (5), 332–337. doi:10.34297/ajbsr.
+2019.04.000829
+Kaličanin, B., and Velimirović, D. (2016). A study of the possible harmful effects of
+cosmetic beauty products on human health. Biol. Trace Elem. Res. 170 (2), 476–484.
+doi:10.1007/s12011-015-0477-2
+Khalid, M., and Abdollahi, M. (2021). Environmental distribution of personal care
+products and their effects on human health. Iran. J. Pharm. Res. 20 (1), 216–253. doi:10.
+22037/ijpr.2021.114891.15088
+Kibria, G. (2024). ‘Global ﬁsh kills: causes and consequences global ﬁsh kill: causes and
+consequences causes of ﬁsh kills’, (April 2014).
+Komis,
+A.
+I.
+(2022).
+Consumer’s
+ethical
+perception
+on
+greenwashing
+acknowledgements.
+Frontiers in Environmental Science
+frontiersin.org
+22
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 23 ===
+Kowalczyk, S., Grymel, M., Bilik, J., Kula, W., Wawoczny, A., Grymel, P., et al. (2024).
+Selected plants as sources of natural and active ingredients for cosmetics of the future.
+Appl. Sci. 14, 3487. doi:10.3390/app14083487
+Lafforgue, A. B. C., and Lafforgue, C. (2021). ‘Risks associated with cosmetic
+ingredients’, 148, 77, 93. doi:10.1016/j.annder.2020.04.027
+Lauren, Z. (2019). Pretty hurts: are chemicals in beauty products making us ill?
+Available at: https://www.theguardian.com/us-news/2019/may/23/are-chemicals-in-
+beauty-products-making-us-ill.
+Leaman, D. J. (2008). ‘The international standard for sustainable wild collection of
+medicinal and aromatic plants (issc-map) elements of the standard relevant to cites
+(ISSC-MAP) Elements of the Standard Relevant to CITES NDF, Cancun, Mexico,
+November 2008’.
+Leslie, H. A. (2014). Review of microplastics in cosmetics. IVM Inst. Environ. Stud.
+476 (July), 33.
+Li, B., Wang, J., Hu, G., Liu, X., Yu, Y., Cai, D., et al. (2023). Bioaccumulation behavior
+and human health risk of polybrominated diphenyl ethers in a freshwater food web of
+typical shallow lake, yangtze river delta. Int. J. Environ. Res. Public Health 20 (3),
+2671–2716. doi:10.3390/ijerph20032671
+Li, X., Gao, Y., Wang, J., Ji, G., Lu, Y., Yang, D., et al. (2017). Exposure to
+environmental endocrine disruptors and human health. J. Public Health Emerg. 1, 8.
+doi:10.21037/jphe.2016.12.09
+Li, Y., Fang, Y., Liu, Z., Zhang, Y., Liu, K., Jiang, L., et al. (2021). Trace metal lead
+exposure in typical lip cosmetics from electronic commercial platform: investigation,
+health risk assessment and blood lead level analysis. Front. Public Health 9 (November),
+1–13. doi:10.3389/fpubh.2021.766984
+Limonta, G., Mancia, A., Benkhalqui, A., Bertolucci, C., Abelli, L., Fossi, M. C., et al.
+(2019). Microplastics induce transcriptional changes, immune response and behavioral
+alterations in adult zebraﬁsh. Sci. Rep. Springer U. S. 9 (1), 15775–15811. doi:10.1038/
+s41598-019-52292-5
+Lisa, M., and Benson, K. R. (2017). Guide to United States cosmetic products
+compliance requirements, National Institute of Standards and Technology. doi:10.
+6028/NIST.IR.8178
+Liu, G., Cai, W., Liu, H., Jiang, H., Bi, Y., and Wang, H. (2021). The association of
+bisphenol a and phthalates with risk of breast cancer: a meta-analysis. Int. J. Environ.
+Res. Public Health 18 (5), 2375–2415. doi:10.3390/ijerph18052375
+Liu, J. L., and Wong, M. H. (2013). Pharmaceuticals and personal care products
+(PPCPs): a review on environmental contamination in China. Environ. Int. 59, 208–224.
+doi:10.1016/j.envint.2013.06.012
+Łodyga-Chruścińska, E., Sykuła, A., and Wie¸dłocha, M. (2018). Hidden metals in
+several brands of lipstick and face powder present on Polish market. Cosmetics 5 (4),
+57–59. doi:10.3390/cosmetics5040057
+Lojeng, R. K. (2022). ‘Biodiversity in the cosmetic industry’.
+Lopes, J. M., Gomes, S., and Trancoso, T. (2023). The dark side of green marketing:
+how greenwashing affects circular consumption? Sustain. Switz. 15 (15), 11649–11717.
+doi:10.3390/su151511649
+Made Safe (2022). ChemicalCallout: BHT and BHA. Available at: https://www.
+madesafe.org/chemical-proﬁles/bht-and-bha/’
+Martins, A. M., and Marto, J. M. (2023). A sustainable life cycle for cosmetics: from
+design and development to post-use phase. Sustain. Chem. Pharm. 35, 101178. doi:10.
+1016/j.scp.2023.101178
+McDonald, B. C., de Gouw, J. A., Gilman, J. B., Jathar, S. H., Akherati, A., Cappa, C.
+D., et al. (2018). Volatile chemical products emerging as largest petrochemical source of
+urban organic emissions. Science 359 (6377), 760–764. doi:10.1126/science.aaq0524
+McMullen, R. L., and Dell’Acqua, G. (2023). History of natural ingredients in
+cosmetics. Cosmetics 10 (3), 71. doi:10.3390/cosmetics10030071
+Mesquita, I., Lorigo, M., and Cairrao, E. (2021). Update about the disrupting-effects of
+phthalates on the human reproductive system. Mol. Reproduction Dev. 88 (10),
+650–672. doi:10.1002/mrd.23541
+Mestawet, G., Getachew, M., and Tewelde, T. (2018). Cosmetic use and its adverse
+events among female. Employees Jimma Univ., Southwest Ethiop. 28 (6), 717. doi:10.
+4314/ejhs.v28i6.6’
+Miller, I. B., Pawlowski, S., Kellermann, M. Y., Petersen-Thiery, M., Moeller, M.,
+Nietzer, S., et al. (2021). Toxic effects of UV ﬁlters from sunscreens on coral reefs
+revisited: regulatory aspects for “reef safe” products. Environ. Sci. Eur. 33 (1), 74. doi:10.
+1186/s12302-021-00515-w
+Milman, O. (2019). US cosmetics are full of chemicals banned by Europe – why? The
+Guardian. Available at: https://www.theguardian.com/us-news/2019/may/22/
+c h e m i c a l s - i n - c o s m e t i c s - u s - r e s t r i c t e d - e u , P a p e r K n o w l e d g e .
+TowardaMediaHistoryofDocuments.
+Mohd Riyaz Beg, M. (2016). Cosmetic-Regulations, Research & Marketing challenges
+and global compliance: an overview. Inst. Chem. Technol. Mumbai Cosmetic-
+Regulations. doi:10.1016/j.scitotenv.2016.10.045
+Mozas-Blanco, S., Rodríguez-Gil, J. L., Kalman, J., Quintana, G., Díaz-Cruz, M. S.,
+Rico, A., et al. (2023). Occurrence and ecological risk assessment of organic UV ﬁlters in
+coastal waters of the Iberian Peninsula. Mar. Pollut. Bull. 196 (November), 115644.
+doi:10.1016/j.marpolbul.2023.115644
+Murphy, D. J., Goggin, K., and Paterson, R. R. M. (2021). Oil palm in the 2020s and
+beyond: challenges and solutions’, CABI Agriculture and Bioscience. Biomed. Cent. 2 (1),
+1–22. doi:10.1186/s43170-021-00058-3
+Nadeeshani Dilhara Gamage, D. G., Dharmadasa, R. M., Chandana Abeysinghe, D.,
+Saman Wijesekara, R. G., Prathapasinghe, G. A., and Someya, T. (2022). Global
+perspective of plant-based cosmetic industry and possible contribution of Sri Lanka
+to the development of herbal cosmetics. Evidence-based Complementary Altern. Med.
+2022, 1–26. doi:10.1155/2022/9940548
+Nassan, F. L., Coull, B. A., Gaskins, A. J., Williams, M. A., Skakkebaek, N. E., Ford,
+J. B., et al. (2017). Personal care product use in men and urinary concentrations of select
+phthalate metabolites and parabens: results from the environment and reproductive
+health (earth) study. Environ. Health Perspect. 125 (8), 1–10. doi:10.1289/EHP1374
+National Institute of Environmental Health Sciences (2007). Cosmetics and your
+health. USA: US Department of Health and Human Services. Available at: http://
+s c h o l a r . g o o g l e . c o m / s c h o l a r ? h l = e n & b t n G = S e a r c h & q = i n t i t l e :
+Cosmetics+and+Your+Health#0.
+National Pork Board (2009). The pork industry at a glance, Pork Checkoff. Available
+at: https://www.pork.org/publications/2009-annual-report/.
+Naveed, N. (2014). The perils of cosmetics. Pharm. Sci. Res. doi:10.13040/IJPSR.0975-
+8232.6(10).338-41
+Nduka, J. K., and Kelle, H. I. (2018). Review of health hazards and toxicological effects
+of constituents of cosmetics, 1–18.
+Nduka, J. K., Odiba, I. O., Aghoghome, E. I., Umedum, N. L., and Nwosu, M. J. (2016).
+Evaluation of harmful substances and health risk assessment of mercury and arsenic in
+cosmetic brands in Nigeria. Int. J. Chem. 8 (1), 178. doi:10.5539/ijc.v8n1p178
+Nestby, R. D. J. (2020). The status of prunus padus L. (Bird cherry) in forest
+communities throughout Europe and Asia. Forests 11 (5), 497–518. doi:10.3390/
+F11050497
+Nikolovska, V. (2016). Invasive species: a look at their disastrous effects on
+ecosystems, health, and stability of native species. Rev. A J. Undergrad. Student Res.
+17. doi:10.3390/su8121512
+NYS Health Foundation (2013). Fact sheet: potentially toxic chemicals in personal
+care products. Available at: https://www.healthline.com/health/beauty-skin-care/what-
+is-sodium-lauryl-sulfate.
+Oh, H. J., and Kim, J. (2020). Characterization of inhalable aerosols from cosmetic
+powders and sustainability in cosmetic products. Sustain. Switz. 12 (19), 8187. doi:10.
+3390/su12198187
+Okereke, J. N., et al. (2015). Possible health implications associated with cosmetics. A
+Rev. 3, 58–63. doi:10.11648/j.sjph.s.2015030501.21
+Oluwole, A. O., Omotola, E. O., and Olatunji, O. S. (2020). Pharmaceuticals and
+personal care products in water and wastewater: a review of treatment processes and use
+of photocatalyst immobilized on functionalized carbon in AOP degradation. BMC
+Chem. 14 (1), 62–29. doi:10.1186/s13065-020-00714-1
+Onel, S., Davidson, J. A., Dwyer, D., Ehrlich, S., Meyer, C. L., Reagan, K. S., et al.
+(2019). U.S. Food and drug administration (FDA) and the products it regulates. Kirk-
+Othmer Encycl. Chem. Technol., 1–27. doi:10.1002/0471238961.1608011825091407.a01.
+pub3
+Orangutan
+Foundation
+International
+(2015).
+Whats-Wrong-with-Palm-Oil?
+Available at: https://orangutan.org/wp-content/uploads/2015/02/Whats-Wrong-with-
+Palm-Oil-FLYER.pdf’
+Osman, A. I., Hosny, M., Eltaweil, A. S., Omar, S., Elgarahy, A. M., Farghali, M., et al.
+(2023). Microplastic sources, formation, toxicity and remediation: a review. Environ.
+Chem. Lett. 21, 2129–2169. Springer International Publishing. doi:10.1007/s10311-023-
+01593-3
+Palma-Lara, I., Martínez-Castillo, M., Quintana-Pérez, J., Arellano-Mendoza, M.,
+Tamay-Cach, F., Valenzuela-Limón, O., et al. (2020). Arsenic exposure: a public health
+problem leading to several cancers. Regul. Toxicol. Pharmacol. 110, 104539. doi:10.1016/
+j.yrtph.2019.104539
+Panico, A., Serio, F., Bagordo, F., Grassi, T., Idolo, A., De Giorgi, M., et al. (2019). Skin
+safety and health prevention: an overview of chemicals in cosmetic products. J. Prev.
+Med. Hyg. 60 (1), E50-E57–E57. doi:10.15167/2421-4248/jpmh2019.60.1.1080
+Park, J. w. Y. J. K. J. C. H. K. J. N. A. Ö. S. W.-S. (2023). Advances inthe development
+of ingridents with both high performance and sustainablity for clean beuty cosmetics.
+Int. J. Cosmet. Sci. 45, 1–61. doi:10.1111/ics.12921
+Paulsen, L. (2015). The health risks of chemicals in personal care products and their
+fate in the environment. Chem. Honors Pap. 15. Available at: https://digitalcommons.
+conncoll.edu/chemhp/15.
+Peng, X., Fan, Y., Jin, J., Xiong, S., Liu, J., and Tang, C. (2017). Bioaccumulation and
+biomagniﬁcation of ultraviolet absorbents in marine wildlife of the pearl river estuarine,
+south China sea. Environ. Pollut. 225, 55–65. Elsevier Ltd,. doi:10.1016/j.envpol.2017.
+03.035
+Pereira, J. X., and Pereira, T. C. (2018). Cosmetics and its health risks. Glob. J. Med.
+Res. 18 (2), 63–70. doi:10.34257/gjmrbvol18is2pg63
+Frontiers in Environmental Science
+frontiersin.org
+23
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 24 ===
+Pinto, D., Braga, N., Rodrigues, F., and Oliveira, M. (2017). Castanea sativa Bur: an
+undervalued by-product but a promising cosmetic ingredient. Cosmetics 4 (4), 50–59.
+doi:10.3390/cosmetics4040050
+Pinto, D., Cádiz-Gurrea, M. d. l. L., Garcia, J., Saavedra, M. J., Freitas, V., Costa, P.,
+et al. (2021). From soil to cosmetic industry: validation of a new cosmetic ingredient
+extracted from chestnut shells. Sustain. Mater. Technol. 29 (June), e00309. doi:10.1016/j.
+susmat.2021.e00309
+Practices, B., et al. (2021). ‘Regulating risk from toxic substances’, (July).
+Prusakiewicz, J. J., Harville, H. M., Zhang, Y., Ackermann, C., and Voorman, R. L.
+(2007). Parabens inhibit human skin estrogen sulfotransferase activity: possible link to
+paraben estrogenic effects. Toxicology 232 (3), 248–256. doi:10.1016/j.tox.2007.01.010
+Queiroz, A., and Cajaiba, J. (2016). A sustainable process for (-)-α-bisabolol
+extraction from Eremanthus erythropappus using supercritical CO2 and ethanol as
+co-solvent. J. Supercrit. Fluids 110, 39–46. doi:10.1016/j.supﬂu.2015.12.011
+Quicanga, A. (2023). Perceptions of greenwashing’S impact on green concern and green
+purchase intentions. Umeå University: Umeå, Sweden, 1–82.
+Raj, R. K., and Chandrul, K. K. (2016). Regulatory requirements for cosmetics in relation
+with regulatory authorities in India against US, Europe, Australia and asean countries. Int.
+J. Pharma Res. Health Sci. 4 (5), 1332–1341. doi:10.21276/ijprhs.2016.05.01
+Ramelli, G. P., Taddeo, I., Herrmann, U., and Weber, P. (2012). V13 Poster location
+013 Paroxysmal tonic upgaze of infancy: 5 additional cases. Eur. J. Paediatr. Neurology
+13 (September), S10. doi:10.1016/s1090-3798(09)70033-9
+Rastogi, S. C., Schouten, A., de Kruijf, N., and Weijland, J. W. (1995). Contents of
+methyl-, ethyl-, propyl-, butyl- and benzylparaben in cosmetic products. Contact
+Dermat. 32, 28–30. doi:10.1111/j.1600-0536.1995.tb00836.x
+Ravindra, H., Arya, P., and Haq, S. A. (2019). Effects of xenobiotics and their
+biodegradation in marine life. Smart Bioremediation Technol. Microb. Enzym., 63–81.
+Elsevier Inc. doi:10.1016/B978-0-12-818307-6.00004-4
+Ray, S. S., Gusain, R., and Kumar, N. (2020). Classiﬁcation of water contaminants.
+Carbon Nanomaterial-Based Adsorbents Water Purif., 11–36. doi:10.1016/b978-0-12-
+821959-1.00002-7
+Raymond, K., and Krupnick, A. (2016). Cost-beneﬁt analysis and regulatory
+reformResources for the Future: Washington, D.C., United States, 1–23.
+Ricardo (2021). Economic analysis of the impacts of the chemicals strategy for
+sustainability. Available at: https://ceﬁc.org/app/uploads/2021/12/Economic-Analysis-
+of-the-Impacts-of-the-Chemicals-Strategy-for-Sustainability-Phase-1.pdf.
+Rocca, R., Acerbi, F., Fumagalli, L., and Taisch, M. (2022). Sustainability paradigm in
+the cosmetics industry: State of the art. Clean. Waste Syst. 3 (May), 100057. doi:10.1016/
+j.clwas.2022.100057
+Rodrigues, R., Oliveira, M. B. P. P., and Alves, R. C. (2023). Chlorogenic acids and
+caffeine from coffee by-products: a review on skincare applications. Cosmetics 10 (1), 12.
+doi:10.3390/cosmetics10010012
+Rootid (2022). Campaign for safe cosmetics, a project of breast cancer prevention
+partners. Available at: https://www.safecosmetics.org/get-thefacts/regulations/
+international-laws/.doi:10.1017/S1816383120000144
+Sadie (2020). How the beauty industry is harming our seas and oceans. Available at:
+https://www.green-sail.com/blog/how-the-beauty-industry-is-harming-our-seas-and-
+oceans’
+Sagbo, J. (2021). ‘Indigenous cosmetics plants in the eastern cape province of South
+Africa: a case of skin care’.
+Salles, F. J., Paniz, F. P., Batista, B. L., Nardocci, A. C., and Olympio, K. P. K. (2023).
+Potentially toxic elements in costume cosmetics used by children and adults are
+associated with cancer risk. Int. J. Environ. Res. Public Health 20 (1), 531. doi:10.
+3390/ijerph20010531
+Sandha, G. K., and Swami, V. K. (2009). Jojoba oil as an organic, shelf stable standard
+oil-phase base for cosmetic industry. Rasayan J. Chem. 2 (2), 300–306.
+Santoro, C. (2022). Sustainability and transparency in the cosmetic industry: the clean
+beauty
+movement
+and
+consumers’
+consciousness.
+Palgrave
+Macmillan:
+Cham,
+Switzerland.
+Scanes, C. G. (2017). “Invasive species,” in Animals Hum. Soc., 413–426. doi:10.1016/
+B978-0-12-805247-1.00024-1
+SCCS (2023). Scientiﬁc Committee on Consumer Safety SCCS OPINION on the safety
+of
+aluminium
+in
+cosmetic
+products-Submission
+III.
+European
+Commission:
+Luxembourg, 1–62.
+Schlumpf, M., Durrer, S., Faass, O., Ehnes, C., Fuetsch, M., Gaille, C., et al. (2008).
+Developmental toxicity of UV ﬁlters and environmental exposure: a review. Int.
+J. Androl. 31 (2), 144–151. doi:10.1111/j.1365-2605.2007.00856.x
+Scientiﬁc Committee on Consumer Safety (2021). The SCCS’s notes of guidance for
+testing of cosmetic ingredients and their safety. Evaluation. 8th revision.
+Scott, F. (2020). ‘The “Toxic Twenty” cosmetic ingredients and contaminants’.
+Scott Fabber (2020). The toxic twelve chemicals and contaminants in cosmetics.
+Available at: https://www.ewg.org/the-toxic-twelve-chemicals-and-contaminants-in-
+cosmetics’
+Sharifan, H., Klein, D., and Morse, A. N. (2016). UV ﬁlters are an environmental
+threat in the Gulf of Mexico: a case study of Texas coastal zones. Oceanol. Inst. Oceanol.
+Pol. Acad. Sci. 58 (4), 327–335. doi:10.1016/j.oceano.2016.07.002
+Sheikh, A. G. (2018). Beauty care products - a chemistry deleterious to human
+chemistry. Int. J. Med. Sci. Public Health 2018, 1–8. doi:10.5455/ijmsph.2018.
+1130118112017
+Sherrow, V. (2018). Personal care products council (PCPC). Encycl. Hair, 389–390.
+doi:10.5040/9781440880148.0200
+Singh, B. M., Jain, A., and Mishra, A. (2018). Cosmetic regulations in India vs.
+Globally and challenges in harmonization. Int. J. Pharm. Sci. Drug Res. 10 (03), 150–157.
+doi:10.25004/ijpsdr.2018.100308
+Singh, G. (2019). Mica scavenging in Jharkhand destroys lives and environment.
+Mongabay. Available at: https://india.mongabay.com/2019/10/mica-scavenging-in-
+jharkhand-destroys-lives-and-environment/.
+Siti Zulaikha, R., Sharifah Norkhadijah, S. I., and Praveena, S. M. (2015). Hazardous
+ingredients in cosmetics and personal care products and health concern: a review. Public
+Health Res. 5 (1), 7–15. doi:10.5923/j.phr.20150501.02
+Spangenberg, J. H., Bondeau, A., Carter, T. R., Fronzek, S., Jaeger, J., Jylhä, K., et al.
+(2012). Scenarios for investigating risks to biodiversity. Glob. Ecol. Biogeogr. 21 (1),
+5–18. doi:10.1111/j.1466-8238.2010.00620.x
+Speer, R. M., Zhou, X., Volk, L. B., Liu, K. J., and Hudson, L. G. (2023). Arsenic and
+cancer: evidence and mechanisms. Adv. Pharmacol. 96, 151–202. doi:10.1016/bs.apha.
+2022.08.001
+Standard, A. I. (2020). ‘Chemical ingrident transparency in products: review of
+existing public policies & an industry standard’.
+Steiling, W. (2016). Safety evaluation of cosmetic ingredients regarding their skin
+sensitization potential. Cosmetics 3 (2), 14. doi:10.3390/cosmetics3020014
+Tsiouli, S., and Fytianos, G. (2023). “Water pollution by personal care products,” in
+Personal Care Prod. Hum. Health, 115–137. doi:10.1016/B978-0-323-99684-6.00002-1
+Tunde, O. L., Oluwagbemiga, A. P., and Felix, O. O. (2024). Concentrations and
+probable health risks of potentially toxic metals (Pb, Cd and Cr) in some Nigerian
+lipstick products. J. Trace Elem. Minerals 8, 100142. Elsevier B. doi:10.1016/j.jtemin.
+2024.100142
+Ullah, H., Noreen, S., Fozia, H., Rehman, A., Waseem, A., Zubair, S., et al. (2017).
+Comparative study of heavy metals content in cosmetic products of different countries
+marketed in Khyber Pakhtunkhwa, Pakistan. Arabian J. Chem. 10 (1), 10–18. doi:10.
+1016/j.arabjc.2013.09.021
+UNI EN ISO 22716 (2014). Good manufacturing practices (GMP) – guidelines on
+good manufacturing practices. Milano Ente Ital. Uniﬁcazione, 2008. doi:10.3403/
+30148492U
+U.S. Department of Agriculture (2011). National Organic Program: organic
+production and handling requirements. Available at: https://www.nofany.org/ﬁles/
+USDA_Organic_Production___Handling_Standards.pdf.
+USEPA (2021). Volatile organic compounds’ impact on indoor air quality EPA. GOV,
+1–5. Available at: https://www.epa.gov/indoor-air-quality-iaq/indoor-particulate-
+matter. doi:10.1007/s11356-021-13435-6
+U.S. FDA (2021). Cosmetic products & ingredients. Available at: https://www.fda.
+gov/cosmetics/cosmetic-products-ingredients.
+Usman, U. L., Danhauwa, S. A., Sajad, S., and Banerjee, S. (2021). Assessment of
+heavy metal in some commonly used cosmetic product and associated health risk
+in Nigeria: threat to public health. Macromol. Symp. 397 (1). doi:10.1002/masy.
+202100161
+Vandenberg, L. N., Colborn, T., Hayes, T. B., Heindel, J. J., Jacobs, D. R., Jr., Lee, D. H.,
+et al. (2012). Hormones and endocrine-disrupting chemicals: low-dose effects
+and nonmonotonic dose responses. Endocr. Rev. 33 (3), 378–455. doi:10.1210/er.
+2011-1050
+Vanderplanck, M., Gilles, H., Nonclercq, D., Duez, P., and Gerbaux, P. (2020).
+Asteraceae paradox: chemical and mechanical protection of taraxacum pollen. Insects 11
+(5), 304–308. doi:10.3390/insects11050304
+Vella, A., and Attard, E. (2019). Analysis of heavy metal content in conventional and
+herbal toothpastes available at Maltese pharmacies. Cosmetics 6 (2), 28. doi:10.3390/
+COSMETICS6020028
+Wan, M. W. O., Nurzalikha, A. M. S., and Zulfakar, M. H. (2024). The trend of halal
+cosmetics supply chain research in a decade: a systematic review and bibliometric
+analysis. Inf. Manag. Bus. Rev. 16 (No. 1), 213–228. (ISSN 2220-3796). doi:10.22610/
+imbr.v16i1(i).3681
+Wang, J., Pan, L., Wu, S., Lu, L., Xu, Y., Zhu, Y., et al. (2016). Recent advances on
+endocrine disrupting effects of UV ﬁlters. Int. J. Environ. Res. Public Health 13 (8),
+782–811. doi:10.3390/ijerph13080782
+Wang, Q., Shao, S., Su, Y., Hu, X., Shen, Y., and Zhao, D. (2019). A novel case of
+autogamy and cleistogamy in Dendrobium wangliangii: a rare orchid distributed in the
+dry-hot valley. Ecol. Evol. 9 (22), 12906–12914. doi:10.1002/ece3.5772
+Wang, Z. (2021). Inﬂuence of climate change on marine species and its solutions. IOP
+Conf. Ser. Earth Environ. Sci. 1011 (1), 012053. doi:10.1088/1755-1315/1011/1/012053
+Frontiers in Environmental Science
+frontiersin.org
+24
+Wirtu
+10.3389/fenvs.2024.1402893
+
+=== Page 25 ===
+Wassie, S. B. (2020). Natural resource degradation tendencies in Ethiopia: a review.
+Environ. Syst. Res. 9 (1), 33–29. Springer Berlin Heidelberg. doi:10.1186/s40068-020-00194-1
+Weatherly, L. M., and Gosse, J. A. (2017). Triclosan exposure, transformation, and
+human health effects. J. Toxicol. Environ. Health - Part B Crit. Rev. Taylor & Francis 20
+(8), 447–469. doi:10.1080/10937404.2017.1399306
+Weryszko-Chmielewska, E., Tietze, M., and Michońska, M. (2012). Ecological
+features of the ﬂowers of Aesculus hippocastanum L. and characteristics of Aesculus
+L. pollen seasons under the conditions of central-eastern Poland. Acta Agrobot. 65 (4),
+61–68. doi:10.5586/aa.2012.022
+Whitacre, D. M. (2015). Reviews of environmental contamination and toxicology.
+Springer-Verlag. doi:10.1007/978-3-319-10479-9
+WHO (2011). Mercury in skin lightening products public health andenvironment.
+Dep. Public Health, Environ. Soc. Determinants Health (15), 6. Available at: https://www.
+who.int/publications/i/item/WHO-CED-PHE-EPE-19.13. doi:10.1002/9781119992615
+Wood, E. (2018). Impacts of sunscreens on coral reefs. Rep. by Int. Coral Reef
+Initiative, 1–21. Available at: https://crm.gov.mp/wp-content/uploads/crm/ICRI_
+Sunscreen_0.pdf.
+Wu, C., Zhang, K., and Xiong, X. (2018). Microplastic pollution in inland waters
+focusing on Asia. Handb. Environ. Chem., 85–99. doi:10.1007/978-3-319-61615-5_5
+Yadav, E. (2023). The environmental implications of cosmetic chemistry laboratory
+waste: a review. Austin Environ. Sci. 8 (3).
+Yang, X. E., Wu, X., and Hao, H. l. (2008). Mechanisms and assessment
+of water eutrophication. J. Zhejiang Univ. Sci. B 9 (3), 197–209. doi:10.1631/jzus.
+B0710626
+Young, O. (2022). ‘The environmental impact of cosmetics is tremendous—here’s
+how they’re harmful. Available at: https://www.treehugger.com/environmental-impact-
+of-cosmetics-5207672#toc-chemicalingredients’
+Yueh, M. F., and Tukey, R. H. (2016). Triclosan: a widespread environmental toxicant
+with many biological effects. Annu. Rev. Pharmacol. Toxicol. 56, 251–272. doi:10.1146/
+annurev-pharmtox-010715-103417
+Zareba, G., Cernichiari, E., Hojo, R., Nitt, S. M., Weiss, B., Mumtaz, M. M., et al.
+(2007). Thimerosal distribution and metabolism in neonatal mice: comparison with
+methyl mercury. J. Appl. Toxicol. 27 (July), 511–518. doi:10.1002/jat.1272
+Zero Mercury Working Group (2010). Mercury in skin lightening cosmetics. Mercury
+Policy Proj., 1–4.
+Ziani, K., Ioniţă-Mîndrican, C. B., Mititelu, M., Neacșu, S. M., Negrei, C., Moroșan, E.,
+et al. (2023). Microplastics: a real global threat for environment and food safety: a state
+of the art review. Nutrients 15 (3), 617. doi:10.3390/nu15030617
+Frontiers in Environmental Science
+frontiersin.org
+25
+Wirtu
+10.3389/fenvs.2024.1402893
+

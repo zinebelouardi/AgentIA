@@ -1,0 +1,746 @@
+=== Page 1 ===
+19 
+Europaisches Patentamt 
+European Patent Office 
+Office europeen des brevets 
+© Publication number : 0 631 772 A 2 
+EUROPEAN PATENT APPLICATION 
+© Application number : 94303798.6 
+6i) Int. CI.6: A 6 1 K 7 / 4 8 
+(22) Date of filing : 26.05.94 
+(§) Priority : 27.05.93 US 67904 
+17.05.94 US 241446 
+(43) Date of publication of application 
+04.01.95 Bulletin 95/01 
+@ Designated Contracting States : 
+AT BE CH DE DK ES FR GB IE IT LI LU MC NL 
+PT SE 
+© Applicant : JOHNSON & JOHNSON 
+CONSUMER PRODUCTS, INC. 
+Grand View Road 
+Skillman, New Jersey 08858 (US) 
+(72) Inventor : Wang, Jonas C. T. 
+23 Ellsworth Drive 
+Robbinsville, NJ 08691 (US) 
+Inventor : Wisniewski, Stephen J. 
+6280 Pt. Pleasant Pike 
+Doylestown, PA 18901 (US) 
+@) Representative : Fisher, Adrian John et al 
+CARPMAELS & RANSFORD 
+43 Bloomsbury Square 
+London WC1A 2RA (GB) 
+CM 
+< 
+CM 
+h- 
+h- 
+(O 
+CD 
+(54) Retinoid composition. 
+(57) 
+Skin care compositions comprise retinol and an irritation ameliorating amount of glycolic acid. The 
+glycol ic acid is preferably present in an amount of at least 2%, and preferably about 5 to about 10% by 
+weight of the composition. 
+LU 
+Jouve, 18, rue Saint-Denis, 75001 PARIS
+
+=== Page 2 ===
+EP 0 631 772 A2 
+Field of the Invention 
+This invention relates to skin care compositions containing retinoids which are generally applied topically 
+to improve the quality of the skin. More particularly, this invention relates to skin care compositions comprising 
+5 
+retinol (Vitamin A alcohol) and further comprising irritation ameliorating quantities of glycolic acid. 
+Background of the Invention 
+Skin care compositions containing retinoids have become the focus of great interest in recent years. Re- 
+10 
+tinoic acid, also known as Vitamin A acid or tretinoin, is well-known for the treatment of such skin conditions 
+as acne and products containing retinoic acid are commercially available in various forms from the Dermato- 
+logical Division of Ortho Pharmaceutical Corporation. 
+More recently, however, wider use or retinoids has been suggested for treatments other than acne such 
+as, for example, the treatment of skin against photoaging and sun damage. Many individuals who have had a 
+15 
+good deal of sun exposure in childhood will show the following gross cutaneous alterations in later adult life: 
+wrinkling, leatheriness, yellowing, looseness, roughness, dryness, mottling (hyperpigmentation) and various 
+premalignant growths (often subclinical) . These changes are most prominent in light-skinned person who burn 
+easily and tan poorly. These cumulative effects of sunlight are often referred to as "photoaging". Although the 
+anatomical degradation of the skin is most advanced in the elderly, the destructive effects of excessive sun 
+20 
+exposure are already evident by the second decade. Serious microscopic alterations of the epidermis and der- 
+mis occur decades before these become clinically visible. Wrinkling, yellowing, leatheriness and loss of elas- 
+ticity are very late changes. 
+The problem of skin aging is addressed in U.S. Patent No. 4,603,146 wherein Vitamin Aacid in an emollient 
+vehicle is suggested as a treatment. Further, in U.S. Patent No. 4,877,805, it is suggested that a number of 
+25 
+retinoids are useful for restoring and reversing sun damage of human skin. 
+When considering the use of retinoids in skin care products, it is believed that certain retinoids such as, 
+for example, retinol (Vitamin A alcohol), would be preferred over retinoic acid. This is because retinol is an en- 
+dogenous compound naturally occurring in the human body and essential for good growth, differentiation of 
+epithelial tissues and reproduction. Retinol is also preferred because it has a much larger safety margin than 
+30 
+other retinoids such as retinoic acid. Accordingly, attention has turned toward formulating skin care composi- 
+tions which contain retinol. Such compositions have been proposed such as those disclosed in a pending patent 
+application, U.S. Serial Number 71 9,264, filed on June 27, 1991 by Clum etal. and commonly assigned to the 
+assignee of this application; the disclosure of which is hereby incorporated by reference. 
+The benefits from the use of retinol as set out above notwithstanding, it has been noted that skin care 
+35 
+compositions containing retinol to some degree exhibit undesirable skin irritation as manifested by flaking, er- 
+ythema and dermal edema. 
+Accordingly, there is a need for a composition comprising retinol which manifests less retinol induced ir- 
+ritation. 
+40 
+Summary of the Invention 
+In accordance with the teachings of this invention, a skin care composition is provided comprising retinol 
+as an active ingredient. The retinol irritating properties of the composition are ameliorated by employing a re- 
+tinol irritation ameliorating amount of glycolic acid. 
+45 
+The glycolic acid is present in an amount effective to ameliorating such indicia of retinol skin irritation as 
+transepidermal water loss (hereinafter "TEWL") and skin fold thickness (hereinafter "SFT"). TEWL measures 
+a change in barrier function (i.e. the thinning of the stratum corneum results in increased TEWL) and SFT in 
+an indication of dermal edema. Both a decrease in barrier function and an increase in dermal edema are char- 
+acteristic indications of irritation resulting from the topical application of retinol. Such effective amounts of gly- 
+50 
+colic acid are preferably greater than about two percent by weight of the composition and still more preferably 
+from about five to about ten percent by weight glycolic acid, based on the weight of the composition. 
+Brief Description of the Drawings 
+55 
+Figure 1 is a graphical representation of data illustrating the SFT effect of retinol containing compositions 
+comprising 0% and 2% glycolic acid; 
+Figure 2 is a graphical representation of data illustrating the SFT effect of retinol containing compositions 
+comprising 0% and 5% glycolic acid; and 
+2
+
+=== Page 3 ===
+EP 0 631 772 A2 
+Figure 3 is a graphical representation of data illustrating the SFT effect of retinol containing compositions 
+comprising 0% and 10% glycolic acid. 
+Detailed Description of the Invention 
+5 
+As described above, the composition of this invention comprises retinol and glycolic acid as a retinol irri- 
+tation ameliorator. As described in the aforementioned application, U.S. Serial Number 719,264, the retinol 
+composition comprises a therapeutically effective amount of retinol in a vehicle for topical application. Prefer- 
+ably, the vehicle is chosen, in accordance with the teaching of the referred to prior filed application, to include 
+10 
+a system for insuring long shelf life and stability for the retinoid. 
+Accordingly, the retinol concentration in the composition may range from about 0.001 to about 5.0%, by 
+weight of the total composition, and preferably from about 0.001 to about 1 .0%. The composition is preferably 
+chosen as water-in-oil emulsion, as such has been found to be particularly protective of the stability of the 
+retinol activity. The ratio of the oil phase to the water phase can vary from about 5:95 to about 99:1. by weight. 
+15 
+Additionally, the composition preferably comprises a chemical stabilizing system selected from the group con- 
+sisting of: 
+a) a chelating agent and at least one oil-soluble antioxidant; 
+b) a chelating agent and at least one water-soluble antioxidant; and 
+c) antioxidant present in each or the oil and water phases of said emulsion; 
+20 
+The water-soluble antioxidants which are useful in the compositions of the present invention include as- 
+corbic acid, sodium sulfite, sodium metabisulfite, sodium bisulfite, sodium thiosulfite, sodium formaldehyde 
+sulfoxylate, isoascorbic acid, thioglycerol, thiosorbitol, thiourea, thioglycolic acid, cysteine hydrochloride, 1,4- 
+diazobicyclo-(2,2,2)-octane and mixtures thereof as well as any other known water-soluble antioxidant com- 
+patible with the other components of the compositions. 
+25 
+The oil-soluble antioxidants which are useful in the compositions of the present invention include butylated 
+hydroxytoluene (BHT), ascorbyl palmitate, butylated hydroxyanisole (BHA), a-tocopherol, phenyl-a-naphthy- 
+lamine, hydroquinone, propyl gallate, nordihydroguiaretic acid, and mixtures thereof as well as any other known 
+oil-soluble antioxidant compatible with the other components of the compositions. 
+The antioxidants would be utilized in a stabilizing effective amount and may range in total from about 0.001 
+30 
+to 5.0% based on the weight of the total composition, preferably from about 0.01 to 1 .0%. The amount of an- 
+tioxidants utilized in the compositions of the present invention is dependent in part on the specific antioxidants 
+selected, the amount of and specific retinoid being protected and the processing conditions. 
+In certain aspects of this invention, the compositions include a chelating agent. The retinol compound of 
+this invention is sensitive to metal ions and in particular to bi- and tri-valent cations and in certain instances, 
+35 
+degrade rapidly in their presence. The chelating agent forms a complex with the metal ions thereby inactivating 
+them and preventing them from affecting the retinol compound. Chelating agents which are useful in the com- 
+positions of the present invention include ethylenediamine tetraacetic acid (EDTA) and derivatives and salts 
+thereof, dihydroxyethyl glycine, citric acid, tartaric acid, and mixtures thereof. The chelating agents should be 
+utilized in a stabilizing erfective amount and may range from about 0.01 to 2.0% based on the weight of the 
+40 
+total composition, preferably from about 0.05 to 1 .0%. 
+The skin care compositions of the present invention comprising a water-in-oil emulsion can be in the format 
+of cream or lotion formulations, as desired, by varying the relative quantities of the oil and water phases of 
+the emulsion. The pH of the compositions should be in the range of from about 4 to about 9, and preferably 
+from about 4 to about 7. 
+45 
+Mineral oils, animal oils, vegetable oils and silicones have all been used in cosmetic creams and lotions 
+of the emulsion type. In addition to such oils, other emollients and surface active agents have been incorpo- 
+rated in the emulsions, including glyceryl trioleate, acetylated sucrose distearate, sorbitan tiolate, polyoxyethy- 
+lene (1) monostearate, glycerol monooleate, sucrose distearate, polyethylene glycol (50) monostearate, octyl- 
+phonoxypoly (ethyleneoxy) ethanol, decaglycerin penta-isostearate, sorbitan sesquioleate, hydroxylated lano- 
+50 
+Mn, lanolin, triglyceryl diisotearate, polyoxyethylene (2) oleyl ether, calcium stearoyl-2-lactylate, methyl gluco- 
+side sesquistearate, sorbitan monopalmitate, methoxy polyethylene glycol-22/dodceyl glycol copolymer(Elfa- 
+cos E200), polyethylene glycol-45/dodecyl glycol copolymer(Elfacos ST9), polyethylene glycol 400 distearate, 
+and lanolin derived sterol extracts, glycol stearate and glyceryl stearate; alcohols, such as cetyl alcohol and 
+lanolin alcohol; myristates, such as isopropyl myristate; cetyl palmitate; cholesterol; stearic acid; propylene gly- 
+55 
+col; glycerine, sorbitol and the like. Thickeners such as natural gums and synthetic polymers, as well as pres- 
+ervatives such as methylparaben, butyl paraben, propylparaben and phenoxysethanol, coloring agents and 
+fragrances also are commonly included in such compositions. Other active ingredients such as sunscreen ma- 
+terials and antimicrobial materials may be utilized in the compositions of the present invention provided that 
+3
+
+=== Page 4 ===
+EP 0 631 772 A2 
+they are physically and chemically compatible with the other components of the compositions. 
+In accordance with this invention, the above described retinol composition further comprises glycolic acid 
+as a retinol irritation ameliorating component. Glycolic acid (2-hydroxyethanoic acid) is one of the class of alpha 
+hydroxyacids of which for example, lactic acid (2-hydroxy propanoic), malic acid (2-hydroxybutane-1,4,dioic 
+5 
+acid) are also close members. It is naturally occurring, as are other alpha hydroxyacids obtained from fruits, 
+sugar cane, and yogurt and its effects on skin and skin disfunctions have been already studied. (See, for ex- 
+ample EJ Van Scott and RJ Yu, Control of keratinization with alpha hydroxy acids and related compounds, Arch 
+Dermatol 110 586-590 (1974); EJ Van Scott and RJ Yu, Commentary: Ichthyosis and keratinization, Arch Der- 
+matol 118 860-861 (1982); EJ Van Scott and RJ Yu, Hyperkeratinization, corneocyte cohesion, and alpha hy- 
+10 
+droxy acids, J Am Acad Dermatol 11 867-879 (1984); EJ Van Scott, Dry skin etcetera, corneocyte detachment, 
+desquamation, and neo strat, Int J Dermatol 26 90(1 98 7); EJ Van Scott, Alpha hydroxy acids effective for acne, 
+warts, dry skin, Skin & Allergy News 18 35 (1987); EJ Van Scott and RJ Yu, Alpha hydroxy acids: Procedures 
+for use in clinical practice, Cutis 43 222-228 (1989). 
+Further, in European Patent Application 87117405.8 published July 6, 1988, Scott and Yu disclosed em- 
+15 
+ploying an alpha hydroxy acid salt, ethyl pyruvate, with retinoic acid as a treatment for oily skin. In U.S. Patent 
+5,1 53,230 to Monzour H. Jeffrey, it is suggested that glycolic acid is in itself useful for treating aging skin and 
+may be combined with Vitamin A palmite in such composition. 
+In view of these references, however, it is totally surprising that glycolic acid may be employed in a retinol 
+containing composition to ameliorate the irritating effects of the retinol component. For example, Scott and Yu 
+20 
+in Arch Dermatol/Vol. 110, Oct 1974, p588 have stated that glycolic acid, particularly in concentrations of from 
+5 to 10%, when used as the sole active ingredient, has acted as an irritant and hence, lower concentrations 
+are recommended. Additionally, the authors further noted that one effect of glycolic acid is an abrupt loss of 
+the entire abnormal stratum corneum in patients with lamellar ichthyosis. Accordingly, it is entirely surprising 
+that glycolic acid, when combined with a specific irritating retinoid, retinol, can have an irritation ameliorating 
+25 
+effect on the combination. 
+To illustrate the invention and the advantages flowing therefrom, the following examples are given. In each 
+of these examples, the retinol containing compositions are emulsions prepared n accordance with the following 
+procedure: 
+The ingredients shown under the heading "Aqueous Phase Ingredients" in the table below are combined 
+30 
+and heated until dissolved at a temperature of 55 to 60°C and then cooled to 55°C or until clear and then ad- 
+justed to a pH of 4.7 using a 50% by weight sodium hydroxide solution. The pH adjusted Aqueous Phase is 
+then heated to 75°C. The ingredients shown underthe heading "Oil Phase Ingredients" are combined and heat- 
+ed to 75°C. The Aqueous Phase is then added to the oil phase and heating is terminated. When the mixture 
+reaches a temperature of 45 to 50°C the fragrance is added and additionally, the ionized water is added to 
+35 
+weight. The mixture is then homogenized for one minute. The retinol mixture is then added with stirring and 
+the combined mixture is allowed to cool with stirring to room temperature. 
+40 
+45 
+50 
+55 
+4
+
+=== Page 5 ===
+1 
+H Jl lO X 
+in 
+tn 
+i< 
+in 
+in 
+in 
+»-i 
+n o o> 
+r - o t M i n o i k 
+o o o o o o c ; r - ' H o o i n i n 
+rt(N 
+m 
+l| 
+f» 
+<*> n 
+o
+o
+o
+o
+o
+ 
+cm 
+1 
+rt 
+T-< C \Q TT 
+m m 
+in in 
+in 
+<-i 
+m o w 
+t-. o tM in 
+o in 
+o o o o o o r v i r - r - i o o i n i n 
+fSj 
+cm ri cm «-i 
+0 * 0 0 0 0 
+1-1 C 
+10 @» 
+m m 
+in 
+m 
+in 
+1-1 m 0 o\ 
+r - o t N i n o i n 
+o o o o o o t N i - « r - i o o i n t n 
+mtN 
+«-i 
+I c N n c N f - i 
+o
+o
+o
+o
+o
+ 
+CM 
+•-< 
+1 
+! 
+' 
+1 
+1 
+' 
+! 
+@ 
+I 
+1 
+1 
+j 1-1 o\ »0 -» 
+m 
+m 
+i 
+j l l - n i n 
+i n l r - i p - i o c j * 
+r- 0 
+cn m 0 in 
+0 
+0 1 c 1 c 
+c | c 
+<n i- 
+>-< 1 © 0 in in 
+v o i n r i o o o 
+im c l - n | i n m | m o o | 
+@ j 
+VO (N 
+i CN (-1 1 <N j r-l 
+j 
+ol 0 0 0 0 
+CN 
+' H 
+1 
+I 
+; 
+I 
+1 
+i 
+1 
+! 
+p 
+: 
+i H 
+01 10 » !{ 
+1 
+m l i - i n o m | - 5 s 
+m 
+in 
+' 
+i n i n r - » l o o i n i n | y * j 
+t - o c M i n o m 
+j o o o o o o r s p * 
+r i j o o o o 3^4, 
+\o 
+in 
+«-< 0 
+0 0 
+m o i n i n i n u - 1 0 0 
+0 
+© 0 0 0 1 .a 3 
+VO CM 
+(Nf-ICM 
+ri 
+SI I 
+j 
+1 = 1 
+! 
+! 
+S 
+i 
+f J " 
+'@ 
+' 
+: 
+i 
+1 
+H i , 
+0 0 0 0 0 0 
+j c o c | c j o l c | o o 
+G I C O O O . . . ; 
+M 
+" M 
+j 
+1 
+1 
+s 0 w = 
+w 
+i x 
+! 
+j S M 
+I = 
+1 
+| ? t l 
+< 
+-a! 
+£ 
+^ 
+?! 
+* 1 1 
+d 
+hi 
+o m 
+0 
+b 
+rs = 
+£ 
+u 
+0 '51 cl ~ 7 7 
+j. 
+£ g 
+* 
+x 
+l i i 
+S 
+* <| "I 5 " « - -5 
+8 
+g 
+S 
+0 I j ? 
+• 
+S 
+0 
+S 
+-2 -H 
+S 
+- 
+S 
+S 
+8 
+S 
+S 
+5 
+-5 
+-3 * M i 
+§ 3 ?, « 
+8 
+oM £ 
+S £ £ £ 
+, 
+g 
+„ 
+§ 
+-5 i 
+5 g m
+ 
+j 
+i-..c E- 
+> u 
+' C ^ ^ ^ 
+o-5 
+= .c 
++t 
+£ £ V, 2 
+5 
+l a o 
+o o 
+0 0 1 
+i © 0 c i
+
+=== Page 6 ===
+EP 0 631 772 A2 
+Each of the compositions are tested forTransepidermal Water Loss (TEWL) and Skin Fold Thickness (SFT) 
+as markers for retinol irritation. This is accomplished by treating male hairless mice (Skh/hrl, Charles River, 
+Wilmington, MA), 6-8 weeks of age. The mice upon receipt were fed ad libitum on Purina Chow #5015 and 
+watered ad libitum for one week prior to use. The mice were then randomly assigned to treatment groups of 
+5 
+seven mice each. Each group (with the exception of the control) was treated daily for seven days with one of 
+the compositions set forth below applying 0.1 ml of such composition over the entire dorsal trunk and spreading 
+it by gentle inunction. The study animals remained on a twelve hour light/twelve hour dark cycle before, during 
+and after dosing. TEWL and SFT measurements were taken from each animal just prior to daily retreatment. 
+Care was taken that subsequent TEWL and SFT readings were made as close to twenty-four hour intervals 
+10 
+after the treatment as possible to reduce sampling error. 
+The skinfold thickness test (SFT) was carried out as follows. A fold of dorsal skin parallel to the long axis 
+of each animal was picked up with the fingers. A Mitutuyo Pocket Thickness gauge (cat. #7309, MRO Industrial 
+Supply, Manville, NJ) was held open, slipped over the fold of skin at a site on the lower midback. The spring- 
+loaded arm of the gauge was released and the gauge slid slightly forward to ensure that no more than 2 thick- 
+15 
+nesses of skin were picked up. A single reading x 0.01 mm at the same site was made for each mouse at each 
+interim. When the skin was edematous and the pressure of the spring caused the gauge reading to slowly de- 
+cline, the reading was taken after the gauge stopped. 
+The transepidermal water loss (TEWL) measurements were performed as follows. The evaporimeter em- 
+ployed is an instrument for the quantitative determination of water evaporation, i.e. water transport by diffu- 
+20 
+sion, from or to surfaces in contact with the atmosphere. Mice were held gently and the left flank area held 
+up to the probe of an EP-1 ServoMed Evaporimeter (ServoMed, Stockholm, Sweden), so that an airtight seal 
+was formed. A standard deviation setting of 0.1 was used, and one reading was taken per mouse. The TEWL 
+in g/m2/h was recorded at each time point. 
+The result of the TEWL testing s summarized in the following table. 
+25 
+35 
+40 
+45 
+Effect of Glycolic Acid and Retinol on TEWL in Groups of Seven Mice 
+TEWL - MEAN VALUES ONLY 
+PRODUCT 
+Untreated 
+.00%+ 0% 
+.01%+ 0% 
+.01%+ 2% 
+.01%+ 5% 
+.01%+10% 
+Control 
+(vehicle) 
+glycolic 
+glycolic 
+glycolic 
+glycolic 
+DAY 
+0 
+7.5 
+7.9 
+7.7 
+7.7 
+8.1 
+8.4 
+1 
+9.1 
+10.1 
+11.8 
+12.1 
+12.4 
+14.1 
+2 
+7.9 
+14.7 
+19.6 
+29.5 
+21.5 
+15.5 
+3 
+8.7 
+16.8 
+29.1 
+37.4 
+23.6 
+21.1 
+4 
+7.4 
+12.3 
+24.0 
+29.2 
+17.2 
+18.5 
+5 
+7.9 
+12.5 
+18.3 
+26.8 
+16.8 
+22.0 
+6 
+8.5 
+17.8 
+22.5 
+36.6 
+22.3 
+18.7 
+7 
+8.7 
+19.4 
+26.1 
+30.2 
+22.2 
+21.0 
+As can be seen in the above table, the TEWL for the group tested with composition 2, the vehicle, showed 
+irritation based on the increase TEWL and this effect was aggravated substantially when a group was treated 
+with the retinol containing, glycolic acid free, composition 3. A concentration of glycolic acid of as high as 2% 
+by weight (composition 4) further aggravated the irritation. On the other hand, both a 5% glycolic acid compo- 
+sition (composition 5) and a 10% glycolic composition (composition 6) all tended toward ameliorating this irri- 
+tation. 
+The results of the skin fold thickness measurements (SFT) are depicted in Figures 1-3. As can be clearly 
+seen from the figures, a 2% glycolic acid addition did little to ameliorate the irritation as manifested by SFT in 
+a 0.01% retinol composition (Figure 1). On the other hand, a 5% glycolic acid addition and still more, a 10% 
+6
+
+=== Page 7 ===
+EP 0 631 772 A2 
+glycolic acid addition, significantly ameliorated such irritation (Figure 2 and 3). 
+Each of the compositions set forth in Table III below was tested for cumulative irritation on human skin. 
+Twenty-five human subjects were screened to ensure that they were in good health and that they did not have 
+allergies or sensitivities to cosmetic products, toiletries and/or topical drugs. They were further questioned to 
+5 
+ensure that they did not have any pre-existing or dormant dermatologic conditions, were not on chronic med- 
+ication, were not pregnant or nursing, participating in other clinical studies or were abusers of alcohol or drugs. 
+The subjects did not receive any experimental drugs within 30 days prior to admission into the study. 
+The compositions were applied in the following manner. Between about 0.2 and 0.3 ml of the test liquid 
+composition was applied to an occlusive clinical patch. A patch loaded with composition was applied to the left 
+10 
+or right upper back area. The patches were applied to the left or right scapular area starting from the top to 
+the bottom of the back and lateral to the midline. The position of the patches was marke dwith gentian violet. 
+Each test product was applied under an occlusive patch to the designated test site three times per week 
+(Mondays, Wednesdays and Fridays) for a total of six applications over a fourteen-day period. The patches 
+remained in place for 48 hours during the week (Monday and Wednesday applications) and for 72 hours during 
+15 
+the weekend (Friday applications). After each 48-hour or 72-hour occlusive period, the patches were removed 
+and the test sites graded according to the following scale: 
+0 
+- No visible reaction 
+0.5 
+- Minimal erythema 
+1 
+- Mild erythema 
+20 
+2 
+- Intense erythema 
+3 
+- Intense erythema + induration + vesicular erosion 
+4 
+- Intense erythema + induration + bullae 
+Each site was cleansed with sterile saline after which fresh test material and patches were applied to each 
+test site. If grade 3 or 4 irritation was observed on any test site, no further applications were made to the site 
+25 
+and the maximum score (4) was assigned for the duration of the study. The six daily scores for each test site 
+for each subject was summed to yield a total score for 14 days. A grand total for a test sample was obtained 
+by summing the 14-day totals for all subjects. Using 4 as the maximum daily score, the maximum score per 
+evaluation for 25 subjects would be 100 and the maximum grand total for 6 evaluations would be 600. Thus, 
+if the grand total scores are used, the minimum would be 0 with a maximum of 600. 
+30 
+In this test, three dose levels of glycolic acid (0%, 5% and 1 0%) were formulated with three doses of reti- 
+nol )0.00%, 0.15% and 0.30%) to produce nine test compositions. The test compositions contained the formu- 
+lation set forth in Table III, and the varying amounts of glycolic acid and retinol were added, with water to make 
+up the remainder of the formulation. Thus, the nine test compositions contained, respectively, 0% glycolic acid 
+and 0% retinol, 0% glycolic acid and 0.15% retinol, 0% glycolic acid and 0.30% retinol, 5% glycolic acid and 
+35 
+0% retinol, 5% glycolic acid and 0.15% retinol, 5% glycolic acid and 0.30% retinol, 10% glycolic acid and 0% 
+retinol, 10% glycolic acid and 0.15% retinol, and 10% glycolic acid and 0.30% retinol. The test compositions 
+were tested on 29 human subjects using the foregoing protocol to measure skin irritation. Two of the subjects 
+were excluded from analysis because they dropped out of the study. The results of the cumulative irritation 
+study were calculated by summing the six daily irritation ratings made over the 14-day study period for each 
+40 
+subject. Twenty-seven subjects were tested. The maximum score on any day for any subject was 4, therefore 
+the maximum possible indiex was 648 (27 x 4 x 6). The results of the study were as follows: 
+C u m u l a t i v e I r r i t a t i o n I n d i c e s 
+45 
+R e t i n o l 
+G l y c o l i c Acid 
+0.00% 
+0.15% 
+0.30% 
+0% 
+8.0 
+46.0 
+5 4 . 0 
+50 
+5% 
+7.0 
+28.0 
+4 7 . 5 
+m i 
+8.0 
+23.5 
+4 9 . 5 
+G l y c o l i c A c i d 
+0% 
+5% 
+10% 
+From these results it can be seen that glycolic acid, when tested without retinol, produced only minimal irritation 
+55 
+that was approximately equivalent to the base formulation without glycolic acid or retinol. When retinol was 
+tested alone, without glycolic acid, both doses (0.15% and 0.30%) produced more irritation than the base for- 
+mulation. The irritative effects of 0.15% and 0.30% retinol were about equivalent. The test demonstrates that, 
+at levels of 0.15% retinol, the addition of glycolic acid provided ameliorative effects: at a level of 5% glycolic 
+7
+
+=== Page 8 ===
+EP 0 631 772 A2 
+acid, irritation was reduced by about 40%: at a level of 1 0% glycolic acid, irritation was reduced by about 50%. 
+The cumulative irritation of 0.30% retinol compositions was essentially unchanged by the presence of glycolic 
+acid. 
+Thus, a preferred range of amounts of glycolic acid effective to ameliorate irritation at a retinol level of about 
+5 
+0.01 to about 0.15% is between about 0.01 and about 10% by weight of the composition. 
+The glycolic acid at the preferred pH range may be present in the formulation as a free acid or in the form 
+of a salt. It may be in the form of inorganic alkali salts such as sodium glycolate or may be in the form of an 
+organic salt such as an amine salt. 
+TABLE III 
+Ingredient 
+% w/w 
+Light Mineral Oil NF 
+25.00 
+15 
+Hydroxyoctacosanyl Hydroxystearate (Elfacos 26) 
+6.00 
+Sorbitol Solution 
+5.00 
+Methoxy PEG-22/Dodecyl Glycol Copolymer (Elfacos E200) 
+5.00 
+20 
+PEG-45/Dodecyl Glycol Copolymer (Elfacos ST9) 
+3.00 
+Stearoxytrimethylsilane 
+1.00 
+Dimethicone (50 cstk) 
+1 .00 
+25 
+Methylparaben, NF 
+0.30 
+Propylparaben, NF 
+0.20 
+Chemoderm 6401/B 
+0.15 
+30 
+Quaternium 15 (Dowicil 200) 
+0.10 
+Edetate Disodium, USP 
+0.10 
+Ascorbic Acid 
+0.10 
+35 
+Butylated Hydroxytoluene, NF 
+0.05 
+50% Aqueous NaOH 
+Q.S. pH 4.7 
+Purified Water, USP 
+Q.S. 100% 
+40 
+Claims 
+1. 
+In a skin care composition comprising retinol as an active ingredient, the improvement wherein the retinol 
+irritating properties of the composition are ameliorated by employing retinol irritation ameliorating 
+amounts of glycolic acid. 
+2. 
+The composition of claim 1 wherein said retinol ameliorating amounts is effective to ameliorate the irri- 
+tating properties of the composition as evidenced by transepidermal water loss and skin fold thickness 
+measurements. 
+3. 
+The composition of claim 1 wherein said glycolic acid is present in an amount of at least about 2% by weight 
+of the composition. 
+4. 
+A composition of claim 3 wherein said glycolic acid is present in a concentration of about 5 to about 10% 
+by weight of said composition. 
+5. 
+The composition of claim 1 wherein said retinol is present in a quantity of about 0.001 to 5% by weight
+
+=== Page 9 ===
+EP 0 631 772 A2 
+of the composition. 
+The composition of claim 1 wherein the oil phase of said composition is in weight ratio to the water phase 
+in a ratio from about 5:95 to about 99:1. 
+The composition of claim 6 wherein said composition further comprises a chemical stabilizing system se- 
+lected from the group consisting of: 
+a) a chelating agent and at least one oil soluble antioxidant; 
+b) a chelating agent and at least one water soluble antioxidant; and 
+c) antioxidant present in each of the oil and water phases of said emulsion. 
+A method of ameliorating the retinol irritating properties of a composition containing retinol comprising 
+topically administering a retinol irritation ameliorating amount of glycolic acid. 
+The method or claim 8 wherein said glycolic acid is administered in a composition comprising at least about 
+2% glycolic acid. 
+The method of claim 9 wherein said glycolic acid is administered in a composition comprising about 5% 
+to about 10% glycolic acid.
+

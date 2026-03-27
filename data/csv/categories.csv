@@ -1,0 +1,106 @@
+id,name,parent_id
+44,Makeup Products (non-permanent),
+18,Hair Care Products (non-coloring),
+59,Nail Products,
+74,Personal Care Products,
+106,Sun-Related Products,
+6,Bath Products,
+90,Skin Care Products ,
+12,Fragrances,
+111,Tattoos and Permanent Makeup,
+32,Hair Coloring Products,
+68,Oral Hygiene Products,
+82,Shaving Products,
+1,Baby Products,
+53,"Lip Color - Lipsticks, Liners, and Pencils",44
+25,Hair Shampoos (making a cosmetic claim) ,18
+46,Eyeliner/Eyebrow Pencils,44
+52,Lip Gloss/Shine,44
+48,Eye Shadow,44
+60,Artificial Nails and Related Products,59
+162,Mascara/Eyelash Products,44
+170,Hand Cleansers and Sanitizers,74
+107,Sunscreen (making a cosmetic claim) ,106
+168,UV Gel Nail Polish,59
+61,Basecoats and Undercoats,59
+166,Scrubs and Exfoliants,6
+50,Foundations and Bases,44
+65,Nail Polish and Enamel,59
+92,Anti-Wrinkle/Anti-Aging Products (making a cosmetic claim),90
+102,Skin Moisturizers (making a cosmetic claim),90
+91,Acne Products (making a cosmetic claim),90
+95,Facial Masks,90
+51,Lip Balm (making a cosmetic claim),44
+99,Skin Astringent (making a cosmetic claim),90
+100,Skin Bleaching (making a cosmetic claim) ,90
+165,Perfumes - Solids and Powders,12
+45,Blushes ,44
+9,Bubble and Foam Bath Products,6
+93,Skin Cleansers,90
+159,Body Washes and Soaps,6
+56,Rouges,44
+49,Face Powders,44
+103,Skin Toner (making a cosmetic claim),90
+157,Tattoos and Permanent Makeup,111
+98,"Powders (excluding aftershave, baby powder, and makeup face powder)",90
+26,Hair Styling Products,18
+67,Other Nail Products ,59
+97,Nighttime Skin Care,90
+109,Indoor Tanning Products,106
+58,Other Makeup Product,44
+35,Hair Dyes and Colors,32
+69,Teeth Cleaning Products,68
+66,Nail Polish and Enamel Removers,59
+57,Makeup Fixatives,44
+164,Perfumes - Oils and Lotions,12
+21,Hair Conditioners (rinse-out),18
+105,Other Skin Care Product,90
+86,Shaving Cream and other Beard Softeners,82
+62,Cuticle Softeners,59
+63,Nail Creams and Lotions,59
+101,Skin Fresheners,90
+13,Cologne,12
+77,Douches,74
+7,Bath Additives,6
+36,Hair Tints and Rinses (coloring),32
+71,Mouthwashes and Breath Fresheners,68
+3,Baby Shampoos,1
+161,Facial Cream,90
+42,Hair Bleaches,32
+34,Hair Conditioners (rinse-out),32
+20,Hair Conditioners (leave-in),18
+27,Hair Straighteners,18
+81,Other Personal Care Product ,74
+28,Permanent Waves and Wave Sets,18
+31,Other Hair Care Product,18
+96,Foot Powders and Sprays,90
+94,Depilatories,90
+55,"Paints (e.g. facial, body)",44
+41,Hair Lighteners with Color,32
+83,Aftershave Products,82
+78,Feminine Deodorants,74
+104,Sprays (excluding fragrances),90
+158,Baby Wash/Soap,1
+108,Suntan Enhancers,106
+80,Underarm Deodorants,74
+14,Perfumes/Eaux de Parfum,12
+4,Baby Skin Care,1
+16,Toilet Water/Eaux de Toilette,12
+11,Other Bath Products,6
+169,Hair Shampoos with Anti-Dandruff properties,18
+17,Other Fragrances,12
+38,Hair Shampoos (making a cosmetic claim) ,32
+33,Hair Conditioners (leave-in),32
+160,Diaper Rash Treatment,1
+167,Teeth Whitening Products,68
+5,Other Baby Products,1
+39,Hair Color Sprays (aerosol),32
+172,Makeup Preparations,44
+75,Antiperspirants (making a cosmetic claim),74
+89,Other Shaving Product,82
+163,Nail Decoration,59
+171,Products Related to Hair Coloring,32
+79,"Lubricants  (e.g. personal, sexual, massage oil)",74
+72,Other Oral Hygiene Product,68
+43,Other Hair Coloring Product,32
+110,Other Sun-Related Product,106

@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-head">
+  <div>
+    <h1 class="page-title">Data Explorer</h1>
+    <p class="page-sub">Exploration SQLite + suggestions tolérantes aux fautes (RapidFuzz) + recherche + traduction.</p>
+  </div>
+
+  <div class="page-actions">
+    <label class="field">
+      <span class="field-label">Langue</span>
+      <select id="lang" class="select">
+        <option value="fr" selected>FR</option>
+        <option value="en">EN</option>
+        <option value="ar">AR</option>
+      </select>
+    </label>
+
+    <label class="field">
+      <span class="field-label">Rows/page</span>
+      <select id="pageSize" class="select">
+        <option value="25">25</option>
+        <option value="50" selected>50</option>
+        <option value="100">100</option>
+      </select>
+    </label>
+  </div>
+</div>
+
+<section class="panel">
+  <div class="panel-head">
+    <div class="panel-title"><span class="dot dot-blue"></span>Connexion & Table</div>
+    <div class="panel-meta" id="metaLine">—</div>
+  </div>
+
+  <div style="padding:14px; display:flex; gap:12px; flex-wrap:wrap; align-items:flex-end;">
+    <label class="field" style="min-width:260px;">
+      <span class="field-label">Table</span>
+      <select id="tableSelect" class="select"></select>
+    </label>
+
+    <div style="flex:1; min-width:280px;">
+      <label class="field">
+        <span class="field-label">Recherche (typos + similaires)</span>
+        <input id="searchInput" class="input" placeholder="Ex: polyvinyl, ingrident (typo), brand..." />
+      </label>
+      <div class="muted" style="font-size:12px;margin-top:6px;">
+        Suggestions: API <code>/api/data/suggest</code> • Résultats: API <code>/api/data/search</code> (LIKE + RapidFuzz).
+      </div>
+    </div>
+
+    <button id="refreshBtn" class="btn btn-primary">Charger</button>
+  </div>
+
+  
+ 
+</section>
+
+<section class="panel" style="margin-top:12px;">
+  <div class="panel-head">
+    <div class="panel-title"><span class="dot dot-green"></span>Résultats</div>
+    <div class="panel-meta" id="tableMeta">—</div>
+  </div>
+
+  <div class="table-tools">
+    <button id="prevBtn" class="btn btn-ghost btn-small">◀ Prev</button>
+    <button id="nextBtn" class="btn btn-ghost btn-small">Next ▶</button>
+    <div class="muted" id="pageInfo" style="font-size:12px;"></div>
+  </div>
+
+  <div class="table-wrap" id="tableWrap"></div>
+</section>
+
+<script src="{{ url_for('static', filename='data_pro.js') }}"></script>
+{% endblock %}

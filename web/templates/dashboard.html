@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Dashboard</h1>
+<p>Bienvenue — ton serveur Flask fonctionne ✅</p>
+
+<div class="cards">
+  <a class="mini-card" href="/chat">
+    <div class="kpi-title">Chatbot</div>
+    <div class="kpi-value">RAG + Gemini</div>
+    <div class="kpi-sub">/chat</div>
+  </a>
+
+  <a class="mini-card" href="/data">
+    <div class="kpi-title">Data</div>
+    <div class="kpi-value">SQLite Explorer</div>
+    <div class="kpi-sub">/data</div>
+  </a>
+
+  <a class="mini-card" href="/dictionary">
+    <div class="kpi-title">Dictionary</div>
+    <div class="kpi-value">DD Tables</div>
+    <div class="kpi-sub">/dictionary</div>
+  </a>
+</div>
+{% endblock %}

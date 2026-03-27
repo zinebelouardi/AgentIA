@@ -1,0 +1,269 @@
+=== Page 1 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+© 2025 The Authors. This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0
+(https://creativecommons.org/licenses/by/4.0/).
+35
+Chemical Stability of Cosmetic Ingredients: Mechanisms of
+Degradation and Influencing Factors
+Ruobing Min
+Institute of Chemical Engineering, University of Southampton, Southampton, UK
+xy_bb20030203@163.com
+Abstract. Cosmetic ingredients are crucial for the chemical stability of products, which is a
+key factor to judge the safety and shelf life of the product. Cosmetic ingredients are
+classified based on their susceptibility to these processes, with important characteristics such
+as molecular structure, functional groups, and reactivity influencing their stability profiles.
+This paper examines the significance of chemical stability in cosmetic products and how it
+affects their efficacy and safety. It also analyzes both internal factors, such as molecular
+structure and formulation composition, and external conditions, including temperature, light,
+and packaging. The findings reveal that both internal and external factors impact chemical
+stability. High temperatures and extreme pH values might accelerate degradation, whereas
+light can produce photochemical processes that diminish ingredient efficacy. These factors
+can be decreased with proper packing, such as airtight or UV-blocking containers. how
+antioxidants, encapsulation technology, and intelligent packaging are key components of
+stability-boosting techniques. The durability of components like vitamin C may be
+significantly increased by antioxidants like vitamin E and ferulic acid, which stop oxidative
+destruction. Liposomes and microencapsulation are two encapsulation techniques that shield
+delicate substances like retinol from air and light. It has also been demonstrated that
+intelligent packaging solutions, including UV-blocking materials or self-regulating
+packaging, improve product stability. The stability of cosmetic ingredients plays an essential
+role in maintaining product quality, safety, and effectiveness throughout its shelf life.
+Keywords: Cosmetic stability, Degradation mechanism, Formulation strategy, Antioxidants,
+Encapsulation technology
+1. Introduction
+Early cosmetic formulations faced significant challenges with stability. For example, in the middle
+of the twenty-first century, products such as serums and creams are frequently damaged or separated
+because they lack the necessary packaging and preservation [1]. The failure to comprehend the
+methods of degradation caused a variety of problems, including inconsistent product performance
+and even safety. Since the cosmetic industry developed, so did the demand for scientific research in
+a strict way. Research started to concentrate on the reasons for the deterioration of ingredients and
+how to avoid them, which was the basis of contemporary cosmetic science.
+
+=== Page 2 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+36
+Current research has focused on a number of strategies to improve the stability of cosmetic
+ingredients. To find out how vitamin C is utilized in the body, Pinnell et al. examined how
+antioxidants like ferric acid and vitamin E stabilize it [2]. Their findings indicate that the
+combination of these antioxidants greatly lowers oxidation and increases the effectiveness of
+vitamin C in skincare formulations [3]. Their research found that the encapsulated retinol’s capacity
+to increase stability in UV light resulted in longer-lasting cosmetic product activity [4]. In order to
+improve packaging materials, they investigated the effect of intelligent packaging solutions such as
+UV-blocking containers on the protection of sensitive materials [3]. Their findings reveal that
+advanced packaging materials effectivley lessen light-induced deterioration and prolong the shelf
+life of products.
+This study uses a literature review method to analyse the chemical stability of cosmetic
+components. It systematically discusses degradation mechanisms, environmental and formulation
+factors influencing stability, and numerous enhancement methods, including antioxidants,
+encapsulation technologies, and intelligent packaging. This research gives valuable insights for
+cosmetic formulators aiming to create more durable and efficient products. Also, the results serve as
+a reference for future studies attempting to increase formulation procedures and sustainable
+packaging solutions in the cosmetic business.
+2. Chemical stability of cosmetic ingredients
+The chemical stability of cosmetic ingredients is mainly regulated by four primary degradation
+pathways, each involving different reaction mechanisms: oxidative degradation, hydrolysis,
+photodegradation, and thermal degradation.
+2.1. Oxidative degradation
+Oxidative degradation is a critical process that begins with the formation of radicals, particularly in
+unsaturated molecules. Allylic sites are especially susceptible to attack by molecular oxygen, leading
+to chain reactions that compromise ingredient integrity. In addition to unsaturated molecules,
+proteins and amide functionalities are also affected. For instance, vitamin C (L-ascorbic acid), a
+widely used active ingredient, rapidly oxidizes when exposed to air, turning yellow and losing
+efficacy unless stabilized properly [5]. This degradation follows a free radical mechanism involving
+the enediol structure of vitamin C.
+To protect oxidation-sensitive actives like retinoids, various strategies are employed. These
+include the use of radical quenchers like vitamin E and ferulic acid, oxygen-impermeable packaging,
+or anhydrous delivery systems.
+2.2. Hydrolytic degradation
+Hydrolysis primarily affects ester and amide bonds, with degradation rates strongly influenced by
+pH. Polysorbates, which are common non-ionic surfactants, undergo hydrolysis of their ester bonds
+in aqueous systems, particularly at extreme pH values [6]. This process compromises emulsion
+stability. While parabens remain relatively stable, other natural preservatives like essential oils can
+show inconsistent antibacterial efficacy unless carefully formulated [7].
+Stabilization of hydrolytically sensitive components often involves the use of pH buffers and
+moisture barrier technologies.
+
+=== Page 3 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+37
+2.3. Photodegradation
+Photochemical instability arises when UV light is absorbed by chromophores in a molecule, causing
+electronic transitions that lead to isomerization or bond dissociation. Retinol derivatives, in
+particular, are highly photosensitive and can degrade rapidly when exposed to UV light. Studies
+have shown that these compounds can experience nearly complete degradation within just 8 hours of
+UV exposure if not adequately protected [8].
+To safeguard photolabile ingredients, formulators can utilize opaque packaging that prevents light
+penetration and incorporate UV-absorbing excipients that shield sensitive molecules from harmful
+radiation.
+2.4. Thermal degradation
+Thermal degradation follows Arrhenius behaviour, meaning that as temperatures rise, the increased
+energy can facilitate bond cleavage and molecular rearrangement. Thermally sensitive compounds
+benefit from phase-stabilizing matrices designed to buffer against temperature changes.
+Thermal degradation follows Arrhenius kinetics, where elevated temperatures provide sufficient
+activation energy to break chemical bonds, leading to molecular rearrangement or decomposition.
+This process is particularly critical for heat-sensitive compounds such as peptides, enzymes, and
+certain antioxidants (e.g., coenzyme Q10). For instance, studies show that coenzyme Q10 loses over
+50% of its activity after exposure to temperatures above 40°C for 30 days due to the cleavage of its
+quinone ring structure [8].
+2.5. Structural considerations and integrated stabilization
+The chemical structure and classification of ingredients significantly influence stability. Rational
+stabilization requires a combination of physical barriers (e.g., packaging) and molecular-level
+treatments (e.g., chelation of pro-oxidant metals, steric hindrance of reactive sites). Advanced
+analytical tools such as electron paramagnetic resonance and high-resolution mass spectrometry
+enable accurate mapping of degradation pathways.
+Recent advancements in encapsulation—such as the use of silica or cyclodextrin matrices—have
+shown promise in protecting unstable actives while preserving their bioavailability [9]. A thorough
+evaluation of the entire formulation is essential, as ingredient interactions may lead to unexpected
+degradation risks.
+3. Factors affecting the chemical stability of cosmetic ingredients
+The stability of cosmetic components is influenced by a range of external and internal factors. These
+can be broadly divided into environmental variables and formulation interactions.
+3.1. Environmental variables
+Environmental conditions play a significant role in determining the degradation rate of cosmetic
+ingredients. Temperature fluctuations are a major destabilizing factor. Elevated temperatures
+increase molecular mobility and accelerate reaction rates, thereby enhancing the kinetics of
+degradation.
+pH extremes similarly influence ingredient stability. For example, niacinamide hydrolyses when
+the pH falls outside its optimal range of five to seven, leading to reduced efficacy [10].
+
+=== Page 4 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+38
+Light exposure is another critical concern. Transparent packaging allows UV radiation to
+penetrate the formulation, triggering photochemical reactions in sensitive compounds. This is
+particularly problematic for ingredients like vitamin C derivatives and retinoids. To address this,
+light-resistant or UV-blocking containers are often used to reduce light-induced degradation and
+prolong product shelf life.
+3.2. Formulation interactions
+Formulation interactions play a pivotal role in determining the chemical stability of cosmetic
+ingredients. The compatibility between active compounds, excipients, and the base matrix can either
+enhance or compromise product integrity. For example, cationic surfactants (e.g., cetrimonium
+bromide) may destabilize anionic actives (e.g., hyaluronic acid) through electrostatic interactions,
+leading to precipitation or reduced efficacy [10]. Similarly, the coexistence of antioxidants (e.g.,
+vitamin E) and metal ions (e.g., iron) in emulsions can accelerate oxidative degradation by
+catalyzing free radical formation, even in trace amounts [8].
+Key interaction mechanisms in formulation stability include solubility effects, pH-dependent
+reactions, and competitive oxidation. Poorly soluble actives, such as flavonoids, can crystallize over
+time in aqueous formulations, which alters their bioavailability. To mitigate this issue, solubilizers
+like cyclodextrins or ethoxylated emulsifiers can be employed to form inclusion complexes or
+micelles that enhance solubility. Additionally, pH-dependent reactions pose a risk, as combining
+ingredients with incompatible pH ranges can trigger degradation. For example, mixing acidic
+vitamin C (pH ~3.5) with alkaline peptides (pH ~7) can lead to hydrolysis of both compounds unless
+dual-chamber packaging is used to isolate them. Furthermore, competitive oxidation is a concern,
+particularly with polyunsaturated lipids like squalene, which compete with antioxidants for oxygen.
+This competition can deplete stabilizers and shorten the shelf life of formulations, necessitating
+either higher antioxidant concentrations or the use of oxygen-scavenging packaging to maintain
+product integrity. 4.Stability Enhancement Strategies
+Maintaining the stability of active cosmetic components is crucial for ensuring product efficacy
+and extending shelf life. Several well-established strategies have been developed to counteract
+specific degradation mechanisms.
+4. Stability enhancement strategies
+4.1. Antioxidant systems
+Synergistic antioxidant combinations have proven particularly effective for stabilizing oxidation-
+prone substances such as vitamin C (ascorbic acid). Pinnell et al. demonstrated that the combined
+use of vitamin C, ferulic acid, and vitamin E (α-tocopherol) significantly slows oxidative
+degradation and enhances photoprotection [2]. Ferulic acid stabilizes the intermediate radical form
+of vitamin C, while vitamin E terminates the oxidation chain reaction. Together, these antioxidants
+function as a complementary radical-scavenging system.
+4.2. Photostability enhancements
+Photolabile compounds like retinol present unique challenges. Barraza et al. reported that liposomal
+encapsulation offers substantial protection against UV-induced degradation [3]. Liposomes,
+composed of phospholipid bilayers, serve as physical barriers that absorb harmful UV light while
+
+=== Page 5 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+39
+maintaining the bioavailability of retinol. This technique has been successfully integrated into
+various anti-aging formulations.
+Additional photoprotection can be achieved using UV-blocking agents. Soni et al. found that the
+inclusion of UV absorbers in retinoid formulations led to a 70% reduction in photodegradation and
+significantly extended product shelf life [11]. These findings have led to the development of
+combined formulations containing both retinoids and physical sunscreens such as zinc oxide.
+4.3. Encapsulation technologies
+Encapsulation methods extend beyond retinoids to include other sensitive actives. Salvi et al.
+explored microencapsulation within polymer matrices, which protects against oxidative and
+hydrolytic degradation while enabling controlled release [4]. Encapsulation using silica or
+cyclodextrin carriers has shown effectiveness in stabilizing heat-sensitive compounds and
+maintaining their performance in modern formulations. For instance, in the cosmetics industry,
+encapsulated active ingredients can be released gradually over time, providing a sustained effect and
+enhancing the overall efficacy of the product.
+4.4. pH optimization and packaging innovations
+pH control is another key stabilization strategy. McLafferty highlighted that vitamin C remains most
+stable at pH values below 3.5 [12]. In contrast, peptides are best preserved in near-neutral conditions
+to avoid hydrolysis. Based on such findings, dual-chamber packaging systems have been developed
+to separate incompatible actives until the point of application, thereby preserving their stability and
+effectiveness. These advanced packaging solutions not only enhance the shelf - life of products but
+also ensure that the actives retain their potency when used, making them highly beneficial for
+formulations containing multiple delicate ingredients.
+5. Conclusion
+The chemical stability of cosmetic ingredients is important to ensure that products are both effective
+and safe for consumers. Cosmetic formulators may create products that maintain their integrity over
+time by understanding the various degradation mechanisms (oxidation, hydrolysis, and
+photodegradation) and the variables affecting these processes (temperature, pH, and packaging).
+Stability-enhancing strategies, like antioxidants, encapsulation, and intelligent packaging, play a
+significant function in protecting active compounds and safeguarding their efficacy. Using active
+compounds like antioxidants (like vitamin E and ferulic acid) and stabilizing techniques (such
+encapsulation and UV-blocking agents) can significantly extend the shelf life of cosmetically
+prepared items. The stability of cosmetics is greatly influenced by formulation and environmental
+factors, including temperature, light, and pH. Efficiency The development of improved methods has
+been successful in decreasing the amount of ingredient degradation, increasing the overall quality of
+the finished product. Methods such as encapsulation, intelligent packaging, and the application of
+stabilizers all help reduce the hazards related to ingredient breakdown.
+While this study provides an overview of the degradation mechanisms and stabilization strategies
+for cosmetic ingredients, it is not without limitations. First, the discussion is primarily based on
+existing literature, and lacks experimental validation or quantitative comparison of the effectiveness
+of different stabilization methods. Furthermore, most examples focus on widely studied actives like
+vitamin C and retinol, whereas emerging natural or biotechnologically derived ingredients receive
+
+=== Page 6 ===
+Proceedings of CONF-FMCE 2025 Symposium: AI and Machine Learning Applications in Infrastructure Engineering
+DOI: 10.54254/2755-2721/2025.MH25102
+40
+comparatively little attention. Incorporating more data on newer or less conventional actives would
+enrich the analysis.
+Looking ahead, future research can focus on several promising directions. One area is the
+development of biodegradable and sustainable packaging materials that not only preserve ingredient
+stability but also reduce environmental impact. The development of multifunctional excipients that
+provide pH buffering, photoprotection, and antioxidant activity all at once is another crucial avenue.
+Additionally, the integration of real-time analytical tools into product development could allow
+formulators to monitor stability under dynamic storage conditions. These advancements would
+support the creation of safer, longer lasting, and more environmentally conscious cosmetic products.
+References
+[1]
+Guan, Y., Liu, H., & Zhang, X. (2019). Stability analysis of retinol and its derivatives in cosmetic formulations:
+Degradation pathways and protection strategies. Journal of Cosmetic Science, 70(4), 215-230.
+[2]
+Pinnell, S. R., Yang, H., Omar, M., DeBuys, H. V., Foreman, K. E., & Wang, Y. (2001). Topical L-ascorbic acid:
+Percutaneous absorption studies and effect on photodamaged skin. Dermatologic Surgery, 27(2), 137-142.
+[3]
+Barraza, A. L., et al. (2003). Liposome Encapsulation to Enhance Stability and Efficacy of Retinol in Cosmetic
+Formulations. Cosmetic Science and Technology, 39(5), 1047-1053.
+[4]
+Salvi, D. A., et al. (2013). Encapsulation technology in the stabilization of active ingredients. Cosmetics &
+Toiletries, 128(10), 794-803.
+[5]
+Pinnell, S. R., et al. (2001). Stabilization of ascorbic acid in aqueous solutions with ferulic acid and α-tocopherol.
+Journal of the American Academy of Dermatology, 45(2), 178–182.
+[6]
+Maia Campos, P. M., Gaspar, L. R., & Camargo, F. B. (2019). Natural preservatives in cosmetics: Stability, efficacy,
+and regulatory considerations. Cosmetics, 6(1), 14.
+[7]
+Silva, P. B., Costa, R. C., & Ribeiro, A. P. (2021). Smart packaging solutions for enhancing cosmetic ingredient
+stability: A review of recent advancements. Cosmetics, 8(3), 23.
+[8]
+Jansen, R., Lopes, T., & Smith, B. (2020). Photodegradation of retinoids in skincare: Mechanisms and stabilization
+approaches. International Journal of Cosmetic Science, 42(2), 102-118.
+[9]
+González, C., & Rodríguez, M. (2007). Effects of water on the stability of cosmetic formulations. International
+Journal of Cosmetic Science, 29(4), 209–216.
+[10] Oblong, J. E., Gower, K. J., & Randall, V. A. (2014). The role of pH in niacinamide stability and its application in
+dermatology. Skin Pharmacology and Physiology, 27(6), 310-322.
+[11] Soni, M. G., et al. (2001). Photodegradation of retinoids and their stabilization in topical formulations. International
+Journal of Pharmaceutics, 221(2), 139-149.
+[12] McLafferty, D. (2004). The impact of pH on the stability of active ingredients in cosmetics. International Journal of
+Cosmetic Science, 26(1), 37–45.
+

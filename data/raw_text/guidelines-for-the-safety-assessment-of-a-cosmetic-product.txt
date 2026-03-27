@@ -1,0 +1,766 @@
+=== Page 1 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 1 of 16 
+ 
+ 
+ 
+ 
+ASEAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDELINES FOR THE 
+SAFETY ASSESSMENT OF 
+A COSMETIC PRODUCT
+
+=== Page 2 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 2 of 16 
+ 
+Table of Content: 
+ 
+ 
+ 
+Objective 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+1. General Approach 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+2. Ingredients 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+2.1. Ingredients to be avoided 
+ 
+ 
+5 
+ 
+2.2. Sources of toxicological data 
+ 
+ 
+6 
+ 
+2.3. Conditions of use and exposure 
+ 
+6 
+ 
+3. Safety Evaluation of finished products 
+ 
+7 
+ 
+4. Safety Claims 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+5. Responsibilities of the Safety Assessor 
+ 
+11 
+ 
+6. Raw Material responsibilities 
+ 
+ 
+ 
+13 
+ 
+6.1. Chemicals 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+6.2. Botanical Extracts 
+ 
+ 
+ 
+13 
+6.3. Animal Extracts 
+ 
+ 
+ 
+ 
+13 
+6.4. Fragrances 
+ 
+ 
+ 
+ 
+14 
+ 
+7. Manufacturer Responsibilities 
+ 
+ 
+ 
+14 
+ 
+8. Distributor Responsibilities 
+ 
+ 
+ 
+14 
+ 
+9. Regulator Responsibilities 
+ 
+ 
+ 
+14 
+ 
+10. References 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+
+=== Page 3 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 3 of 16 
+ 
+ 
+OBJECTIVE: 
+ 
+1. 
+The purpose of this Guideline is to help the Cosmetic Industry in assessing the safety of the 
+product as well as the Regulators in auditing the data contained in the Product Information File (PIF). 
+This guideline serves to highlight some of the important considerations in the safety assessment of 
+cosmetic product in line with Article 8 d of the ASEAN Cosmetics Directive 1 which requires an 
+“assessment of the safety for human health of the finished product, its ingredients, its chemical 
+structure and its level of exposure”. This safety assessment is to be performed by a qualified 
+professional defined as the “Safety Assessor”. 
+ 
+ 
+1. GENERAL APPROACH 
+ 
+ 
+2. 
+The provisions of Article 3 of the ASEAN Cosmetic Directive stipulates that A cosmetic 
+product put on the market must not cause damage to the human health when applied under normal or 
+reasonably foreseeable condition of use taking into account in particular of the product presentation, 
+its labeling, instruction for its use and disposal warning statements as well as any other information 
+provided by the manufacturer or his authorized agent or by any other person responsible for placing 
+the product on the market. 
+ 
+ 
+3. 
+Hence cosmetic products have to be safe both for consumers and, if relevant, for involved 
+professionals (e.g. hairdressers, beauticians, etc.). 
+ 
+ 
+4. 
+As far as skin is concerned, the two main untoward reactions to be avoided are skin irritation 
+and skin sensitisation 2. Cosmetic products are often applied on areas exposed to environmental factors. 
+Thus, care has also to be taken to avoid photo-induced reactions such as photoirritation and 
+photosensitisation 2. 
+ 
+5. 
+Products applied on the scalp or the face may come in contact with the eye. Consequently, eye 
+tolerance has to be addressed with optimal attention as a major component of the safety assessment for 
+a cosmetic product. 
+ 
+6. 
+Systemic toxicity that may result from percutaneous absorption or from accidental (children) or 
+reasonably foreseeable (e.g. oral hygiene products, lipsticks) oral intake should also be considered. 
+ 
+7. 
+Ensuring the safety of a cosmetic product requires a global approach throughout the life of the 
+product from the choice of raw materials to the marketing follow-up. A number of issues have to be 
+taken into account, including:
+
+=== Page 4 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 4 of 16 
+ 
+• Applying Cosmetic Good Manufacturing Practice Guidelines (ASEAN Cosmetic Directive - 
+Technical Documents) or approved equivalent; 
+ 
+• Careful selection of cosmetic ingredients, making sure that they will be safe at a given 
+concentration in a given finished product; 
+ 
+• Checking local tolerance of the finished product; 
+ 
+• Selection of adequate packaging to maintain the quality of the product and to avoid, as far as 
+possible, risks of misuse or accident; 
+ 
+• Quality control, mainly microbiological and chemical; 
+ 
+• Stability studies e.g. to evaluate shelf life, preservative effectiveness (challenge test), 
+compatibility of the product and the packaging, etc; 
+ 
+• Appropriate labelling - presentation of the product, instructions for use and disposal, warnings 
+(if relevant) and appropriate action to take in case of accident; 
+• Adequate procedures in case of side effects with the marketed product - case-by-case treatment, 
+appropriate medical, dermatological, ophthalmological etc., advice as necessary, follow-up of 
+the product on the market and consumer comments, information storing etc. In case of Serious 
+Adverse Event, the procedure must be identical to the ASEAN Cosmetic Committee approved 
+Guidelines (Annex I) 
+• Ensuring corrective action/ follow-up, if any visible product change or adulteration is advised 
+from the market place; 
+ 
+ 
+8. 
+Although it is not possible to attain zero risk or to obtain absolute safety in any kind of human 
+activity, including cosmetology, reasonable efforts have to be made to reduce the risk from cosmetic 
+products to the minimum, according to the state of the art at the time. 
+ 
+9. 
+There is no formalistic approach to the safety evaluation process. The actual process will vary 
+from product to product according to the novelty of the product composition and to the relevance and 
+adequacy of information available. However, as a general rule, the major basis for safety evaluation is 
+provided by considering the toxicological profile of its ingredients 3. 
+ 
+10. 
+From a scientific point of view, in almost all cases finished product testing does not require the 
+use of toxicological tests in animals. In general, all questions which are posed at this stage can be 
+answered by utilising other information sources, including human data from skin compatibility tests 
+ethically performed on the skin of human volunteers 4.
+
+=== Page 5 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 5 of 16 
+2. INGREDIENTS 
+ 
+ 
+11. 
+Cosmetic ingredients are mostly chemicals and often mixtures of chemicals of synthetic origin 
+or natural extracts. The careful selection of ingredients is the key issue for ensuring the safety of the 
+finished product. 
+ 
+12. 
+The structure of the chemical determines its chemical and biological reactivity e.g., Barratt, 
+1995 5. This has to be considered from two points of view: cosmetic interest and safety. Other 
+considerations are the degree of chemical purity, the possible interactions with other ingredients in the 
+formulation and potentiation of skin penetration. In general, the presence of impurities is technically 
+unavoidable. But these impurities have to be of no significant toxicological relevance in the finished 
+product. Particular attention should be taken to the possibility of interaction between impurities (e.g. 
+formation of nitrosamines) and the presence of pesticide residues, toxic metals and/or transmissible 
+spongiform encephalopathies (TSE) in ingredients of botanical origin or extracted from animals. 
+ 
+13. 
+Based on the state of knowledge, possible interactions between ingredients with potential safety 
+relevance have to be considered. Influence on skin penetration may also be of importance, especially 
+for sensitisation and systemic risks 6. Skin penetration can be assessed using in vitro methods 6. 
+Determination of allergic potential may also require testing of ingredients formulated with suitable 
+vehicles. 
+ 
+14. 
+On the other hand, the safety-in-use of an ingredient largely depends on the exposure 
+conditions (type of formulation, concentration, frequency and duration of contact, body area involved, 
+effect of the sun, etc.) taking into account normal conditions of use and foreseeable misuse. 
+ 
+ 
+2.1 INGREDIENTS TO BE AVOIDED 
+ 
+15. 
+For each raw material, it is necessary to check whether it is covered by current legislation and, 
+if so, whether the proposed usage is within the prescribed parameters. The following ingredients must 
+be excluded: 
+ 
+• Ingredients prohibited under the ASEAN Cosmetics Directive in Annex II 1; 
+• Ingredients restricted under the Cosmetics Directive when used beyond the allowed 
+conditions and restrictions laid down in Annex III 1; 
+• Ingredients with toxicological data incompatible with the intended concentration and use; 
+• Ingredients which do not have sufficient toxicological data and/or safety in use experience; 
+• Ingredients which are not properly characterized either chemically or through the extraction 
+process for natural extracts 
+• For colouring agents, preservatives and/or UV filters, ingredients must be substances listed 
+in Annexes IV, VI or VII respectively, within the limits and under the restrictions laid down 
+in these annexes 
+ 
+16. 
+Data to be taken into consideration, besides those directly relating to toxicity, include positive 
+identification of the ingredient, potential impurities of relevance, physico-chemical properties and
+
+=== Page 6 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 6 of 16 
+analytical chemistry, potential interaction with other ingredients of the formulation and possible role in 
+skin penetration. 
+ 
+17. 
+The toxicological profile of a raw material is obtained by analysing available data, published or 
+not, concerning the raw material. These data may include results of in vitro, in vivo and clinical testing, 
+as well as results of epidemiological studies where available. 
+It is clear that new ingredients or ingredients used in a novel application require particular attention. 
+ 
+ 
+2.2 SOURCES OF TOXICOLOGICAL DATA 
+ 
+18. 
+The main sources of toxicological data on ingredients are the suppliers. Raw material 
+manufacturers have to comply with national legislation on chemicals / dangerous substances 
+(occupational safety, transport, packaging and labelling). Most effort should be made to collect 
+toxicological data and other relevant information from the suppliers. It may be necessary to encourage 
+the supplier to conduct additional studies. Because these data can be needed for regulatory purposes 
+other than the Cosmetics Directive, the use of alternative (non-animal) test methods is restricted to 
+those which are generally accepted (e.g. OECD guidelines). 
+ 
+19. 
+Other sources of toxicological data may be obtained from: 
+ 
+• Scientific literature, databases (e.g. Toxline, Medline), reports issued by the US Cosmetic 
+Ingredient Review (CIR) program, the EU Scientific Committee on Consumer Products 
+(SCCP) or the ASEAN Cosmetic Scientific Body (ACSB), the Research Institute for 
+Fragrance Materials (RIFM) monographs, reports by ECETOC, NTP, BIBRA, etc.; 
+ 
+• Safety Data Sheets; 
+ 
+• In-house experience with the particular ingredient and cosmetic products containing it; 
+ 
+• Expert judgment based on similarities with chemically related substances. 
+ 
+20. 
+Ingredients listed in Annexes III to VII of the ASEAN Cosmetics Directive do not need 
+supporting evidence provided that they are used as specified in the Annexes. In the case of substances 
+in Annex VI in which concentrations higher than those specified may be used for other functions, 
+supporting information is likely to be necessary. 
+ 
+21. 
+The composition of fragrances and flavours is generally not available to the cosmetic 
+manufacturer and use should be made of the safety evaluation as well as conformity to the latest 
+International Fragrance Association (IFRA) Guidelines which have to be provided by the supplier 7. 
+ 
+ 
+2.3 CONDITIONS OF USE AND EXPOSURE 
+ 
+22. 
+Evaluation of the safety of ingredients is certainly not adequate as a stand-alone procedure but 
+has to include considerations of exposure (magnitude, route, duration, frequency, etc.) 3
+
+=== Page 7 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 7 of 16 
+23. 
+The following parameters have to be considered8: 
+ 
+• Class of cosmetic product(s) in which the ingredient is used; 
+• Method of application (e.g. rubbed-in, sprayed, applied and washed off, etc.); 
+• Concentration of ingredient in product; 
+• Quantity of product used for each application; 
+• Frequency of application; 
+• Total area of skin contact; 
+• Site of contact (e.g. mucous membrane, sunburnt skin); 
+• Duration of contact (e.g. rinse-off products, leave-on products); 
+• Reasonably foreseeable misuse which may increase exposure; 
+• Type of consumers (e.g. children, people with sensitive skin); 
+• Projected number of consumers; 
+• Application to skin areas exposed to sunlight; 
+• Quantity likely to enter the body. 
+ 
+This last point, which relates to systemic availability, is a critical issue in safety evaluation - the 
+information is mainly provided by percutaneous absorption data.
+
+=== Page 8 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 8 of 16 
+3. SAFETY EVALUATION OF 
+FINISHED PRODUCTS 
+ 
+ 
+24. 
+The assessment of the safety of any cosmetic product clearly relates to the manner of use. This 
+factor is most important since it determines the amount of substance which may be absorbed through 
+the skin or mucous membranes, or ingested or inhaled. 
+ 
+25. 
+As mentioned above, the main sources of information are the toxicological characteristics of 
+ingredients and the available human experience (including market experience, beauticians, factory 
+workers, etc.) with similarly composed products. Each ingredient has to be considered carefully. 
+Particular attention should be paid to new and novel ingredients. Open questions of safety assessment 
+are defined by expert judgement in each individual case after careful review of all available 
+information. 
+ 
+26. 
+In general, the potential of a cosmetic product for sensitisation, genotoxicity and all other types 
+of systemic (toxic) effects will be evaluated on the basis of the properties of the ingredients. Adequate 
+consideration of human exposure is, however, of paramount importance for the interpretation of 
+available data. This involves an examination of the potential role of the vehicle. This holds particularly 
+true for percutaneous absorption or quantitative data concerning any other route of entry into the 
+systemic circulation. The question of possible interaction between different ingredients will usually be 
+evaluated on the basis of experience (similarities, published data on related compounds/mixtures, 
+theoretical considerations, etc.) and may be controlled using in vitro testing and/or skin compatibility 
+tests. 
+ 
+27. 
+For assessing the safety-in-use of a finished product, especially the local tolerance, it can be 
+very useful to compare it with other formulae successfully marketed by the company. 
+ 
+28. 
+If the new product is a simple variant of an existing product, or if the formulation only consists 
+of raw materials or ingredients previously used in similar products at common use levels, then it is 
+likely that no additional safety data will be needed. 
+ 
+29. 
+If raw materials are used in new ways, then additional safety data may be required by the safety 
+assessor. 
+ 
+30. 
+If novel raw materials or raw materials new to the company are to be used, then more detailed 
+information will be necessary. 
+ 
+31. 
+Local tolerance largely depends on the whole formulation. Consequently, even with known and 
+safe in- use ingredients, it may be necessary to check the skin compatibility of a new formulation by 
+appropriate testing. 
+ 
+32. 
+When exhaustive analysis of toxicological data on ingredients appears insufficient to define 
+with certainty the local tolerance of the finished product, additional experiments can be performed in 
+vitro and/or in human volunteers.
+
+=== Page 9 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 9 of 16 
+33. 
+In vitro testing may be carried out to complement available information with the necessary use 
+of appropriate benchmarks. For ocular safety, methods such as those listed below are available: 
+ 
+• BCOP - Bovine Cornea Opacity and Permeability Test; 
+• FLT or TEP - Fluorescein Leakage Test or Trans Epithelial Permeability 
+• HET-CAM - Hen’s Egg Test - Chorioallantoic Membrane; 
+• RBC - Red Blood Cell Test; 
+• TEA - Tissue Equivalent Assay. 
+ 
+34. 
+Skin compatibility or tolerance may be checked using reconstructed skin models and/or 
+ethically conducted trials on human volunteers. 
+ 
+35. 
+Clinical trials in man should be based on the principles of Good Clinical Practice (GCP) such 
+as that of the EU. The following type of tests may be performed: 
+ 
+• Open epicutaneous application (single or repeated); 
+• Closed epicutaneous application (single or repeated); 
+• Controlled application tests; 
+• 
+Further testing may involve in-use tests and /or market tests.
+
+=== Page 10 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 10 of 16 
+4. SAFETY CLAIMS 
+ 
+ 
+36. 
+If a safety claim is to be made, e.g., “dermatologically tested”, it has to be supported by 
+adequate evidence. In most cases, appropriate human testing on the finished product will be necessary 
+rather than animal testing. The testing must meet all necessary ethical requirements for a clinical trial 9; 
+10. One important prerogative in this respect is the safety assessment by a suitably qualified and 
+experienced person before the trial starts4.
+
+=== Page 11 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 11 of 16 
+5. RESPONSIBILITIES OF THE SAFETY ASSESSOR 
+ 
+ 
+37. 
+The person in charge of assessing the safety of the product is called the safety assessor. 
+The safety assessor is responsible for determining: 
+ 
+• Whether or not the ingredients present in the formula meet the requirements of the legislation 
+in respect of the concentration for authorised substances, absence of substances prohibited by 
+the law and, more generally, in respect of all legal requirements; 
+ 
+• Whether or not particular endpoint(s) have to be considered for a given ingredient; 
+ 
+• Whether the data available are relevant and sufficient; 
+ 
+• Whether or not interactions of toxicological relevance and/or modifications to penetration are 
+likely to occur; 
+ 
+• Whether or not complementary data are needed either on ingredients or on the finished product. 
+ 
+38. 
+A modern approach to safety assessment is based on a thorough analysis of available data and 
+conditions of exposure. Ideally, the development of the formulation should take into account these 
+elements from the start by a close collaboration between safety assessor and formulator. 
+ 
+39. 
+A proper choice of ingredient at an adequate concentration level is sufficient to avoid the major 
+risks (e.g. genotoxicity, carcinogenicity, systemic toxicity) and also to avoid, to a large degree, 
+sensitisation. Testing on finished products is unnecessary in most cases to assess these risks, provided 
+potential interactions between ingredients and role of vehicle are considered. 
+In most cases, the knowledge of all information available is sufficient to assess the safety of finished 
+products. In the case of totally new ingredients, new combinations of ingredients or new formulation 
+processes without safety-in-use experience, additional testing may be needed. 
+However, in all cases, all information on ingredients and formulations should be made accessible by 
+the suppliers and formulator to the safety assessor to ensure an adequate safety assessment. 
+ 
+40. 
+The Safety Assessor should possess qualification in relevant fields for example a diploma in the 
+field of pharmacy, toxicology, dermatology, medicine or a similar discipline and be suitably trained in 
+the safety assessment of cosmetics. 
+ 
+41. 
+The role and responsibility of the safety assessor have to be emphasised. It is in the interest of 
+the company to select a person knowledgeable in the field of safety evaluation applied to cosmetics 
+and who is responsible and ethical. 
+ 
+42. 
+The Safety Assessor does not need to be an employee of the company and can belong to an 
+external organization or institution, as long as he has the required qualification.
+
+=== Page 12 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 12 of 16 
+43. 
+The safety assessor must: 
+ 
+• Have recognised competence and ethics in the field; 
+ 
+• Have access both to the toxicological and to the analytical information pertinent from a safety 
+view point. Some questions are likely to be raised by the safety assessor concerning, e.g. purity 
+of raw materials, impurity profile - if available, and control procedures applied, detailed 
+information on a test mentioned or referred to by the supplier, quantitative analysis of an 
+impurity with a potential toxicological relevance, etc; 
+ 
+• 
+Not be involved with the commercial aspects related to the product; 
+ 
+44. 
+Safety assessment may require human testing to check skin compatibility of both cosmetic 
+ingredients and finished products. Any such trials have to be carried out following the appropriate 
+ethical requirements 9; 10. 
+ 
+45. 
+The judgment of the safety assessor relies on: 
+ 
+• The knowledge and experience of toxicological properties and safety-in-use of the known 
+ingredients; 
+ 
+• The history of safety-in-use of products containing the same or similar ingredients; 
+ 
+• The expert judgment of the set of data available on an unknown, new or novel ingredient; 
+ 
+• If necessary, the results of additional data obtained either on one or more ingredients or on the 
+finished product. 
+ 
+46. 
+The safety assessor may conclude: 
+ 
+• The product is safe as such without special warnings or precautions; 
+ 
+• The product is safe provided a given type of packaging is used or provided a warning is added 
+or the mode of use and usage instructions are defined more precisely or provided a 
+complementary test with favourable results is performed; 
+ 
+• The product is not safe for the proposed use; 
+ 
+• That available data are not sufficient to determine whether or not the product will be safe and 
+that further studies need to be carried out to obtain the required information; 
+ 
+• Specific safety claim(s) may or may not be used. 
+ 
+47. 
+A product cannot be marketed if the conclusion of the safety assessor is that the product may 
+not be marketed safely under the normal or reasonably foreseeable conditions of use. 
+Recommendations by the safety assessor which are relevant for the safety-in-use of the product have to
+
+=== Page 13 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 13 of 16 
+be followed. They are part of the safety statement the assessor signs which should be presented, 
+together with the qualifications of the safety assessor, to the relevant regulatory authorities (inspectors) 
+when required. 
+ 
+48. 
+Selecting the safety assessor thus appears to be a key issue for the manufacturer of cosmetic 
+products. It is not only a legal issue: it may also have importance for other aspects such as, for example, 
+the image of the company as well as product liability implications. 
+ 
+ 
+6. Raw Material Supplier Responsibilities 
+ 
+1. Chemicals 
+ 
+49. 
+Provide its customers with adequate information as to the safety of the ingredients supplied: 
+• Physical/chemical/microbiological specifications-purity 
+• Absence of Annex II ingredients beyond unavoidable traces (e.g. heavy metals) 
+• Toxicity studies: 
+o Acute toxicity 
+o Dermal absorption 
+o Skin (and eye) irritation 
+o Mucous membrane irritation (if necessary) 
+o Skin sensitisation 
+o Sub-chronic toxicity 
+o Mutagenicity 
+o Photo toxicity and photo mutagenicity (if necessary) 
+o Human data (if available) 
+ 
+ 
+2. Botanicals Extracts: 
+ 
+50. 
+Provide its customers with adequate information as to the safety of the ingredients supplied: 
+• Proper identification of the plant/part used 
+• Physical/chemical/microbiological specifications-purity 
+• Pesticide level 
+• Absence of Annex II ingredients beyond unavoidable traces (e.g. heavy metals) 
+• Toxicity studies: 
+o Skin irritation – sensitisation 
+o Photo toxicity – photo sensitisation (if necessary) 
+o Mutagenicity 
+ 
+3. Animal Extracts: 
+ 
+ 
+51. 
+Provide its customers with adequate information as to the safety of the ingredients supplied: 
+• Proper identification of the animal/part used
+
+=== Page 14 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 14 of 16 
+• Physical/chemical/microbiological specifications-purity 
+• Absence of Transmissible Spongiform Encephalopathy 
+• Absence of Annex II ingredients beyond unavoidable traces (e.g. hormones, antibiotics, etc) 
+• Toxicity studies: 
+1. Skin irritation – sensitisation 
+2. Photo toxicity – photo sensitisation (if necessary) 
+3. Mutagenicity 
+ 
+ 
+ 
+ 
+4. Fragrances and flavours: 
+ 
+52. 
+Provide its customers with adequate information as to the safety of the fragrances supplied: 
+• Certificate of compliance with latest IFRA Guidelines 
+• Maximum safe concentration depending of the product type 
+ 
+ 
+7. Manufacturer Responsibilities 
+ 
+53. 
+Including: 
+ 
+• 
+Careful selection of cosmetic ingredients, making sure they will be safe at a given 
+concentration in a given finished product 
+• 
+Checking local tolerance of the finished product 
+• 
+Selection of adequate packaging to maintain the quality of the product and to avoid, as far as 
+possible, risks of misuse or accident 
+• 
+Applying ASEAN Cosmetic Good Manufacturing Practices 
+• 
+Quality control, mainly microbiological and chemical 
+• 
+Appropriate labelling: presentation of the product, instruction for use and disposal, warnings (if 
+relevant) and appropriate actions to take in case of accident 
+• 
+Adequate procedures in case of side effects with the marketed product 
+• 
+Ensures corrective action, follow-up if visible product change or adulteration is advised from 
+the market place 
+• 
+Proper selection of the Safety Assessor 
+ 
+8. Distributor Responsibilities 
+ 
+54. 
+Including: 
+ 
+• 
+Make sure the manufacturer has the adequate systems to ensure product safety (including GMP) 
+• 
+Collect information on post marketing experience and transfer such information to the 
+manufacturer on a timely basis, determine trends and keep adequate records 
+• 
+Report any Serious Adverse Event to the Authorities
+
+=== Page 15 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 15 of 16 
+ 
+9. Regulator Responsibilities 
+ 
+55. 
+Including: 
+ 
+• 
+Ensure public health and safety 
+• 
+Audits samples from the market 
+• 
+Audit PIF 
+• 
+Inspection of company premises 
+• 
+In case of Serious Adverse Event collaborate with the Industry to take proper actions 
+• 
+In case of product testing showing potential risk for human health or adulterated product, take 
+appropriate measures to remove the product from the market, communicate with the public and 
+take appropriate action on the responsible company/person
+
+=== Page 16 ===
+ASEAN Guidelines for safety evaluation of cosmetic products - FInal 
+ 
+Page 16 of 16 
+10. REFERENCES 
+ 
+1. ASEAN Cosmetic Directive 
+2. Dooms-Goossens, Cosmetics as causes of allergic contact dermatitis, Cutis, 52, pp. 316-320 
+3. Loprieno, N., Guidelines for safety evaluation of cosmetic products in the EC countries, Fd. 
+Chem. Toxic., 30, pp. 809-815 
+4. Human testing for skin compatibility of products or skin tolerance of potentially irritant 
+cosmetic ingredients, SCAAT statement (ref 96/304), Colipa, 1996, Brussels 
+5. Barratt M.D., Quantitative Structure Activity Relationships for skin corrosivity of organic acids, 
+bases and phenols, Toxicology Letters,1995, 75, pp. 169-176 
+6. Howes, D., Guy R., Hadgraft J. et al, Methods for assessing percutaneous absorption, ATLA, 
+24, pp. 81 - 106 
+7. Colipa/EFFA, Guidelines on the exchange of information between fragrance suppliers and 
+cosmetic manufacturers, Colipa, 1995 
+8. SCCNFP Notes of Guidance for the Testing of Cosmetic Ingredients and their Safety 
+Evaluation, 5th revision 
+9. World Medical Association, Declaration of Helsinki, 1964 & 1989(revised), Fernay Voltaire, 
+France 
+10. CIOMS/WHO, International ethical guidelines for biomedical research involving human 
+subjects, 1993, CIOMS, Geneva
+

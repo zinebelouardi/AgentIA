@@ -1,0 +1,10 @@
+{
+  "index_type": "IP",
+  "dim": 384,
+  "n_vectors": 7972,
+  "files": {
+    "index": "faiss.index",
+    "metadata": "metadata.jsonl",
+    "id_map": "id_map.jsonl"
+  }
+}
