@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table des matières
+## Table des matières
 
 - [Vue d'ensemble](#vue-densemble)
 - [Structure du projet](#structure-du-projet)
