@@ -109,7 +109,7 @@ cosmetovigilance-ia/
 
 
 
-**Exemples de questions supportées : Assistant IA — Pipeline RAG **
+ ## Exemples de questions supportées : Assistant IA — Pipeline RAG 
 
 ```
 "Quels produits contiennent du Niacinamide ?"
