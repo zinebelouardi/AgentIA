@@ -32,51 +32,6 @@ CosmetoVigilance IA est un système end-to-end conçu pour :
 |  Analyse | Construire un Data Warehouse et un dashboard décisionnel |
 |  IA | Développer un assistant capable de répondre à des questions métier |
 
-
-
-## Structure du projet
-
-```
-cosmetovigilance-ia/
-│
-├── main.py                  ← Point d'entrée principal
-├── requirements.txt         ← Dépendances Python
-├── README.md
-│
-├── config/                  ← Configuration globale (API keys, chemins)
-│
-├── data/                    ← Données brutes et fichiers propres
-│   ├── raw/                 ← Sources originales (CSV, PDF)
-│   └── clean/
-│       ├── cosmetics_clean.csv
-│       ├── ingredients_clean.csv
-│       └── incidents_clean.csv
-│
-├── ingestion/               ← Scripts d'extraction et nettoyage
-│   ├── scraper.py           ← Scraping & parsing PDF (PyMuPDF)
-│   ├── cleaner.py           ← Uniformisation, correction d'incohérences
-│   └── llm_enricher.py      ← Auto-complétion via Gemini / Qwen
-│
-├── database/                ← Modélisation et gestion SQLite
-│   ├── schema.sql           ← DDL de la base
-│   ├── db_manager.py        ← CRUD et requêtes
-│   └── cosmetovigilance.db  ← Base SQLite générée
-│
-├── rag/                     ← Pipeline RAG (Retrieval-Augmented Generation)
-│   ├── indexer.py           ← Construction de l'index FAISS
-│   ├── retriever.py         ← Recherche fuzzy + sémantique
-│   └── generator.py         ← Génération de réponse via LLM
-│
-├── llm/                     ← Wrappers LLM (Gemini, Qwen)
-│   └── gemini_client.py
-│
-├── chatbot/                 ← Interface de l'assistant IA
-│   └── assistant.py
-│
-└── web/                     ← Dashboard Streamlit
-    └── app.py
-```
-
 ---
 
 ## Pipeline de données
