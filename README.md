@@ -2,23 +2,6 @@
 
 > **Plateforme intelligente de surveillance cosmétique** — intégration de données multi-sources, base de données relationnelle, Data Warehouse, pipeline RAG et assistant IA pour la CosmetoVigilance.
 
-
-
----
-
-## Table des matières
-
-- [Vue d'ensemble](#vue-densemble)
-- [Structure du projet](#structure-du-projet)
-- [Pipeline de données](#pipeline-de-données)
-- [Modèle de données](#modèle-de-données)
-- [Recherche avancée](#recherche-avancée)
-- [Assistant IA — Pipeline RAG](#assistant-ia--pipeline-rag)
-- [Dashboard](#dashboard)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Stack technique](#stack-technique)
-
 ---
 
 ## Vue d'ensemble
