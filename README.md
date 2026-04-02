@@ -121,4 +121,4 @@ python main.py --chat
  ## CHATBOT CosmetoVigilance 
  ![Architecture](chat.png)
 
-> *Projet réalisé dans le cadre d'un cursus IA & Data Engineering — Décembre 2025 en Équipe*
+> *Projet réalisé dans le cadre d'un cursus IA & Data Warehouse — Décembre 2025 en Équipe*
